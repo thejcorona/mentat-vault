@@ -1,7 +1,7 @@
 ---
 entity: Lumra
 type: project
-memory_count: 15
+memory_count: 17
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,12 +10,14 @@ tags:
 
 # Lumra
 
-*Project · 15 memories*
+*Project · 17 memories*
 
 
 ## Project
 
 - **2026-04-21** — Lumra cEDH primer obtained and studied. Primer clarifies core deck mechanics: (1) Block Buster combo is cast Lumra → sacrifice lands in response to ETB → lands return, generate mana → repeat; (2) Comm → [[2026-04-21-14-22-03-Lumra-cEDH-primer-obtained-and-studied-Primer-cla]]
+- **2026-04-21** — Jackson is systematically building a comprehensive Lumra cEDH combo document with Mentat. Approach: pull every card in the 99 from Scryfall, verify actual mechanics and alternate set printings, then m
+- **2026-04-21** — Jackson needs the complete Lumra cEDH decklist pasted in full so Mentat can systematically pull every card from Scryfall, verify mechanics including alternate set names (especially Final Fantasy cross
 - **2026-04-21** — Jackson is asking Mentat to systematically verify every card in his Lumra cEDH decklist by pulling actual card text from Scryfall, including alternate set names (especially Final Fantasy crossover car → [[2026-04-21-14-57-17-Jackson-is-asking-Mentat-to-systematically-verify]]
 - **2026-04-21** — Jackson wants a running list of all combo lines in his Lumra cEDH deck, organized and documented. He's experiencing cognitive overload tracking them mentally and needs external organization. Wants Men → [[2026-04-21-14-53-19-Jackson-wants-a-running-list-of-all-combo-lines-in]]
 - **2026-04-21** — Corrected understanding of Blossoming Tortoise: NOT an untap/tutor piece. Actual role: (1) reduces land activation costs by {1} (directly reduces Lumra's ETB cost), (2) graveyard land recursion on ETB → [[2026-04-21-14-22-05-Corrected-understanding-of-Blossoming-Tortoise-NO]]
@@ -39,10 +41,10 @@ tags:
 
 ## Related
 
-- [[Scryfall]] *(5)*
-- [[Mentat]] *(4)*
+- [[Scryfall]] *(7)*
+- [[Mentat]] *(6)*
 - [[divinerage01]] *(1)*
 - [[Build a Bear Workshop]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 15:02 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 15:06 UTC*
