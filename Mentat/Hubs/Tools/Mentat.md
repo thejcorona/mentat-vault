@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 2
+memory_count: 3
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 2 memories*
+*Tool · 3 memories*
 
 
 ## Preference
@@ -19,11 +19,12 @@ tags:
 
 ## Context
 
-- **2026-04-21** — Jackson used Mentat to generate a Word document from a Pokémon Champions tournament search result, including active tournament table, player counts, and metagame snapshot. He plans to revisit the site
+- **2026-04-21** — Jackson used Mentat to generate a Word document from a Pokémon Champions tournament search result, including active tournament table, player counts, and metagame snapshot. He plans to revisit the site → [[2026-04-21-13-29-41-Jackson-used-Mentat-to-generate-a-Word-document-fr]]
+- **2026-04-21** — Jackson doesn't have access to previous research documents in the current chat session and needs to paste content directly for Mentat to tidy it up.
 
 ## Related
 
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 13:29 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 13:31 UTC*
