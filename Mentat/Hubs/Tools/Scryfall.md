@@ -22,7 +22,7 @@ tags:
 
 ## Preference
 
-- **2026-04-21** — Jackson's pattern of demanding accuracy before proceeding with complex projects: requires verification of every factual claim (card mechanics, game rules, reference accuracy) via primary source (Scryf
+- **2026-04-21** — Jackson's pattern of demanding accuracy before proceeding with complex projects: requires verification of every factual claim (card mechanics, game rules, reference accuracy) via primary source (Scryf → [[2026-04-21-14-57-18-Jacksons-pattern-of-demanding-accuracy-before-pro]]
 - **2026-04-21** — Jackson's pattern of demanding accuracy before proceeding: when building the Lumra combo document, Mentat must pull actual card text from Scryfall for every card in the 99, verify mechanics (especiall → [[2026-04-21-14-53-21-Jacksons-pattern-of-demanding-accuracy-before-pro]]
 - **2026-04-21** — Jackson should use Scryfall (https://scryfall.com/) as the primary reference for accurate Magic card text before analyzing any card's mechanics or role in his deck. This replaces ad-hoc lookups and pr → [[2026-04-21-14-32-57-Jackson-should-use-Scryfall-httpsscryfallcom]]
 
