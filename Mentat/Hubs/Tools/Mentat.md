@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 3
+memory_count: 4
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,8 +10,12 @@ tags:
 
 # Mentat
 
-*Tool · 3 memories*
+*Tool · 4 memories*
 
+
+## Project
+
+- **2026-04-21** — Jackson uploaded a working document for his HER2+ metastatic breast cancer posterior fossa radiotherapy study. The document is now stored in Mentat for reference and iteration. Document includes metho
 
 ## Preference
 
@@ -19,12 +23,13 @@ tags:
 
 ## Context
 
+- **2026-04-21** — Jackson doesn't have access to previous research documents in the current chat session and needs to paste content directly for Mentat to tidy it up. → [[2026-04-21-13-31-33-Jackson-doesnt-have-access-to-previous-research-d]]
 - **2026-04-21** — Jackson used Mentat to generate a Word document from a Pokémon Champions tournament search result, including active tournament table, player counts, and metagame snapshot. He plans to revisit the site → [[2026-04-21-13-29-41-Jackson-used-Mentat-to-generate-a-Word-document-fr]]
-- **2026-04-21** — Jackson doesn't have access to previous research documents in the current chat session and needs to paste content directly for Mentat to tidy it up.
 
 ## Related
 
+- [[HER2+ metastatic breast cancer radiotherapy study]] *(1)*
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 13:31 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 13:34 UTC*
