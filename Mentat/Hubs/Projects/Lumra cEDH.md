@@ -15,11 +15,11 @@ tags:
 
 ## Project
 
-- **2026-04-21** — Ba Sing Se in Lumra cEDH deck is a confirmed keeper — the Earthbend ability functions as a legitimate combo piece, not just conditional ramp. Line 1: Ashaya + Lumra + untapper + sac outlet creates a f
+- **2026-04-21** — Ba Sing Se in Lumra cEDH deck is a confirmed keeper — the Earthbend ability functions as a legitimate combo piece, not just conditional ramp. Line 1: Ashaya + Lumra + untapper + sac outlet creates a f → [[2026-04-21-14-46-15-Ba-Sing-Se-in-Lumra-cEDH-deck-is-a-confirmed-keepe]]
 
 ## Context
 
-- **2026-04-21** — Jackson received Discord strategy analysis on Ba Sing Se from the Build a Bear Workshop discord community (same community that collaborated on the Lumra cEDH primer). The analysis revealed combo lines
+- **2026-04-21** — Jackson received Discord strategy analysis on Ba Sing Se from the Build a Bear Workshop discord community (same community that collaborated on the Lumra cEDH primer). The analysis revealed combo lines → [[2026-04-21-14-46-17-Jackson-received-Discord-strategy-analysis-on-Ba-S]]
 
 ## Related
 
