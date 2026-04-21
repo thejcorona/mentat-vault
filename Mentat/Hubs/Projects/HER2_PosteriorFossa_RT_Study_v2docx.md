@@ -1,7 +1,7 @@
 ---
 entity: HER2_PosteriorFossa_RT_Study_v2.docx
 type: project
-memory_count: 2
+memory_count: 3
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,13 +10,14 @@ tags:
 
 # HER2_PosteriorFossa_RT_Study_v2.docx
 
-*Project · 2 memories*
+*Project · 3 memories*
 
 
 ## Project
 
-- **2026-04-21** — Mentat made four critical revisions to Jackson's posterior fossa radiotherapy paper: (1) removed duplicate Shultz reference (PMID 30982195); (2) corrected suspected typo in Pikis DOI from s11060-026-0
+- **2026-04-21** — Mentat made four critical revisions to Jackson's posterior fossa radiotherapy paper: (1) removed duplicate Shultz reference (PMID 30982195); (2) corrected suspected typo in Pikis DOI from s11060-026-0 → [[2026-04-21-13-47-44-Mentat-made-four-critical-revisions-to-Jacksons-p]]
 - **2026-04-21** — Jackson uploaded his HER2+ metastatic breast cancer posterior fossa radiotherapy study working document to Mentat. The document includes methods, inclusion/exclusion criteria, three study cohorts (SRS → [[2026-04-21-13-47-42-Jackson-uploaded-his-HER2-metastatic-breast-cance]]
+- **2026-04-21** — Four incomplete PMIDs remain flagged in Jackson's posterior fossa radiotherapy paper for full citation completion before submission: 39192068, 39900974, 26909695, 35653983. Outstanding action items al
 
 ## Related
 
