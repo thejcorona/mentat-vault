@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 19
+memory_count: 20
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 19 memories*
+*Tool · 20 memories*
 
 
 ## Identity
@@ -38,6 +38,7 @@ tags:
 
 ## Challenge
 
+- **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra cEDH combo lines simultaneously. He needs Mentat to systematically verify every card in his Lumra decklist by pulling actua
 - **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra combo lines simultaneously. This is part of his broader pattern of using Mentat to externalize and organize mental workload → [[2026-04-21-14-53-23-Jackson-is-experiencing-cognitive-overload-trying]]
 
 ## Context
@@ -49,16 +50,16 @@ tags:
 
 ## Related
 
+- [[Lumra]] *(3)*
 - [[HER2_PosteriorFossa_RT_Study_v2.docx]] *(2)*
 - [[HER2+ metastatic breast cancer posterior fossa radiotherapy study]] *(2)*
-- [[Lumra]] *(2)*
+- [[Scryfall]] *(2)*
 - [[Lumra cEDH deck]] *(2)*
 - [[Google Calendar]] *(2)*
-- [[Scryfall]] *(1)*
 - [[task-management]] *(1)*
 - [[HER2+ metastatic breast cancer radiotherapy study]] *(1)*
 - [[Build a Bear Workshop]] *(1)*
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 14:57 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 15:02 UTC*
