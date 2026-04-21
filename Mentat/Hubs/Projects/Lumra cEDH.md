@@ -1,7 +1,7 @@
 ---
 entity: Lumra cEDH
 type: project
-memory_count: 4
+memory_count: 6
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,16 +10,18 @@ tags:
 
 # Lumra cEDH
 
-*Project · 4 memories*
+*Project · 6 memories*
 
 
 ## Project
 
+- **2026-04-21** — Jackson's next phase with the Lumra cEDH deck is interrogating the four remaining flex cards (Fal'Cie Paradise, Formidable Speaker, Insidious Fungus, Chord of Calling) by pulling actual card text from
+- **2026-04-21** — Jackson has the complete Lumra cEDH decklist (99 cards from Aftermath Analyst through Zuran Orb) documented and verified against Scryfall. The decklist is held in Mentat's memory and ready for card-by
 - **2026-04-21** — Ba Sing Se in Lumra cEDH deck is a confirmed keeper — the Earthbend ability functions as a legitimate combo piece, not just conditional ramp. Line 1: Ashaya + Lumra + untapper + sac outlet creates a f → [[2026-04-21-14-46-15-Ba-Sing-Se-in-Lumra-cEDH-deck-is-a-confirmed-keepe]]
 
 ## Preference
 
-- **2026-04-21** — Jackson expressed frustration ('Fuck') when Mentat was tangling up the Lumra decklist verification. This indicates Jackson needs clean, systematic execution without ambiguity when externally organizin
+- **2026-04-21** — Jackson expressed frustration ('Fuck') when Mentat was tangling up the Lumra decklist verification. This indicates Jackson needs clean, systematic execution without ambiguity when externally organizin → [[2026-04-21-15-08-15-Jackson-expressed-frustration-Fuck-when-Mentat]]
 
 ## Challenge
 
@@ -31,14 +33,15 @@ tags:
 
 ## Related
 
+- [[Scryfall]] *(2)*
+- [[Mentat]] *(1)*
 - [[Ba Sing Se]] *(1)*
 - [[Ashaya]] *(1)*
 - [[Earthbend]] *(1)*
 - [[Springheart Nantuko]] *(1)*
 - [[Lotus Cobra]] *(1)*
 - [[Emergence Zone]] *(1)*
-- [[Scryfall]] *(1)*
 - [[Build a Bear Workshop]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 15:08 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 15:20 UTC*
