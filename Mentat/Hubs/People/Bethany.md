@@ -1,0 +1,21 @@
+---
+entity: Bethany
+type: person
+memory_count: 1
+last_updated: 2026-04-21
+tags:
+  - hub
+  - person
+---
+
+# Bethany
+
+*Person · 1 memory*
+
+
+## Relationship
+
+- **2026-04-21** — Married to Bethany
+
+---
+*Auto-maintained by Mentat · last updated 2026-04-21 at 13:15 UTC*
