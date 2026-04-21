@@ -34,7 +34,7 @@ tags:
 ## Preference
 
 - **2026-04-21** — Jackson's pattern of demanding accuracy before proceeding: when building the Lumra combo document, Mentat must pull actual card text from Scryfall for every card in the 99, verify mechanics (especiall → [[2026-04-21-14-53-21-Jacksons-pattern-of-demanding-accuracy-before-pro]]
-- **2026-04-21** — Jackson expressed frustration when Mentat was tangling up the Lumra cEDH decklist verification, saying 'Fuck'. This indicates Jackson needs clean, systematic execution without ambiguity when externali
+- **2026-04-21** — Jackson expressed frustration when Mentat was tangling up the Lumra cEDH decklist verification, saying 'Fuck'. This indicates Jackson needs clean, systematic execution without ambiguity when externali → [[2026-04-21-15-11-13-Jackson-expressed-frustration-when-Mentat-was-tang]]
 
 ## Challenge
 
