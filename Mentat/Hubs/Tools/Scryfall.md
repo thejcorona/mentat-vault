@@ -1,7 +1,7 @@
 ---
 entity: Scryfall
 type: tool
-memory_count: 16
+memory_count: 17
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Scryfall
 
-*Tool · 16 memories*
+*Tool · 17 memories*
 
 
 ## Identity
@@ -20,6 +20,7 @@ tags:
 ## Project
 
 - **2026-04-21** — Jackson has provided his complete Lumra cEDH decklist (99 cards from Aftermath Analyst through Zuran Orb) to Mentat multiple times. The decklist verification task requires Mentat to pull every single  → [[2026-04-21-15-12-44-Jackson-has-provided-his-complete-Lumra-cEDH-deckl]]
+- **2026-04-21** — Jackson's next phase with the Lumra cEDH deck is interrogating the four remaining flex cards (Fal'Cie Paradise, Formidable Speaker, Insidious Fungus, Chord of Calling) by pulling actual card text from → [[2026-04-21-15-20-30-Jacksons-next-phase-with-the-Lumra-cEDH-deck-is-i]]
 - **2026-04-21** — Jackson confirmed his Lumra cEDH decklist runs from Aftermath Analyst all the way through to Zuran Orb — 99 cards total. He's currently in the process of having Mentat systematically pull every card f → [[2026-04-21-15-11-16-Jackson-confirmed-his-Lumra-cEDH-decklist-runs-fro]]
 - **2026-04-21** — Jackson is systematically building a comprehensive Lumra cEDH combo document with Mentat. Approach: pull every card in the 99 from Scryfall, verify actual mechanics and alternate set printings, then m → [[2026-04-21-15-06-03-Jackson-is-systematically-building-a-comprehensive]]
 - **2026-04-21** — Jackson needs the complete Lumra cEDH decklist pasted in full so Mentat can systematically pull every card from Scryfall, verify mechanics including alternate set names (especially Final Fantasy cross → [[2026-04-21-15-06-00-Jackson-needs-the-complete-Lumra-cEDH-decklist-pas]]
@@ -45,10 +46,10 @@ tags:
 
 - [[Lumra]] *(9)*
 - [[Mentat]] *(6)*
+- [[Lumra cEDH]] *(2)*
 - [[Lumra cEDH deck]] *(2)*
 - [[Mentat]] *(1)*
-- [[Lumra cEDH]] *(1)*
 - [[Magic: The Gathering]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 15:17 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 15:20 UTC*
