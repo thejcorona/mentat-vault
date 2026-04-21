@@ -16,7 +16,7 @@ tags:
 ## Project
 
 - **2026-04-21** — Jackson can directly fix the duplicate Shultz reference (PMID 30982195) and formalize the methodological notes/claims section from working-document style into formal introduction prose. He needs to ve → [[2026-04-21-13-34-46-Jackson-can-directly-fix-the-duplicate-Shultz-refe]]
-- **2026-04-21** — Jackson needs to verify the Pikis reference DOI in his posterior fossa radiotherapy paper — current entry contains 's11060-026-05483-w' with suspected year typo. The format suggests potential OCR or t
+- **2026-04-21** — Jackson needs to verify the Pikis reference DOI in his posterior fossa radiotherapy paper — current entry contains 's11060-026-05483-w' with suspected year typo. The format suggests potential OCR or t → [[2026-04-21-13-35-28-Jackson-needs-to-verify-the-Pikis-reference-DOI-in]]
 - **2026-04-21** — Jackson can directly fix the duplicate Shultz reference (PMID 30982195) and formalize the methodological notes/claims section from working-document style into formal introduction prose in his HER2+ me → [[2026-04-21-13-35-25-Jackson-can-directly-fix-the-duplicate-Shultz-refe]]
 
 ## Challenge
