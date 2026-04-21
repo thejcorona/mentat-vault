@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 27
+memory_count: 29
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 27 memories*
+*Tool · 29 memories*
 
 
 ## Identity
@@ -23,6 +23,7 @@ tags:
 - **2026-04-21** — Mentat made four critical revisions to Jackson's posterior fossa radiotherapy paper: (1) removed duplicate Shultz reference (PMID 30982195); (2) corrected suspected typo in Pikis DOI from s11060-026-0 → [[2026-04-21-13-47-44-Mentat-made-four-critical-revisions-to-Jacksons-p]]
 - **2026-04-21** — Jackson uploaded his HER2+ metastatic breast cancer posterior fossa radiotherapy study working document to Mentat. The document includes methods, inclusion/exclusion criteria, three study cohorts (SRS → [[2026-04-21-13-47-42-Jackson-uploaded-his-HER2-metastatic-breast-cance]]
 - **2026-04-21** — Jackson can directly fix the duplicate Shultz reference (PMID 30982195) and formalize the methodological notes/claims section from working-document style into formal introduction prose. He needs to ve → [[2026-04-21-13-34-46-Jackson-can-directly-fix-the-duplicate-Shultz-refe]]
+- **2026-04-21** — Jackson has the complete Lumra cEDH decklist (99 cards from Aftermath Analyst through Zuran Orb) documented and verified against Scryfall. The decklist is held in Mentat's memory and ready for card-by → [[2026-04-21-15-20-28-Jackson-has-the-complete-Lumra-cEDH-decklist-99-c]]
 - **2026-04-21** — Jackson created a comprehensive Lumra cEDH combo document with Mentat, organizing all major combo lines step-by-step: Block Buster (primary), Ashaya + Vesuva instant-speed loop, Ba Sing Se Line 1 (Ash → [[2026-04-21-15-16-55-Jackson-created-a-comprehensive-Lumra-cEDH-combo-d]]
 - **2026-04-21** — Jackson confirmed his Lumra cEDH decklist runs from Aftermath Analyst all the way through to Zuran Orb — 99 cards total. He's currently in the process of having Mentat systematically pull every card f → [[2026-04-21-15-11-16-Jackson-confirmed-his-Lumra-cEDH-decklist-runs-fro]]
 - **2026-04-21** — Jackson is systematically building a comprehensive Lumra cEDH combo document with Mentat. Approach: pull every card in the 99 from Scryfall, verify actual mechanics and alternate set printings, then m → [[2026-04-21-15-06-03-Jackson-is-systematically-building-a-comprehensive]]
@@ -37,6 +38,7 @@ tags:
 
 ## Preference
 
+- **2026-04-21** — Jackson's pattern during high-cognitive-load externalizing tasks: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this'), he 
 - **2026-04-21** — Jackson's pattern of demanding accuracy and systematic verification before proceeding is acute during high-cognitive-load situations. When frustrated (e.g., 'Fuck this'), he needs Mentat to stop askin → [[2026-04-21-15-12-41-Jacksons-pattern-of-demanding-accuracy-and-system]]
 - **2026-04-21** — Jackson values having a system (Mentat) that can hold and organize his workload so he doesn't have to carry it alone mentally. He responds positively to reassurance and clear next-step direction when  → [[2026-04-21-13-23-03-Jackson-values-having-a-system-Mentat-that-can-h]]
 - **2026-04-21** — Jackson demonstrates a pattern of catching and correcting factual errors in Magic card mechanics before accepting card inclusion decisions. Rather than accepting Mentat's analysis at face value, he pu → [[2026-04-21-14-49-15-Jackson-demonstrates-a-pattern-of-catching-and-cor]]
@@ -44,7 +46,7 @@ tags:
 
 ## Challenge
 
-- **2026-04-21** — Jackson's pattern when externalizing complex mental workload: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated during high-cognitive-load tasks (e
+- **2026-04-21** — Jackson's pattern when externalizing complex mental workload: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated during high-cognitive-load tasks (e → [[2026-04-21-15-16-58-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra cEDH combo lines simultaneously. He needs Mentat to systematically verify every card in his Lumra decklist by pulling actua → [[2026-04-21-15-02-41-Jackson-is-experiencing-cognitive-overload-trying]]
 - **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra combo lines simultaneously. This is part of his broader pattern of using Mentat to externalize and organize mental workload → [[2026-04-21-14-53-23-Jackson-is-experiencing-cognitive-overload-trying]]
 
@@ -63,6 +65,7 @@ tags:
 - [[HER2+ metastatic breast cancer posterior fossa radiotherapy study]] *(2)*
 - [[Lumra cEDH deck]] *(2)*
 - [[Google Calendar]] *(2)*
+- [[Lumra cEDH]] *(1)*
 - [[Lumra cEDH combo document]] *(1)*
 - [[task-management]] *(1)*
 - [[HER2+ metastatic breast cancer radiotherapy study]] *(1)*
@@ -70,4 +73,4 @@ tags:
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 15:17 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 15:20 UTC*
