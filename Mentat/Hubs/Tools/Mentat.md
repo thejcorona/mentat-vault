@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 30
+memory_count: 31
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 30 memories*
+*Tool · 31 memories*
 
 
 ## Identity
@@ -39,6 +39,7 @@ tags:
 
 ## Preference
 
+- **2026-04-21** — Jackson's pattern when externalizing complex mental workload to Mentat: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this'
 - **2026-04-21** — Jackson's pattern during high-cognitive-load externalizing tasks: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this'), he  → [[2026-04-21-15-20-32-Jacksons-pattern-during-high-cognitive-load-exter]]
 - **2026-04-21** — Jackson's pattern of demanding accuracy and systematic verification before proceeding is acute during high-cognitive-load situations. When frustrated (e.g., 'Fuck this'), he needs Mentat to stop askin → [[2026-04-21-15-12-41-Jacksons-pattern-of-demanding-accuracy-and-system]]
 - **2026-04-21** — Jackson values having a system (Mentat) that can hold and organize his workload so he doesn't have to carry it alone mentally. He responds positively to reassurance and clear next-step direction when  → [[2026-04-21-13-23-03-Jackson-values-having-a-system-Mentat-that-can-h]]
@@ -74,4 +75,4 @@ tags:
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 15:21 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 15:22 UTC*
