@@ -18,7 +18,7 @@ tags:
 - **2026-04-21** — Jackson corrected Mentat's understanding of sol lands — lands that tap for 2+ mana (e.g., Crystal Vein, Gaea's Cradle). Also flagged that Springheart Nantuko's bestow ability creates a token copy of t → [[2026-04-21-14-49-13-Jackson-corrected-Mentats-understanding-of-sol-la]]
 - **2026-04-21** — Jackson is correcting Mentat's hallucinations about Magic: The Gathering card mechanics in his Lumra cEDH deck. Blossoming Tortoise does NOT untap Lotus Field or tutor it — it mills 3 on ETB/attack, r → [[2026-04-21-14-18-49-Jackson-is-correcting-Mentats-hallucinations-abou]]
 - **2026-04-21** — Four Lumra cEDH cards remain under interrogation for intended role/synergy before accepting inclusion: Fal'Cie Paradise, Formidable Speaker, Insidious Fungus, Chord of Calling. Jackson's approach: pul
-- **2026-04-21** — Ba Sing Se is a confirmed keeper in the Lumra cEDH deck. Functions as a legitimate combo piece via two lines: (1) Ashaya + Lumra + untapper + sac outlet loop where Earthbend targets Lumra as a land, s
+- **2026-04-21** — Ba Sing Se is a confirmed keeper in the Lumra cEDH deck. Functions as a legitimate combo piece via two lines: (1) Ashaya + Lumra + untapper + sac outlet loop where Earthbend targets Lumra as a land, s → [[2026-04-21-14-50-40-Ba-Sing-Se-is-a-confirmed-keeper-in-the-Lumra-cEDH]]
 
 ## Preference
 
