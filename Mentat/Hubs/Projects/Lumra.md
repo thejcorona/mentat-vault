@@ -1,7 +1,7 @@
 ---
 entity: Lumra
 type: project
-memory_count: 21
+memory_count: 22
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,13 +10,14 @@ tags:
 
 # Lumra
 
-*Project · 21 memories*
+*Project · 22 memories*
 
 
 ## Project
 
-- **2026-04-21** — Jackson has provided his complete Lumra cEDH decklist (99 cards from Aftermath Analyst through Zuran Orb) to Mentat multiple times. The decklist verification task requires Mentat to pull every single 
+- **2026-04-21** — Jackson has provided his complete Lumra cEDH decklist (99 cards from Aftermath Analyst through Zuran Orb) to Mentat multiple times. The decklist verification task requires Mentat to pull every single  → [[2026-04-21-15-12-44-Jackson-has-provided-his-complete-Lumra-cEDH-deckl]]
 - **2026-04-21** — Lumra cEDH primer obtained and studied. Primer clarifies core deck mechanics: (1) Block Buster combo is cast Lumra → sacrifice lands in response to ETB → lands return, generate mana → repeat; (2) Comm → [[2026-04-21-14-22-03-Lumra-cEDH-primer-obtained-and-studied-Primer-cla]]
+- **2026-04-21** — Jackson has the complete Lumra cEDH primer from divinerage01 and the Build a Bear Workshop discord community. Primer covers core mechanics (Block Buster combo, Command Beacon/Mirrorpool bypass, Ashaya
 - **2026-04-21** — Jackson confirmed his Lumra cEDH decklist runs from Aftermath Analyst all the way through to Zuran Orb — 99 cards total. He's currently in the process of having Mentat systematically pull every card f → [[2026-04-21-15-11-16-Jackson-confirmed-his-Lumra-cEDH-decklist-runs-fro]]
 - **2026-04-21** — Jackson is systematically building a comprehensive Lumra cEDH combo document with Mentat. Approach: pull every card in the 99 from Scryfall, verify actual mechanics and alternate set printings, then m → [[2026-04-21-15-06-03-Jackson-is-systematically-building-a-comprehensive]]
 - **2026-04-21** — Jackson needs the complete Lumra cEDH decklist pasted in full so Mentat can systematically pull every card from Scryfall, verify mechanics including alternate set names (especially Final Fantasy cross → [[2026-04-21-15-06-00-Jackson-needs-the-complete-Lumra-cEDH-decklist-pas]]
@@ -49,6 +50,7 @@ tags:
 - [[Mentat]] *(7)*
 - [[divinerage01]] *(1)*
 - [[Build a Bear Workshop]] *(1)*
+- [[Build a Bear Workshop]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 15:12 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 15:14 UTC*
