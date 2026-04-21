@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 16
+memory_count: 17
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 16 memories*
+*Tool · 17 memories*
 
 
 ## Identity
@@ -32,12 +32,13 @@ tags:
 ## Preference
 
 - **2026-04-21** — Jackson values having a system (Mentat) that can hold and organize his workload so he doesn't have to carry it alone mentally. He responds positively to reassurance and clear next-step direction when  → [[2026-04-21-13-23-03-Jackson-values-having-a-system-Mentat-that-can-h]]
+- **2026-04-21** — Jackson demonstrates a pattern of catching and correcting factual errors in Magic card mechanics before accepting card inclusion decisions. Rather than accepting Mentat's analysis at face value, he pu → [[2026-04-21-14-49-15-Jackson-demonstrates-a-pattern-of-catching-and-cor]]
 - **2026-04-21** — Jackson's approach to collaborative analysis with Mentat: when Mentat makes factual errors (card mechanics, game rules), Jackson corrects directly with accurate text, then asks Mentat to clarify the I → [[2026-04-21-14-18-51-Jacksons-approach-to-collaborative-analysis-with]]
 
 ## Context
 
 - **2026-04-21** — Jackson uses Mentat as a system to hold and organize his workload so he doesn't carry it alone mentally. He responds positively to reassurance and clear next-step direction when overwhelmed, and value → [[2026-04-21-13-34-50-Jackson-uses-Mentat-as-a-system-to-hold-and-organi]]
-- **2026-04-21** — Jackson asked Mentat if it can search information from an open Discord server. Mentat clarified it cannot browse Discord directly but can work with content pasted into chat. Jackson is considering pul
+- **2026-04-21** — Jackson asked Mentat if it can search information from an open Discord server. Mentat clarified it cannot browse Discord directly but can work with content pasted into chat. Jackson is considering pul → [[2026-04-21-14-42-00-Jackson-asked-Mentat-if-it-can-search-information]]
 - **2026-04-21** — Jackson doesn't have access to previous research documents in the current chat session and needs to paste content directly for Mentat to tidy it up. → [[2026-04-21-13-31-33-Jackson-doesnt-have-access-to-previous-research-d]]
 - **2026-04-21** — Jackson used Mentat to generate a Word document from a Pokémon Champions tournament search result, including active tournament table, player counts, and metagame snapshot. He plans to revisit the site → [[2026-04-21-13-29-41-Jackson-used-Mentat-to-generate-a-Word-document-fr]]
 
@@ -45,12 +46,12 @@ tags:
 
 - [[HER2_PosteriorFossa_RT_Study_v2.docx]] *(2)*
 - [[HER2+ metastatic breast cancer posterior fossa radiotherapy study]] *(2)*
+- [[Lumra cEDH deck]] *(2)*
 - [[Google Calendar]] *(2)*
-- [[Lumra cEDH deck]] *(1)*
 - [[task-management]] *(1)*
 - [[HER2+ metastatic breast cancer radiotherapy study]] *(1)*
 - [[Build a Bear Workshop]] *(1)*
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 14:42 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 14:49 UTC*
