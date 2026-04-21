@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 33
+memory_count: 34
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 33 memories*
+*Tool · 34 memories*
 
 
 ## Identity
@@ -20,7 +20,8 @@ tags:
 
 ## Project
 
-- **2026-04-21** — Actively working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases treated with radiotherapy. Study compares three treatment arms (SRS any locatio
+- **2026-04-21** — Currently working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases treated with radiotherapy. Study compares three treatment arms (SRS any locati
+- **2026-04-21** — Actively working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases treated with radiotherapy. Study compares three treatment arms (SRS any locatio → [[2026-04-21-21-43-08-Actively-working-on-a-retrospective-cohort-study-o]]
 - **2026-04-21** — Actively working on multiple research papers in the radiation oncology field. Currently working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases  → [[2026-04-21-15-30-10-Actively-working-on-multiple-research-papers-in-th]]
 - **2026-04-21** — Mentat made four critical revisions to Jackson's posterior fossa radiotherapy paper: (1) removed duplicate Shultz reference (PMID 30982195); (2) corrected suspected typo in Pikis DOI from s11060-026-0 → [[2026-04-21-13-47-44-Mentat-made-four-critical-revisions-to-Jacksons-p]]
 - **2026-04-21** — Jackson uploaded his HER2+ metastatic breast cancer posterior fossa radiotherapy study working document to Mentat. The document includes methods, inclusion/exclusion criteria, three study cohorts (SRS → [[2026-04-21-13-47-42-Jackson-uploaded-his-HER2-metastatic-breast-cance]]
@@ -77,4 +78,4 @@ tags:
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 21:43 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 22:51 UTC*
