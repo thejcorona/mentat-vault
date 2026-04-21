@@ -1,7 +1,7 @@
 ---
 entity: Scryfall
 type: tool
-memory_count: 12
+memory_count: 13
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Scryfall
 
-*Tool · 12 memories*
+*Tool · 13 memories*
 
 
 ## Identity
@@ -36,14 +36,16 @@ tags:
 ## Challenge
 
 - **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra cEDH combo lines simultaneously. He needs Mentat to systematically verify every card in his Lumra decklist by pulling actua → [[2026-04-21-15-02-41-Jackson-is-experiencing-cognitive-overload-trying]]
+- **2026-04-21** — Jackson acknowledged he was confused about the Lumra cEDH decklist and asked Mentat to reset. Mentat confirmed it has the full decklist (Aftermath Analyst through Cavern of Souls) and will pull every  → [[2026-04-21-15-08-13-Jackson-acknowledged-he-was-confused-about-the-Lum]]
 
 ## Related
 
 - [[Lumra]] *(7)*
 - [[Mentat]] *(5)*
 - [[Mentat]] *(1)*
+- [[Lumra cEDH]] *(1)*
 - [[Lumra cEDH deck]] *(1)*
 - [[Magic: The Gathering]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 15:06 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 15:08 UTC*
