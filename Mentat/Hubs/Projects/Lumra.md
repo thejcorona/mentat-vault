@@ -1,7 +1,7 @@
 ---
 entity: Lumra
 type: project
-memory_count: 11
+memory_count: 12
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,13 +10,13 @@ tags:
 
 # Lumra
 
-*Project · 11 memories*
+*Project · 12 memories*
 
 
 ## Project
 
 - **2026-04-21** — Lumra cEDH primer obtained and studied. Primer clarifies core deck mechanics: (1) Block Buster combo is cast Lumra → sacrifice lands in response to ETB → lands return, generate mana → repeat; (2) Comm → [[2026-04-21-14-22-03-Lumra-cEDH-primer-obtained-and-studied-Primer-cla]]
-- **2026-04-21** — Jackson wants a running list of all combo lines in his Lumra cEDH deck, organized and documented. He's experiencing cognitive overload tracking them mentally and needs external organization. Wants Men
+- **2026-04-21** — Jackson wants a running list of all combo lines in his Lumra cEDH deck, organized and documented. He's experiencing cognitive overload tracking them mentally and needs external organization. Wants Men → [[2026-04-21-14-53-19-Jackson-wants-a-running-list-of-all-combo-lines-in]]
 - **2026-04-21** — Corrected understanding of Blossoming Tortoise: NOT an untap/tutor piece. Actual role: (1) reduces land activation costs by {1} (directly reduces Lumra's ETB cost), (2) graveyard land recursion on ETB → [[2026-04-21-14-22-05-Corrected-understanding-of-Blossoming-Tortoise-NO]]
 - **2026-04-21** — Horizon Explorer is a confirmed keeper in the Lumra cEDH deck — land untapper redundancy. Lumra lives and dies by untappers, so redundancy here is critical. → [[2026-04-21-14-37-28-Horizon-Explorer-is-a-confirmed-keeper-in-the-Lumr]]
 - **2026-04-21** — Nature's Rhythm is a confirmed keeper in the Lumra cEDH deck — cheap ETB tutor to battlefield, castable from graveyard when milled. Perfect fit given the deck mills a high volume of cards. → [[2026-04-21-14-37-26-Natures-Rhythm-is-a-confirmed-keeper-in-the-Lumra]]
@@ -30,11 +30,16 @@ tags:
 
 - **2026-04-21** — Jackson's pattern of demanding accuracy before proceeding: when building the Lumra combo document, Mentat must pull actual card text from Scryfall for every card in the 99, verify mechanics (especiall
 
+## Challenge
+
+- **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra combo lines simultaneously. This is part of his broader pattern of using Mentat to externalize and organize mental workload
+
 ## Related
 
 - [[Scryfall]] *(2)*
 - [[divinerage01]] *(1)*
 - [[Build a Bear Workshop]] *(1)*
+- [[Mentat]] *(1)*
 
 ---
 *Auto-maintained by Mentat · last updated 2026-04-21 at 14:53 UTC*
