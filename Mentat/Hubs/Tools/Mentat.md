@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 24
+memory_count: 25
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 24 memories*
+*Tool · 25 memories*
 
 
 ## Identity
@@ -36,6 +36,7 @@ tags:
 
 ## Preference
 
+- **2026-04-21** — Jackson's pattern of demanding accuracy and systematic verification before proceeding is acute during high-cognitive-load situations. When frustrated (e.g., 'Fuck this'), he needs Mentat to stop askin
 - **2026-04-21** — Jackson values having a system (Mentat) that can hold and organize his workload so he doesn't have to carry it alone mentally. He responds positively to reassurance and clear next-step direction when  → [[2026-04-21-13-23-03-Jackson-values-having-a-system-Mentat-that-can-h]]
 - **2026-04-21** — Jackson demonstrates a pattern of catching and correcting factual errors in Magic card mechanics before accepting card inclusion decisions. Rather than accepting Mentat's analysis at face value, he pu → [[2026-04-21-14-49-15-Jackson-demonstrates-a-pattern-of-catching-and-cor]]
 - **2026-04-21** — Jackson's approach to collaborative analysis with Mentat: when Mentat makes factual errors (card mechanics, game rules), Jackson corrects directly with accurate text, then asks Mentat to clarify the I → [[2026-04-21-14-18-51-Jacksons-approach-to-collaborative-analysis-with]]
@@ -66,4 +67,4 @@ tags:
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 15:11 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 15:12 UTC*
