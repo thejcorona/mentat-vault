@@ -15,7 +15,7 @@ tags:
 
 ## Goal
 
-- **2026-04-21** — Career goal is to become a Radiation Oncologist — this is the north star that shapes paper selection, application strategy, and position targeting.
+- **2026-04-21** — Career goal is to become a Radiation Oncologist — this is the north star that shapes paper selection, application strategy, and position targeting. → [[2026-04-21-13-16-43-Career-goal-is-to-become-a-Radiation-Oncologist]]
 - **2026-04-21** — Career goal is to become a Radiation Oncologist → [[2026-04-21-13-15-33-Career-goal-is-to-become-a-Radiation-Oncologist]]
 
 ## Project
