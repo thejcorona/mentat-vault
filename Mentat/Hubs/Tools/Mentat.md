@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 6
+memory_count: 7
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,8 +10,12 @@ tags:
 
 # Mentat
 
-*Tool · 6 memories*
+*Tool · 7 memories*
 
+
+## Identity
+
+- **2026-04-21** — Jackson's systematic approach to overwhelming workload: prioritize operational/foundational items (database verification, reference accuracy, methodological definitions) before polishing presentation 
 
 ## Project
 
@@ -24,7 +28,7 @@ tags:
 
 ## Context
 
-- **2026-04-21** — Jackson uses Mentat as a system to hold and organize his workload so he doesn't carry it alone mentally. He responds positively to reassurance and clear next-step direction when overwhelmed, and value
+- **2026-04-21** — Jackson uses Mentat as a system to hold and organize his workload so he doesn't carry it alone mentally. He responds positively to reassurance and clear next-step direction when overwhelmed, and value → [[2026-04-21-13-34-50-Jackson-uses-Mentat-as-a-system-to-hold-and-organi]]
 - **2026-04-21** — Jackson doesn't have access to previous research documents in the current chat session and needs to paste content directly for Mentat to tidy it up. → [[2026-04-21-13-31-33-Jackson-doesnt-have-access-to-previous-research-d]]
 - **2026-04-21** — Jackson used Mentat to generate a Word document from a Pokémon Champions tournament search result, including active tournament table, player counts, and metagame snapshot. He plans to revisit the site → [[2026-04-21-13-29-41-Jackson-used-Mentat-to-generate-a-Word-document-fr]]
 
@@ -36,4 +40,4 @@ tags:
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 13:34 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 13:35 UTC*
