@@ -19,7 +19,7 @@ tags:
 - **2026-04-21** — Jackson has the complete Lumra cEDH decklist (99 cards from Aftermath Analyst through Zuran Orb) documented and verified against Scryfall. The decklist is held in Mentat's memory and ready for card-by → [[2026-04-21-15-20-28-Jackson-has-the-complete-Lumra-cEDH-decklist-99-c]]
 - **2026-04-21** — Ba Sing Se in Lumra cEDH deck is a confirmed keeper — the Earthbend ability functions as a legitimate combo piece, not just conditional ramp. Line 1: Ashaya + Lumra + untapper + sac outlet creates a f → [[2026-04-21-14-46-15-Ba-Sing-Se-in-Lumra-cEDH-deck-is-a-confirmed-keepe]]
 - **2026-04-21** — Jackson removed non-green cards from his Lumra cEDH decklist: Uro Titan of Nature's Wrath, Golos Tireless Pilgrim, Lurrus of the Dream-Den, Six, Kayla bin-Kroog, Klothys God of Destiny, Torment of Hai
-- **2026-04-21** — Jackson is filtering his Lumra cEDH decklist to mono-green and colorless cards only. Current filtered list is 90 cards; 9 cards remain unaccounted for to complete the 99-card format. This is part of h
+- **2026-04-21** — Jackson is filtering his Lumra cEDH decklist to mono-green and colorless cards only. Current filtered list is 90 cards; 9 cards remain unaccounted for to complete the 99-card format. This is part of h → [[2026-04-21-15-33-22-Jackson-is-filtering-his-Lumra-cEDH-decklist-to-mo]]
 
 ## Preference
 
