@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 34
+memory_count: 35
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 34 memories*
+*Tool · 35 memories*
 
 
 ## Identity
@@ -20,7 +20,7 @@ tags:
 
 ## Project
 
-- **2026-04-21** — Currently working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases treated with radiotherapy. Study compares three treatment arms (SRS any locati
+- **2026-04-21** — Currently working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases treated with radiotherapy. Study compares three treatment arms (SRS any locati → [[2026-04-21-22-51-04-Currently-working-on-a-retrospective-cohort-study]]
 - **2026-04-21** — Actively working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases treated with radiotherapy. Study compares three treatment arms (SRS any locatio → [[2026-04-21-21-43-08-Actively-working-on-a-retrospective-cohort-study-o]]
 - **2026-04-21** — Actively working on multiple research papers in the radiation oncology field. Currently working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases  → [[2026-04-21-15-30-10-Actively-working-on-multiple-research-papers-in-th]]
 - **2026-04-21** — Mentat made four critical revisions to Jackson's posterior fossa radiotherapy paper: (1) removed duplicate Shultz reference (PMID 30982195); (2) corrected suspected typo in Pikis DOI from s11060-026-0 → [[2026-04-21-13-47-44-Mentat-made-four-critical-revisions-to-Jacksons-p]]
@@ -44,6 +44,7 @@ tags:
 
 - **2026-04-21** — Jackson's pattern when externalizing complex mental workload to Mentat: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this' → [[2026-04-21-15-22-42-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's pattern during high-cognitive-load externalizing tasks: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this'), he  → [[2026-04-21-15-20-32-Jacksons-pattern-during-high-cognitive-load-exter]]
+- **2026-04-21** — Jackson's systematic approach to overwhelming workload: prioritizes operational/foundational items (database verification, reference accuracy, methodological definitions) before polishing presentation
 - **2026-04-21** — Jackson's pattern of demanding accuracy and systematic verification before proceeding is acute during high-cognitive-load situations. When frustrated (e.g., 'Fuck this'), he needs Mentat to stop askin → [[2026-04-21-15-12-41-Jacksons-pattern-of-demanding-accuracy-and-system]]
 - **2026-04-21** — Jackson values having a system (Mentat) that can hold and organize his workload so he doesn't have to carry it alone mentally. He responds positively to reassurance and clear next-step direction when  → [[2026-04-21-13-23-03-Jackson-values-having-a-system-Mentat-that-can-h]]
 - **2026-04-21** — Jackson demonstrates a pattern of catching and correcting factual errors in Magic card mechanics before accepting card inclusion decisions. Rather than accepting Mentat's analysis at face value, he pu → [[2026-04-21-14-49-15-Jackson-demonstrates-a-pattern-of-catching-and-cor]]
