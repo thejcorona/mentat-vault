@@ -1,7 +1,7 @@
 ---
 entity: Scryfall
 type: tool
-memory_count: 13
+memory_count: 14
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Scryfall
 
-*Tool · 13 memories*
+*Tool · 14 memories*
 
 
 ## Identity
@@ -19,6 +19,7 @@ tags:
 
 ## Project
 
+- **2026-04-21** — Jackson confirmed his Lumra cEDH decklist runs from Aftermath Analyst all the way through to Zuran Orb — 99 cards total. He's currently in the process of having Mentat systematically pull every card f → [[2026-04-21-15-11-16-Jackson-confirmed-his-Lumra-cEDH-decklist-runs-fro]]
 - **2026-04-21** — Jackson is systematically building a comprehensive Lumra cEDH combo document with Mentat. Approach: pull every card in the 99 from Scryfall, verify actual mechanics and alternate set printings, then m → [[2026-04-21-15-06-03-Jackson-is-systematically-building-a-comprehensive]]
 - **2026-04-21** — Jackson needs the complete Lumra cEDH decklist pasted in full so Mentat can systematically pull every card from Scryfall, verify mechanics including alternate set names (especially Final Fantasy cross → [[2026-04-21-15-06-00-Jackson-needs-the-complete-Lumra-cEDH-decklist-pas]]
 - **2026-04-21** — Jackson is asking Mentat to systematically verify every card in his Lumra cEDH decklist by pulling actual card text from Scryfall, including alternate set names (especially Final Fantasy crossover car → [[2026-04-21-14-57-17-Jackson-is-asking-Mentat-to-systematically-verify]]
@@ -40,12 +41,12 @@ tags:
 
 ## Related
 
-- [[Lumra]] *(7)*
-- [[Mentat]] *(5)*
+- [[Lumra]] *(8)*
+- [[Mentat]] *(6)*
 - [[Mentat]] *(1)*
 - [[Lumra cEDH]] *(1)*
 - [[Lumra cEDH deck]] *(1)*
 - [[Magic: The Gathering]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 15:08 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 15:11 UTC*
