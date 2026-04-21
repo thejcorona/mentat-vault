@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: project
-memory_count: 2
+memory_count: 3
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Project · 2 memories*
+*Project · 3 memories*
 
 
 ## Project
@@ -19,7 +19,8 @@ tags:
 
 ## Preference
 
-- **2026-04-21** — Jackson requested a quick PowerPoint presentation summarizing what Mentat knows about him, suggesting he values rapid synthesis and documentation of his own profile.
+- **2026-04-21** — Jackson prefers a 3-second pause after he finishes typing before Mentat processes and responds, giving him space to collect his thoughts without immediate reaction.
+- **2026-04-21** — Jackson requested a quick PowerPoint presentation summarizing what Mentat knows about him, suggesting he values rapid synthesis and documentation of his own profile. → [[2026-04-21-13-12-06-Jackson-requested-a-quick-PowerPoint-presentation]]
 
 ## Related
 
@@ -27,4 +28,4 @@ tags:
 - [[Next.js]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 13:12 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 13:24 UTC*
