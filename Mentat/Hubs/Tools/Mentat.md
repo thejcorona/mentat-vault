@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 8
+memory_count: 10
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,17 +10,19 @@ tags:
 
 # Mentat
 
-*Tool · 8 memories*
+*Tool · 10 memories*
 
 
 ## Identity
 
+- **2026-04-21** — Jackson's systematic approach to overwhelming workload prioritizes operational/foundational items before polishing layers. When juggling multiple concurrent projects, he uses Mentat to externalize and
 - **2026-04-21** — Jackson's systematic approach to overwhelming workload: prioritize operational/foundational items (database verification, reference accuracy, methodological definitions) before polishing presentation  → [[2026-04-21-13-35-32-Jacksons-systematic-approach-to-overwhelming-work]]
 
 ## Project
 
 - **2026-04-21** — Jackson can directly fix the duplicate Shultz reference (PMID 30982195) and formalize the methodological notes/claims section from working-document style into formal introduction prose. He needs to ve → [[2026-04-21-13-34-46-Jackson-can-directly-fix-the-duplicate-Shultz-refe]]
-- **2026-04-21** — Jackson wants to integrate his database audit checklist into his daily spread/calendar system. Mentat offered to connect Google Calendar to automate this, but Jackson can also add it manually in the m
+- **2026-04-21** — Jackson wants Mentat to remind him about connecting Google Calendar for database audit automation when he asks about workload or next steps on the posterior fossa paper. This is a foundational task th
+- **2026-04-21** — Jackson wants to integrate his database audit checklist into his daily spread/calendar system. Mentat offered to connect Google Calendar to automate this, but Jackson can also add it manually in the m → [[2026-04-21-13-36-12-Jackson-wants-to-integrate-his-database-audit-chec]]
 - **2026-04-21** — Jackson uploaded a working document for his HER2+ metastatic breast cancer posterior fossa radiotherapy study. The document is now stored in Mentat for reference and iteration. Document includes metho → [[2026-04-21-13-33-58-Jackson-uploaded-a-working-document-for-his-HER2]]
 
 ## Preference
@@ -35,11 +37,11 @@ tags:
 
 ## Related
 
+- [[Google Calendar]] *(2)*
 - [[HER2+ metastatic breast cancer posterior fossa radiotherapy study]] *(1)*
-- [[Google Calendar]] *(1)*
 - [[task-management]] *(1)*
 - [[HER2+ metastatic breast cancer radiotherapy study]] *(1)*
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 13:36 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 13:39 UTC*
