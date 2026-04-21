@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 17
+memory_count: 18
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 17 memories*
+*Tool · 18 memories*
 
 
 ## Identity
@@ -35,6 +35,10 @@ tags:
 - **2026-04-21** — Jackson demonstrates a pattern of catching and correcting factual errors in Magic card mechanics before accepting card inclusion decisions. Rather than accepting Mentat's analysis at face value, he pu → [[2026-04-21-14-49-15-Jackson-demonstrates-a-pattern-of-catching-and-cor]]
 - **2026-04-21** — Jackson's approach to collaborative analysis with Mentat: when Mentat makes factual errors (card mechanics, game rules), Jackson corrects directly with accurate text, then asks Mentat to clarify the I → [[2026-04-21-14-18-51-Jacksons-approach-to-collaborative-analysis-with]]
 
+## Challenge
+
+- **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra combo lines simultaneously. This is part of his broader pattern of using Mentat to externalize and organize mental workload → [[2026-04-21-14-53-23-Jackson-is-experiencing-cognitive-overload-trying]]
+
 ## Context
 
 - **2026-04-21** — Jackson uses Mentat as a system to hold and organize his workload so he doesn't carry it alone mentally. He responds positively to reassurance and clear next-step direction when overwhelmed, and value → [[2026-04-21-13-34-50-Jackson-uses-Mentat-as-a-system-to-hold-and-organi]]
@@ -48,10 +52,11 @@ tags:
 - [[HER2+ metastatic breast cancer posterior fossa radiotherapy study]] *(2)*
 - [[Lumra cEDH deck]] *(2)*
 - [[Google Calendar]] *(2)*
+- [[Lumra]] *(1)*
 - [[task-management]] *(1)*
 - [[HER2+ metastatic breast cancer radiotherapy study]] *(1)*
 - [[Build a Bear Workshop]] *(1)*
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 14:49 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 14:53 UTC*
