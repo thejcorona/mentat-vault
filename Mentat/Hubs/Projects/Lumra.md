@@ -1,7 +1,7 @@
 ---
 entity: Lumra
 type: project
-memory_count: 17
+memory_count: 19
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,13 +10,14 @@ tags:
 
 # Lumra
 
-*Project · 17 memories*
+*Project · 19 memories*
 
 
 ## Project
 
 - **2026-04-21** — Lumra cEDH primer obtained and studied. Primer clarifies core deck mechanics: (1) Block Buster combo is cast Lumra → sacrifice lands in response to ETB → lands return, generate mana → repeat; (2) Comm → [[2026-04-21-14-22-03-Lumra-cEDH-primer-obtained-and-studied-Primer-cla]]
-- **2026-04-21** — Jackson is systematically building a comprehensive Lumra cEDH combo document with Mentat. Approach: pull every card in the 99 from Scryfall, verify actual mechanics and alternate set printings, then m
+- **2026-04-21** — Jackson confirmed his Lumra cEDH decklist runs from Aftermath Analyst all the way through to Zuran Orb — 99 cards total. He's currently in the process of having Mentat systematically pull every card f
+- **2026-04-21** — Jackson is systematically building a comprehensive Lumra cEDH combo document with Mentat. Approach: pull every card in the 99 from Scryfall, verify actual mechanics and alternate set printings, then m → [[2026-04-21-15-06-03-Jackson-is-systematically-building-a-comprehensive]]
 - **2026-04-21** — Jackson needs the complete Lumra cEDH decklist pasted in full so Mentat can systematically pull every card from Scryfall, verify mechanics including alternate set names (especially Final Fantasy cross → [[2026-04-21-15-06-00-Jackson-needs-the-complete-Lumra-cEDH-decklist-pas]]
 - **2026-04-21** — Jackson is asking Mentat to systematically verify every card in his Lumra cEDH decklist by pulling actual card text from Scryfall, including alternate set names (especially Final Fantasy crossover car → [[2026-04-21-14-57-17-Jackson-is-asking-Mentat-to-systematically-verify]]
 - **2026-04-21** — Jackson wants a running list of all combo lines in his Lumra cEDH deck, organized and documented. He's experiencing cognitive overload tracking them mentally and needs external organization. Wants Men → [[2026-04-21-14-53-19-Jackson-wants-a-running-list-of-all-combo-lines-in]]
@@ -33,6 +34,7 @@ tags:
 ## Preference
 
 - **2026-04-21** — Jackson's pattern of demanding accuracy before proceeding: when building the Lumra combo document, Mentat must pull actual card text from Scryfall for every card in the 99, verify mechanics (especiall → [[2026-04-21-14-53-21-Jacksons-pattern-of-demanding-accuracy-before-pro]]
+- **2026-04-21** — Jackson expressed frustration when Mentat was tangling up the Lumra cEDH decklist verification, saying 'Fuck'. This indicates Jackson needs clean, systematic execution without ambiguity when externali
 
 ## Challenge
 
@@ -41,10 +43,10 @@ tags:
 
 ## Related
 
-- [[Scryfall]] *(7)*
-- [[Mentat]] *(6)*
+- [[Scryfall]] *(8)*
+- [[Mentat]] *(7)*
 - [[divinerage01]] *(1)*
 - [[Build a Bear Workshop]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 15:06 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 15:11 UTC*
