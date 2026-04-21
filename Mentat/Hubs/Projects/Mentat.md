@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: project
-memory_count: 7
+memory_count: 8
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Project · 7 memories*
+*Project · 8 memories*
 
 
 ## Project
@@ -22,18 +22,20 @@ tags:
 
 ## Preference
 
-- **2026-04-21** — Jackson's systematic approach to card evaluation in Lumra: prioritizes understanding INTENDED ROLE (specific synergy, combo piece, interaction mode, ramp payoff) over generic 'is this card good?' asse
+- **2026-04-21** — Jackson's systematic approach to card evaluation in Lumra: prioritizes understanding INTENDED ROLE (specific synergy, combo piece, interaction mode, ramp payoff) over generic 'is this card good?' asse → [[2026-04-21-14-34-13-Jacksons-systematic-approach-to-card-evaluation-i]]
 - **2026-04-21** — Jackson requested a quick PowerPoint presentation summarizing what Mentat knows about him, suggesting he values rapid synthesis and documentation of his own profile. → [[2026-04-21-13-12-06-Jackson-requested-a-quick-PowerPoint-presentation]]
 
 ## Challenge
 
 - **2026-04-21** — Jackson is currently overwhelmed juggling multiple concurrent projects (posterior fossa radiotherapy paper, Lumra cEDH deck optimization, competitive gaming, medical school final year). He uses Mentat → [[2026-04-21-14-23-36-Jackson-is-currently-overwhelmed-juggling-multiple]]
+- **2026-04-21** — Jackson asked Mentat to scrap the corrupted Lumra cEDH decklist and start fresh tomorrow. He needs clean, systematic execution without ambiguity when externalizing cognitive load. This reflects his pa
 
 ## Related
 
 - [[Scryfall]] *(1)*
+- [[Lumra cEDH]] *(1)*
 - [[FastAPI]] *(1)*
 - [[Next.js]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 14:34 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 15:38 UTC*
