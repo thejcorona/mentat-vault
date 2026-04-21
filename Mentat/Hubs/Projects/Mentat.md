@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: project
-memory_count: 2
+memory_count: 3
 last_updated: 2026-04-21
 tags:
   - hub
@@ -10,11 +10,12 @@ tags:
 
 # Mentat
 
-*Project · 2 memories*
+*Project · 3 memories*
 
 
 ## Project
 
+- **2026-04-21** — Jackson implemented a backend fix to Mentat that persists document content across the conversation session, so he doesn't need to re-upload documents for continued context and analysis.
 - **2026-04-21** — Jackson has full access to Mentat's codebase and can review and debug it as needed. The backend uses Python (FastAPI likely) with main.py, database.py, and requirements.txt. The frontend is Next.js wi → [[2026-04-21-12-53-57-Jackson-has-full-access-to-Mentats-codebase-and-c]]
 
 ## Preference
@@ -27,4 +28,4 @@ tags:
 - [[Next.js]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 13:43 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-21 at 14:05 UTC*
