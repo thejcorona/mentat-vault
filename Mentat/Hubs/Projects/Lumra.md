@@ -1,7 +1,7 @@
 ---
 entity: Lumra
 type: project
-memory_count: 25
+memory_count: 26
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,14 +10,14 @@ tags:
 
 # Lumra
 
-*Project · 25 memories*
+*Project · 26 memories*
 
 
 ## Project
 
 - **2026-04-21** — Jackson has provided his complete Lumra cEDH decklist (99 cards from Aftermath Analyst through Zuran Orb) to Mentat multiple times. The decklist verification task requires Mentat to pull every single  → [[2026-04-21-15-12-44-Jackson-has-provided-his-complete-Lumra-cEDH-deckl]]
 - **2026-04-21** — Lumra cEDH primer obtained and studied. Primer clarifies core deck mechanics: (1) Block Buster combo is cast Lumra → sacrifice lands in response to ETB → lands return, generate mana → repeat; (2) Comm → [[2026-04-21-14-22-03-Lumra-cEDH-primer-obtained-and-studied-Primer-cla]]
-- **2026-04-22** — Jackson previously asked Mentat to commit his complete Lumra cEDH decklist (100 cards including commander) plus the combo framework to long-term memory for later interrogation, optimization, and testi
+- **2026-04-22** — Jackson previously asked Mentat to commit his complete Lumra cEDH decklist (100 cards including commander) plus the combo framework to long-term memory for later interrogation, optimization, and testi → [[2026-04-22-04-28-12-Jackson-previously-asked-Mentat-to-commit-his-comp]]
 - **2026-04-22** — Jackson has not yet systematically verified card text from Scryfall for all 100 cards in his Lumra cEDH decklist. Next step is to pull every card from Scryfall, verify mechanics (especially alternate  → [[2026-04-22-04-28-08-Jackson-has-not-yet-systematically-verified-card-t]]
 - **2026-04-21** — Jackson has the complete Lumra cEDH primer from divinerage01 and the Build a Bear Workshop discord community. Primer covers core mechanics (Block Buster combo, Command Beacon/Mirrorpool bypass, Ashaya → [[2026-04-21-15-14-06-Jackson-has-the-complete-Lumra-cEDH-primer-from-di]]
 - **2026-04-21** — Jackson confirmed his Lumra cEDH decklist runs from Aftermath Analyst all the way through to Zuran Orb — 99 cards total. He's currently in the process of having Mentat systematically pull every card f → [[2026-04-21-15-11-16-Jackson-confirmed-his-Lumra-cEDH-decklist-runs-fro]]
@@ -26,6 +26,7 @@ tags:
 - **2026-04-21** — Jackson is asking Mentat to systematically verify every card in his Lumra cEDH decklist by pulling actual card text from Scryfall, including alternate set names (especially Final Fantasy crossover car → [[2026-04-21-14-57-17-Jackson-is-asking-Mentat-to-systematically-verify]]
 - **2026-04-21** — Jackson wants a running list of all combo lines in his Lumra cEDH deck, organized and documented. He's experiencing cognitive overload tracking them mentally and needs external organization. Wants Men → [[2026-04-21-14-53-19-Jackson-wants-a-running-list-of-all-combo-lines-in]]
 - **2026-04-21** — Corrected understanding of Blossoming Tortoise: NOT an untap/tutor piece. Actual role: (1) reduces land activation costs by {1} (directly reduces Lumra's ETB cost), (2) graveyard land recursion on ETB → [[2026-04-21-14-22-05-Corrected-understanding-of-Blossoming-Tortoise-NO]]
+- **2026-04-22** — Jackson has a complete 99-card Lumra cEDH decklist committed to Mentat's memory. He expects systematic card verification against Scryfall with alternate set names mapped to the established combo frame
 - **2026-04-21** — Jackson is asking Mentat to work with an incomplete Lumra cEDH decklist paste that cuts off mid-Boseiju. He needs the complete 99-card decklist pasted in full so Mentat can pull every card systematica → [[2026-04-21-15-02-45-Jackson-is-asking-Mentat-to-work-with-an-incomplet]]
 - **2026-04-21** — Horizon Explorer is a confirmed keeper in the Lumra cEDH deck — land untapper redundancy. Lumra lives and dies by untappers, so redundancy here is critical. → [[2026-04-21-14-37-28-Horizon-Explorer-is-a-confirmed-keeper-in-the-Lumr]]
 - **2026-04-21** — Nature's Rhythm is a confirmed keeper in the Lumra cEDH deck — cheap ETB tutor to battlefield, castable from graveyard when milled. Perfect fit given the deck mills a high volume of cards. → [[2026-04-21-14-37-26-Natures-Rhythm-is-a-confirmed-keeper-in-the-Lumra]]
@@ -49,11 +50,11 @@ tags:
 
 ## Related
 
-- [[Scryfall]] *(10)*
+- [[Scryfall]] *(11)*
 - [[Mentat]] *(8)*
 - [[divinerage01]] *(1)*
 - [[Build a Bear Workshop]] *(1)*
 - [[Build a Bear Workshop]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:28 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 04:34 UTC*
