@@ -1,7 +1,7 @@
 ---
 entity: Pokémon Champions
 type: tool
-memory_count: 5
+memory_count: 6
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,11 +10,12 @@ tags:
 
 # Pokémon Champions
 
-*Tool · 5 memories*
+*Tool · 6 memories*
 
 
 ## Preference
 
+- **2026-04-22** — Plays four competitive video games: Marvel Rivals, Overwatch, Pokémon Champions, and Magic: The Gathering. Has specific role and deck preferences in each. Identifies competitive gaming as a major recu → [[2026-04-22-11-48-16-Plays-four-competitive-video-games-Marvel-Rivals]]
 - **2026-04-21** — Jackson plays four competitive video games: Marvel Rivals, Overwatch, Pokémon Champions, and Magic the Gathering. He has specific role and deck preferences in each that he plans to detail further. → [[2026-04-21-14-08-26-Jackson-plays-four-competitive-video-games-Marvel]]
 - **2026-04-21** — Jackson is currently playing Pokémon Champions on Nintendo Switch — the new competitive battle-focused title that launched April 8, 2026, being used for the 2026 Pokémon World Championships. → [[2026-04-21-13-27-56-Jackson-is-currently-playing-Pokémon-Champions-on]]
 
@@ -29,14 +30,14 @@ tags:
 
 ## Related
 
-- [[Marvel Rivals]] *(2)*
-- [[Overwatch]] *(2)*
+- [[Marvel Rivals]] *(3)*
+- [[Overwatch]] *(3)*
+- [[Magic: The Gathering]] *(2)*
 - [[Nintendo Switch]] *(2)*
 - [[Mentat]] *(1)*
 - [[University of Tasmania School of Medicine]] *(1)*
-- [[Magic: The Gathering]] *(1)*
 - [[Magic the Gathering]] *(1)*
 - [[Mentat]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 11:37 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 11:48 UTC*
