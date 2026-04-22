@@ -1,7 +1,7 @@
 ---
 entity: University of Tasmania School of Medicine
 type: place
-memory_count: 7
+memory_count: 8
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # University of Tasmania School of Medicine
 
-*Place · 7 memories*
+*Place · 8 memories*
 
 
 ## Identity
@@ -26,16 +26,22 @@ tags:
 ## Project
 
 - **2026-04-22** — Jackson is completing medical school logbook entries for two radiation oncology cases: (1) 52F with petrous meningioma presenting with CN4 and CN7 palsies, diplopia, and horizontal midline nystagmus d → [[2026-04-22-05-19-44-Jackson-is-completing-medical-school-logbook-entri]]
-- **2026-04-22** — Jackson is completing medical school logbook entries for radiation oncology cases as part of final year documentation at University of Tasmania School of Medicine. He requires concise (250 words max),
+- **2026-04-22** — Jackson is completing medical school logbook entries for radiation oncology cases as part of final year documentation at University of Tasmania School of Medicine. He requires concise (250 words max), → [[2026-04-22-06-33-08-Jackson-is-completing-medical-school-logbook-entri]]
 
 ## Challenge
 
+- **2026-04-22** — Jackson is currently overwhelmed juggling multiple high-cognitive-load concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (database audit, reference verification, m → [[2026-04-22-11-37-03-Jackson-is-currently-overwhelmed-juggling-multiple]]
 - **2026-04-22** — Jackson is experiencing cognitive overload juggling multiple concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (with four critical operational items remaining), Lu → [[2026-04-22-04-30-24-Jackson-is-experiencing-cognitive-overload-jugglin]]
 
 ## Related
 
 - [[Melbourne]] *(4)*
 - [[Mentat]] *(2)*
+- [[Mentat]] *(1)*
+- [[Marvel Rivals]] *(1)*
+- [[Overwatch]] *(1)*
+- [[Pokémon Champions]] *(1)*
+- [[Magic: The Gathering]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 06:33 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 11:37 UTC*
