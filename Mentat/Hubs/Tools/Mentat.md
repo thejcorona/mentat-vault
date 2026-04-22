@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 41
+memory_count: 42
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 41 memories*
+*Tool · 42 memories*
 
 
 ## Identity
@@ -28,6 +28,7 @@ tags:
 - **2026-04-21** — Mentat made four critical revisions to Jackson's posterior fossa radiotherapy paper: (1) removed duplicate Shultz reference (PMID 30982195); (2) corrected suspected typo in Pikis DOI from s11060-026-0 → [[2026-04-21-13-47-44-Mentat-made-four-critical-revisions-to-Jacksons-p]]
 - **2026-04-21** — Jackson uploaded his HER2+ metastatic breast cancer posterior fossa radiotherapy study working document to Mentat. The document includes methods, inclusion/exclusion criteria, three study cohorts (SRS → [[2026-04-21-13-47-42-Jackson-uploaded-his-HER2-metastatic-breast-cance]]
 - **2026-04-21** — Jackson can directly fix the duplicate Shultz reference (PMID 30982195) and formalize the methodological notes/claims section from working-document style into formal introduction prose. He needs to ve → [[2026-04-21-13-34-46-Jackson-can-directly-fix-the-duplicate-Shultz-refe]]
+- **2026-04-22** — Jackson needs to paste his complete, clean Lumra cEDH decklist (99 cards) so Mentat can systematically pull every card from Scryfall, verify mechanics including alternate set names (especially Final F
 - **2026-04-22** — Jackson previously asked Mentat to commit his complete Lumra cEDH decklist (100 cards including commander) plus the combo framework to long-term memory for later interrogation, optimization, and testi → [[2026-04-22-04-28-12-Jackson-previously-asked-Mentat-to-commit-his-comp]]
 - **2026-04-22** — Jackson asked Mentat to commit his complete Lumra cEDH decklist (100 cards including commander) to long-term memory. He will ask about it later and expects Mentat to have the full accurate list plus t → [[2026-04-22-04-27-28-Jackson-asked-Mentat-to-commit-his-complete-Lumra]]
 - **2026-04-21** — Jackson has the complete Lumra cEDH decklist memorized and documented with Mentat: 99 cards from Aftermath Analyst through Zuran Orb, organized and verified against Scryfall. The decklist is ready for → [[2026-04-21-15-21-19-Jackson-has-the-complete-Lumra-cEDH-decklist-memor]]
@@ -72,14 +73,14 @@ tags:
 ## Related
 
 - [[Lumra]] *(8)*
-- [[Scryfall]] *(6)*
+- [[Scryfall]] *(7)*
 - [[Lumra cEDH deck]] *(4)*
 - [[Melbourne]] *(2)*
 - [[HER2_PosteriorFossa_RT_Study_v2.docx]] *(2)*
 - [[HER2+ metastatic breast cancer posterior fossa radiotherapy study]] *(2)*
+- [[Lumra cEDH]] *(2)*
 - [[Google Calendar]] *(2)*
 - [[University of Tasmania]] *(1)*
-- [[Lumra cEDH]] *(1)*
 - [[Lumra cEDH combo document]] *(1)*
 - [[task-management]] *(1)*
 - [[HER2+ metastatic breast cancer radiotherapy study]] *(1)*
@@ -87,4 +88,4 @@ tags:
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:28 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 04:30 UTC*
