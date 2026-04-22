@@ -25,7 +25,7 @@ tags:
 
 ## Challenge
 
-- **2026-04-22** — Jackson is currently overwhelmed juggling multiple high-cognitive-load concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (database audit, reference verification, m
+- **2026-04-22** — Jackson is currently overwhelmed juggling multiple high-cognitive-load concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (database audit, reference verification, m → [[2026-04-22-11-37-03-Jackson-is-currently-overwhelmed-juggling-multiple]]
 
 ## Related
 
