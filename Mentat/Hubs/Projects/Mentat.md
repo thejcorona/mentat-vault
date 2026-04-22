@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: project
-memory_count: 27
+memory_count: 28
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Project · 27 memories*
+*Project · 28 memories*
 
 
 ## Project
@@ -23,13 +23,14 @@ tags:
 - **2026-04-22** — Jackson requested an interactive Nokia Snake game built in React. Mentat delivered a fully functional game with Nokia 3310 aesthetic (green phosphor screen, D-pad controls, score tracking, progressive → [[2026-04-22-11-53-55-Jackson-requested-an-interactive-Nokia-Snake-game]]
 - **2026-04-22** — Jackson requested a Spotify authorization hyperlink for connecting Spotify to Mentat so Threshold by Vangelis can play automatically when requested. Authorization link provided and pending completion. → [[2026-04-22-11-33-11-Jackson-requested-a-Spotify-authorization-hyperlin]]
 - **2026-04-22** — Frontend builds clean. Next.js 16.2.3 compiled successfully in 5 seconds, TypeScript passed, static pages generated without error. Deployment completed and build cache uploaded. System is healthy. → [[2026-04-22-11-25-07-Frontend-builds-clean-Nextjs-1623-compiled-suc]]
-- **2026-04-22** — Jackson requested Mentat to email Bethany and introduce itself, but clarification was needed on task scope/completion criteria before execution.
+- **2026-04-22** — Jackson requested Mentat to email Bethany and introduce itself, but clarification was needed on task scope/completion criteria before execution. → [[2026-04-22-12-17-15-Jackson-requested-Mentat-to-email-Bethany-and-intr]]
 
 ## Preference
 
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When f → [[2026-04-22-05-39-47-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When frustrated  → [[2026-04-22-04-34-46-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's systematic approach to card evaluation in Lumra: prioritizes understanding INTENDED ROLE (specific synergy, combo piece, interaction mode, ramp payoff) over generic 'is this card good?' asse → [[2026-04-21-14-34-13-Jacksons-systematic-approach-to-card-evaluation-i]]
+- **2026-04-22** — Jackson requested the Spotify authorization link to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested.
 - **2026-04-22** — Jackson requested the Spotify OAuth authorization link to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested. → [[2026-04-22-12-09-36-Jackson-requested-the-Spotify-OAuth-authorization]]
 - **2026-04-22** — Jackson requested to play Mentat's theme song (Threshold by Vangelis) again. This is a recurring request indicating strong attachment to the piece as Mentat's sonic identity. → [[2026-04-22-11-50-41-Jackson-requested-to-play-Mentats-theme-song-Thr]]
 - **2026-04-22** — Jackson requested Mentat to play theme song (Threshold by Vangelis). Mentat has Spotify authorization pending to enable automatic playback when requested. → [[2026-04-22-11-50-17-Jackson-requested-Mentat-to-play-theme-song-Thres]]
@@ -54,8 +55,8 @@ tags:
 
 ## Related
 
-- [[Spotify]] *(7)*
-- [[Vangelis]] *(4)*
+- [[Spotify]] *(8)*
+- [[Vangelis]] *(5)*
 - [[Threshold]] *(3)*
 - [[Magic: The Gathering]] *(2)*
 - [[University of Tasmania]] *(2)*
@@ -71,4 +72,4 @@ tags:
 - [[Google]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 12:17 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 12:20 UTC*
