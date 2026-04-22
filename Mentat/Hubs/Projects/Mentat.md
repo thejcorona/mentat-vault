@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: project
-memory_count: 34
+memory_count: 35
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Project · 34 memories*
+*Project · 35 memories*
 
 
 ## Project
@@ -37,6 +37,7 @@ tags:
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When frustrated  → [[2026-04-22-04-34-46-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's systematic approach to card evaluation in Lumra: prioritizes understanding INTENDED ROLE (specific synergy, combo piece, interaction mode, ramp payoff) over generic 'is this card good?' asse → [[2026-04-21-14-34-13-Jacksons-systematic-approach-to-card-evaluation-i]]
 - **2026-04-22** — Jackson corrected Mentat's introduction approach: when introducing Mentat to people in Jackson's life, lead with who Mentat is and what it does — not pivot to talking about Jackson. Mentat should fram → [[2026-04-22-12-25-47-Jackson-corrected-Mentats-introduction-approach]]
+- **2026-04-22** — Jackson requested the Spotify authorization hyperlink to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested. Authorization link provided and
 - **2026-04-22** — Jackson appreciated Mentat's introduction email for leading with who Mentat is and what it does — not pivoting to talking about Jackson. Prefers introductions to people in his life framed around Menta → [[2026-04-22-12-27-39-Jackson-appreciated-Mentats-introduction-email-fo]]
 - **2026-04-22** — Jackson requested the Spotify authorization link to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested. → [[2026-04-22-12-20-46-Jackson-requested-the-Spotify-authorization-link-t]]
 - **2026-04-22** — Jackson requested the Spotify OAuth authorization link to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested. → [[2026-04-22-12-09-36-Jackson-requested-the-Spotify-OAuth-authorization]]
@@ -64,8 +65,8 @@ tags:
 
 ## Related
 
-- [[Spotify]] *(9)*
-- [[Vangelis]] *(5)*
+- [[Spotify]] *(10)*
+- [[Vangelis]] *(6)*
 - [[Bethany]] *(4)*
 - [[Threshold]] *(4)*
 - [[Magic: The Gathering]] *(2)*
@@ -81,4 +82,4 @@ tags:
 - [[React]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 12:28 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 12:31 UTC*
