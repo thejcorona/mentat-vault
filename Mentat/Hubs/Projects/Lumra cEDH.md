@@ -1,7 +1,7 @@
 ---
 entity: Lumra cEDH
 type: project
-memory_count: 10
+memory_count: 11
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,12 +10,13 @@ tags:
 
 # Lumra cEDH
 
-*Project · 10 memories*
+*Project · 11 memories*
 
 
 ## Project
 
-- **2026-04-22** — Lumra cEDH decklist confirmed locked at 100 cards (99 + commander). Complete list from Aftermath Analyst through Zuran Orb. Decklist is clean and ready for card-by-card interrogation against establish
+- **2026-04-22** — Jackson needs to paste his complete, clean Lumra cEDH decklist (99 cards) so Mentat can systematically pull every card from Scryfall, verify mechanics including alternate set names (especially Final F → [[2026-04-22-04-30-20-Jackson-needs-to-paste-his-complete-clean-Lumra-c]]
+- **2026-04-22** — Lumra cEDH decklist confirmed locked at 100 cards (99 + commander). Complete list from Aftermath Analyst through Zuran Orb. Decklist is clean and ready for card-by-card interrogation against establish → [[2026-04-22-04-26-35-Lumra-cEDH-decklist-confirmed-locked-at-100-cards]]
 - **2026-04-21** — Jackson's next phase with the Lumra cEDH deck is interrogating the four remaining flex cards (Fal'Cie Paradise, Formidable Speaker, Insidious Fungus, Chord of Calling) by pulling actual card text from → [[2026-04-21-15-20-30-Jacksons-next-phase-with-the-Lumra-cEDH-deck-is-i]]
 - **2026-04-21** — Jackson has the complete Lumra cEDH decklist (99 cards from Aftermath Analyst through Zuran Orb) documented and verified against Scryfall. The decklist is held in Mentat's memory and ready for card-by → [[2026-04-21-15-20-28-Jackson-has-the-complete-Lumra-cEDH-decklist-99-c]]
 - **2026-04-21** — Ba Sing Se in Lumra cEDH deck is a confirmed keeper — the Earthbend ability functions as a legitimate combo piece, not just conditional ramp. Line 1: Ashaya + Lumra + untapper + sac outlet creates a f → [[2026-04-21-14-46-15-Ba-Sing-Se-in-Lumra-cEDH-deck-is-a-confirmed-keepe]]
@@ -37,8 +38,8 @@ tags:
 
 ## Related
 
-- [[Scryfall]] *(2)*
-- [[Mentat]] *(1)*
+- [[Scryfall]] *(3)*
+- [[Mentat]] *(2)*
 - [[Ba Sing Se]] *(1)*
 - [[Ashaya]] *(1)*
 - [[Earthbend]] *(1)*
@@ -49,4 +50,4 @@ tags:
 - [[Build a Bear Workshop]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:26 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 04:30 UTC*
