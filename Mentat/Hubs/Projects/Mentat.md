@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: project
-memory_count: 30
+memory_count: 31
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Project · 30 memories*
+*Project · 31 memories*
 
 
 ## Project
@@ -35,6 +35,7 @@ tags:
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When f → [[2026-04-22-05-39-47-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When frustrated  → [[2026-04-22-04-34-46-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's systematic approach to card evaluation in Lumra: prioritizes understanding INTENDED ROLE (specific synergy, combo piece, interaction mode, ramp payoff) over generic 'is this card good?' asse → [[2026-04-21-14-34-13-Jacksons-systematic-approach-to-card-evaluation-i]]
+- **2026-04-22** — Jackson corrected Mentat's introduction approach: when introducing Mentat to people in Jackson's life, lead with who Mentat is and what it does — not pivot to talking about Jackson. Mentat should fram
 - **2026-04-22** — Jackson requested the Spotify authorization link to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested. → [[2026-04-22-12-20-46-Jackson-requested-the-Spotify-authorization-link-t]]
 - **2026-04-22** — Jackson requested the Spotify OAuth authorization link to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested. → [[2026-04-22-12-09-36-Jackson-requested-the-Spotify-OAuth-authorization]]
 - **2026-04-22** — Jackson requested to play Mentat's theme song (Threshold by Vangelis) again. This is a recurring request indicating strong attachment to the piece as Mentat's sonic identity. → [[2026-04-22-11-50-41-Jackson-requested-to-play-Mentats-theme-song-Thr]]
@@ -63,11 +64,11 @@ tags:
 - [[Spotify]] *(9)*
 - [[Vangelis]] *(5)*
 - [[Threshold]] *(4)*
+- [[Bethany]] *(3)*
 - [[Magic: The Gathering]] *(2)*
 - [[University of Tasmania]] *(2)*
 - [[Scryfall]] *(2)*
 - [[Next.js]] *(2)*
-- [[Bethany]] *(2)*
 - [[University of Tasmania School of Medicine]] *(1)*
 - [[Marvel Rivals]] *(1)*
 - [[Overwatch]] *(1)*
@@ -77,4 +78,4 @@ tags:
 - [[React]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 12:24 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 12:25 UTC*
