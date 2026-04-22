@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: project
-memory_count: 12
+memory_count: 13
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Project · 12 memories*
+*Project · 13 memories*
 
 
 ## Project
@@ -30,9 +30,13 @@ tags:
 ## Challenge
 
 - **2026-04-21** — Jackson is currently overwhelmed juggling multiple concurrent projects (posterior fossa radiotherapy paper, Lumra cEDH deck optimization, competitive gaming, medical school final year). He uses Mentat → [[2026-04-21-14-23-36-Jackson-is-currently-overwhelmed-juggling-multiple]]
-- **2026-04-22** — Jackson is currently juggling multiple concurrent high-cognitive-load projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (database audit, reference verification, methodologica
+- **2026-04-22** — Jackson is currently juggling multiple concurrent high-cognitive-load projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (database audit, reference verification, methodologica → [[2026-04-22-05-39-49-Jackson-is-currently-juggling-multiple-concurrent]]
 - **2026-04-22** — Jackson is experiencing cognitive overload juggling multiple concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper, Lumra cEDH deck optimization, competitive gaming, a → [[2026-04-22-04-34-45-Jackson-is-experiencing-cognitive-overload-jugglin]]
 - **2026-04-21** — Jackson asked Mentat to scrap the corrupted Lumra cEDH decklist and start fresh tomorrow. He needs clean, systematic execution without ambiguity when externalizing cognitive load. This reflects his pa → [[2026-04-21-15-38-49-Jackson-asked-Mentat-to-scrap-the-corrupted-Lumra]]
+
+## Context
+
+- **2026-04-22** — Backend infrastructure is stable — Railway deployment successful at 11:23 UTC with clean logs, no errors. Container routing working as expected, all graph retrievals functioning correctly. → [[2026-04-22-11-24-18-Backend-infrastructure-is-stable--Railway-deploym]]
 
 ## Related
 
@@ -41,6 +45,7 @@ tags:
 - [[Lumra cEDH]] *(1)*
 - [[FastAPI]] *(1)*
 - [[Next.js]] *(1)*
+- [[Railway]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 05:39 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 11:24 UTC*
