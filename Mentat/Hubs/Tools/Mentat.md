@@ -1,8 +1,8 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 37
-last_updated: 2026-04-21
+memory_count: 38
+last_updated: 2026-04-22
 tags:
   - hub
   - tool
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 37 memories*
+*Tool · 38 memories*
 
 
 ## Identity
@@ -20,8 +20,8 @@ tags:
 
 ## Project
 
-- **2026-04-21** — Jackson's posterior fossa HER2+ metastatic breast cancer radiotherapy paper is missing several high-priority references that directly support his study design and systemic therapy variables. Zare et a
-- **2026-04-21** — Jackson is systematically running a literature review on HER2-positive metastatic breast cancer with intracranial metastases and radiotherapy failure patterns to identify gaps in his posterior fossa s
+- **2026-04-21** — Jackson's posterior fossa HER2+ metastatic breast cancer radiotherapy paper is missing several high-priority references that directly support his study design and systemic therapy variables. Zare et a → [[2026-04-21-22-56-06-Jacksons-posterior-fossa-HER2-metastatic-breast]]
+- **2026-04-21** — Jackson is systematically running a literature review on HER2-positive metastatic breast cancer with intracranial metastases and radiotherapy failure patterns to identify gaps in his posterior fossa s → [[2026-04-21-22-56-04-Jackson-is-systematically-running-a-literature-rev]]
 - **2026-04-21** — Currently working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases treated with radiotherapy. Study compares three treatment arms (SRS any locati → [[2026-04-21-22-51-04-Currently-working-on-a-retrospective-cohort-study]]
 - **2026-04-21** — Actively working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases treated with radiotherapy. Study compares three treatment arms (SRS any locatio → [[2026-04-21-21-43-08-Actively-working-on-a-retrospective-cohort-study-o]]
 - **2026-04-21** — Actively working on multiple research papers in the radiation oncology field. Currently working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases  → [[2026-04-21-15-30-10-Actively-working-on-multiple-research-papers-in-th]]
@@ -54,6 +54,7 @@ tags:
 
 ## Challenge
 
+- **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When f
 - **2026-04-21** — Jackson's pattern when externalizing complex mental workload: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated during high-cognitive-load tasks (e → [[2026-04-21-15-16-58-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra cEDH combo lines simultaneously. He needs Mentat to systematically verify every card in his Lumra decklist by pulling actua → [[2026-04-21-15-02-41-Jackson-is-experiencing-cognitive-overload-trying]]
 - **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra combo lines simultaneously. This is part of his broader pattern of using Mentat to externalize and organize mental workload → [[2026-04-21-14-53-23-Jackson-is-experiencing-cognitive-overload-trying]]
@@ -83,4 +84,4 @@ tags:
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 22:56 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 04:26 UTC*
