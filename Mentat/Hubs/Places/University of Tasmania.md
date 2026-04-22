@@ -1,7 +1,7 @@
 ---
 entity: University of Tasmania
 type: place
-memory_count: 3
+memory_count: 4
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # University of Tasmania
 
-*Place · 3 memories*
+*Place · 4 memories*
 
 
 ## Identity
@@ -23,14 +23,15 @@ tags:
 
 ## Challenge
 
+- **2026-04-22** — Jackson is currently juggling multiple concurrent high-cognitive-load projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (database audit, reference verification, methodologica → [[2026-04-22-05-39-49-Jackson-is-currently-juggling-multiple-concurrent]]
 - **2026-04-22** — Jackson is experiencing cognitive overload juggling multiple concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper, Lumra cEDH deck optimization, competitive gaming, a → [[2026-04-22-04-34-45-Jackson-is-experiencing-cognitive-overload-jugglin]]
 
 ## Related
 
+- [[Mentat]] *(2)*
 - [[Mentat]] *(1)*
 - [[Melbourne]] *(1)*
 - [[UTAS]] *(1)*
-- [[Mentat]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:36 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 05:39 UTC*
