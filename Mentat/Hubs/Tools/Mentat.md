@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 49
+memory_count: 51
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 49 memories*
+*Tool · 51 memories*
 
 
 ## Identity
@@ -44,6 +44,7 @@ tags:
 - **2026-04-21** — Jackson wants Mentat to remind him about connecting Google Calendar for database audit automation when he asks about workload or next steps on the posterior fossa paper. This is a foundational task th → [[2026-04-21-13-39-25-Jackson-wants-Mentat-to-remind-him-about-connectin]]
 - **2026-04-21** — Jackson wants to integrate his database audit checklist into his daily spread/calendar system. Mentat offered to connect Google Calendar to automate this, but Jackson can also add it manually in the m → [[2026-04-21-13-36-12-Jackson-wants-to-integrate-his-database-audit-chec]]
 - **2026-04-21** — Jackson uploaded a working document for his HER2+ metastatic breast cancer posterior fossa radiotherapy study. The document is now stored in Mentat for reference and iteration. Document includes metho → [[2026-04-21-13-33-58-Jackson-uploaded-a-working-document-for-his-HER2]]
+- **2026-04-22** — Jackson is completing medical school logbook entries for radiation oncology cases as part of final year documentation at University of Tasmania School of Medicine. He requires concise (250 words max), → [[2026-04-22-06-33-08-Jackson-is-completing-medical-school-logbook-entri]]
 - **2026-04-21** — Jackson is asking Mentat to work with an incomplete Lumra cEDH decklist paste that cuts off mid-Boseiju. He needs the complete 99-card decklist pasted in full so Mentat can pull every card systematica → [[2026-04-21-15-02-45-Jackson-is-asking-Mentat-to-work-with-an-incomplet]]
 
 ## Preference
@@ -69,6 +70,7 @@ tags:
 - **2026-04-21** — Jackson's pattern when externalizing complex mental workload: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated during high-cognitive-load tasks (e → [[2026-04-21-15-16-58-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra cEDH combo lines simultaneously. He needs Mentat to systematically verify every card in his Lumra decklist by pulling actua → [[2026-04-21-15-02-41-Jackson-is-experiencing-cognitive-overload-trying]]
 - **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra combo lines simultaneously. This is part of his broader pattern of using Mentat to externalize and organize mental workload → [[2026-04-21-14-53-23-Jackson-is-experiencing-cognitive-overload-trying]]
+- **2026-04-22** — Jackson's pattern when requesting summarization or documentation work from Mentat: he specifies 'No further questions about them' or similar directives, indicating he wants clean execution and output 
 
 ## Context
 
@@ -83,11 +85,11 @@ tags:
 - [[Lumra]] *(8)*
 - [[Lumra cEDH deck]] *(4)*
 - [[Lumra cEDH]] *(3)*
+- [[University of Tasmania School of Medicine]] *(2)*
 - [[Melbourne]] *(2)*
 - [[HER2_PosteriorFossa_RT_Study_v2.docx]] *(2)*
 - [[HER2+ metastatic breast cancer posterior fossa radiotherapy study]] *(2)*
 - [[Google Calendar]] *(2)*
-- [[University of Tasmania School of Medicine]] *(1)*
 - [[University of Tasmania]] *(1)*
 - [[Lumra cEDH combo document]] *(1)*
 - [[task-management]] *(1)*
@@ -96,4 +98,4 @@ tags:
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 05:36 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 06:33 UTC*
