@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 39
+memory_count: 41
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 39 memories*
+*Tool · 41 memories*
 
 
 ## Identity
@@ -28,6 +28,7 @@ tags:
 - **2026-04-21** — Mentat made four critical revisions to Jackson's posterior fossa radiotherapy paper: (1) removed duplicate Shultz reference (PMID 30982195); (2) corrected suspected typo in Pikis DOI from s11060-026-0 → [[2026-04-21-13-47-44-Mentat-made-four-critical-revisions-to-Jacksons-p]]
 - **2026-04-21** — Jackson uploaded his HER2+ metastatic breast cancer posterior fossa radiotherapy study working document to Mentat. The document includes methods, inclusion/exclusion criteria, three study cohorts (SRS → [[2026-04-21-13-47-42-Jackson-uploaded-his-HER2-metastatic-breast-cance]]
 - **2026-04-21** — Jackson can directly fix the duplicate Shultz reference (PMID 30982195) and formalize the methodological notes/claims section from working-document style into formal introduction prose. He needs to ve → [[2026-04-21-13-34-46-Jackson-can-directly-fix-the-duplicate-Shultz-refe]]
+- **2026-04-22** — Jackson previously asked Mentat to commit his complete Lumra cEDH decklist (100 cards including commander) plus the combo framework to long-term memory for later interrogation, optimization, and testi
 - **2026-04-22** — Jackson asked Mentat to commit his complete Lumra cEDH decklist (100 cards including commander) to long-term memory. He will ask about it later and expects Mentat to have the full accurate list plus t → [[2026-04-22-04-27-28-Jackson-asked-Mentat-to-commit-his-complete-Lumra]]
 - **2026-04-21** — Jackson has the complete Lumra cEDH decklist memorized and documented with Mentat: 99 cards from Aftermath Analyst through Zuran Orb, organized and verified against Scryfall. The decklist is ready for → [[2026-04-21-15-21-19-Jackson-has-the-complete-Lumra-cEDH-decklist-memor]]
 - **2026-04-21** — Jackson has the complete Lumra cEDH decklist (99 cards from Aftermath Analyst through Zuran Orb) documented and verified against Scryfall. The decklist is held in Mentat's memory and ready for card-by → [[2026-04-21-15-20-28-Jackson-has-the-complete-Lumra-cEDH-decklist-99-c]]
@@ -47,6 +48,7 @@ tags:
 
 - **2026-04-21** — Jackson's pattern when externalizing complex mental workload to Mentat: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this' → [[2026-04-21-15-22-42-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's pattern during high-cognitive-load externalizing tasks: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this'), he  → [[2026-04-21-15-20-32-Jacksons-pattern-during-high-cognitive-load-exter]]
+- **2026-04-22** — Jackson's pattern during high-cognitive-load externalizing tasks with Mentat: needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck th
 - **2026-04-21** — Jackson's systematic approach to overwhelming workload: prioritizes operational/foundational items (database verification, reference accuracy, methodological definitions) before polishing presentation → [[2026-04-21-22-51-07-Jacksons-systematic-approach-to-overwhelming-work]]
 - **2026-04-21** — Jackson's pattern of demanding accuracy and systematic verification before proceeding is acute during high-cognitive-load situations. When frustrated (e.g., 'Fuck this'), he needs Mentat to stop askin → [[2026-04-21-15-12-41-Jacksons-pattern-of-demanding-accuracy-and-system]]
 - **2026-04-21** — Jackson values having a system (Mentat) that can hold and organize his workload so he doesn't have to carry it alone mentally. He responds positively to reassurance and clear next-step direction when  → [[2026-04-21-13-23-03-Jackson-values-having-a-system-Mentat-that-can-h]]
@@ -69,7 +71,7 @@ tags:
 
 ## Related
 
-- [[Lumra]] *(7)*
+- [[Lumra]] *(8)*
 - [[Scryfall]] *(6)*
 - [[Lumra cEDH deck]] *(4)*
 - [[Melbourne]] *(2)*
@@ -85,4 +87,4 @@ tags:
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:27 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 04:28 UTC*
