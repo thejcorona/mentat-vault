@@ -1,7 +1,7 @@
 ---
 entity: Bethany
 type: person
-memory_count: 8
+memory_count: 9
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Bethany
 
-*Person · 8 memories*
+*Person · 9 memories*
 
 
 ## Project
@@ -25,12 +25,16 @@ tags:
 - **2026-04-21** — Bethany is Jackson's wife and Wren's mother. → [[2026-04-21-13-16-41-Bethany-is-Jacksons-wife-and-Wrens-mother]]
 - **2026-04-21** — Married to Bethany → [[2026-04-21-13-15-29-Married-to-Bethany]]
 - **2026-04-22** — Bethany's email is bethmvcorona@gmail.com. She is Jackson's wife and Wren's mother. → [[2026-04-22-12-22-15-Bethanys-email-is-bethmvcoronagmailcom-She-is]]
-- **2026-04-22** — Jackson asked Mentat to email Bethany and introduce itself. This is a relationship-building action indicating Jackson values integrating his AI assistant into his personal/family life and wants Bethan
+- **2026-04-22** — Jackson asked Mentat to email Bethany and introduce itself. This is a relationship-building action indicating Jackson values integrating his AI assistant into his personal/family life and wants Bethan → [[2026-04-22-12-24-07-Jackson-asked-Mentat-to-email-Bethany-and-introduc]]
+
+## Preference
+
+- **2026-04-22** — Jackson corrected Mentat's introduction approach: when introducing Mentat to people in Jackson's life, lead with who Mentat is and what it does — not pivot to talking about Jackson. Mentat should fram → [[2026-04-22-12-25-47-Jackson-corrected-Mentats-introduction-approach]]
 
 ## Related
 
 - [[Wren]] *(3)*
-- [[Mentat]] *(2)*
+- [[Mentat]] *(3)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 12:24 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 12:25 UTC*
