@@ -15,11 +15,11 @@ tags:
 
 ## Context
 
-- **2026-04-22** — Backend infrastructure is stable — Railway deployment successful at 11:23 UTC with clean logs, no errors. Container routing working as expected, all graph retrievals functioning correctly.
+- **2026-04-22** — Backend infrastructure is stable — Railway deployment successful at 11:23 UTC with clean logs, no errors. Container routing working as expected, all graph retrievals functioning correctly. → [[2026-04-22-11-24-18-Backend-infrastructure-is-stable--Railway-deploym]]
 
 ## Related
 
 - [[Mentat]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 11:24 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 11:25 UTC*
