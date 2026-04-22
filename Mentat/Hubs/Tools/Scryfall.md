@@ -1,7 +1,7 @@
 ---
 entity: Scryfall
 type: tool
-memory_count: 22
+memory_count: 23
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Scryfall
 
-*Tool · 22 memories*
+*Tool · 23 memories*
 
 
 ## Identity
@@ -31,6 +31,7 @@ tags:
 - **2026-04-21** — Jackson is asking Mentat to systematically verify every card in his Lumra cEDH decklist by pulling actual card text from Scryfall, including alternate set names (especially Final Fantasy crossover car → [[2026-04-21-14-57-17-Jackson-is-asking-Mentat-to-systematically-verify]]
 - **2026-04-21** — Jackson wants a running list of all combo lines in his Lumra cEDH deck, organized and documented. He's experiencing cognitive overload tracking them mentally and needs external organization. Wants Men → [[2026-04-21-14-53-19-Jackson-wants-a-running-list-of-all-combo-lines-in]]
 - **2026-04-21** — Jackson is interrogating his Lumra cEDH decklist card-by-card with Mentat. Key cards under review for intended role/synergy: Ba Sing Se (land ramp/theft tech), Balamb Garden (dual-faced land with card → [[2026-04-21-14-34-12-Jackson-is-interrogating-his-Lumra-cEDH-decklist-c]]
+- **2026-04-22** — Jackson requested an interactive Magic: The Gathering game prototype where he can play against an AI opponent with card rendering from Scryfall API. Mentat built a React-based MTG arena with deck mana → [[2026-04-22-11-36-58-Jackson-requested-an-interactive-Magic-The-Gather]]
 - **2026-04-22** — Jackson has a complete 99-card Lumra cEDH decklist committed to Mentat's memory. He expects systematic card verification against Scryfall with alternate set names mapped to the established combo frame → [[2026-04-22-04-34-48-Jackson-has-a-complete-99-card-Lumra-cEDH-decklist]]
 - **2026-04-21** — Jackson is currently interrogating four remaining Lumra cEDH flex cards for intended role/synergy before accepting inclusion: Fal'Cie Paradise, Formidable Speaker, Insidious Fungus, Chord of Calling.  → [[2026-04-21-15-17-01-Jackson-is-currently-interrogating-four-remaining]]
 - **2026-04-21** — Jackson is asking Mentat to work with an incomplete Lumra cEDH decklist paste that cuts off mid-Boseiju. He needs the complete 99-card decklist pasted in full so Mentat can pull every card systematica → [[2026-04-21-15-02-45-Jackson-is-asking-Mentat-to-work-with-an-incomplet]]
@@ -52,9 +53,9 @@ tags:
 - [[Lumra]] *(11)*
 - [[Mentat]] *(8)*
 - [[Lumra cEDH]] *(5)*
+- [[Mentat]] *(2)*
+- [[Magic: The Gathering]] *(2)*
 - [[Lumra cEDH deck]] *(2)*
-- [[Mentat]] *(1)*
-- [[Magic: The Gathering]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:36 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 11:37 UTC*
