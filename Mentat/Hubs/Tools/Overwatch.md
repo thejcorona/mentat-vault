@@ -1,7 +1,7 @@
 ---
 entity: Overwatch
 type: tool
-memory_count: 2
+memory_count: 3
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,11 +10,12 @@ tags:
 
 # Overwatch
 
-*Tool · 2 memories*
+*Tool · 3 memories*
 
 
 ## Preference
 
+- **2026-04-22** — Plays four competitive video games: Marvel Rivals, Overwatch, Pokémon Champions, and Magic: The Gathering. Has specific role and deck preferences in each. Identifies competitive gaming as a major recu → [[2026-04-22-11-48-16-Plays-four-competitive-video-games-Marvel-Rivals]]
 - **2026-04-21** — Jackson plays four competitive video games: Marvel Rivals, Overwatch, Pokémon Champions, and Magic the Gathering. He has specific role and deck preferences in each that he plans to detail further. → [[2026-04-21-14-08-26-Jackson-plays-four-competitive-video-games-Marvel]]
 
 ## Challenge
@@ -23,12 +24,12 @@ tags:
 
 ## Related
 
-- [[Marvel Rivals]] *(2)*
-- [[Pokémon Champions]] *(2)*
+- [[Marvel Rivals]] *(3)*
+- [[Pokémon Champions]] *(3)*
+- [[Magic: The Gathering]] *(2)*
 - [[Mentat]] *(1)*
 - [[University of Tasmania School of Medicine]] *(1)*
-- [[Magic: The Gathering]] *(1)*
 - [[Magic the Gathering]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 11:37 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 11:48 UTC*
