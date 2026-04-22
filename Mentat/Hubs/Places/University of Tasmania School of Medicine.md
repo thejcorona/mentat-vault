@@ -1,7 +1,7 @@
 ---
 entity: University of Tasmania School of Medicine
 type: place
-memory_count: 9
+memory_count: 10
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,11 +10,12 @@ tags:
 
 # University of Tasmania School of Medicine
 
-*Place · 9 memories*
+*Place · 10 memories*
 
 
 ## Identity
 
+- **2026-04-22** — Jackson Corona is a final year medical student at the University of Tasmania School of Medicine, graduating next year. Career goal is to become a Radiation Oncologist — this is the north star that sha
 - **2026-04-22** — Jackson is in final year of medical school at University of Tasmania School of Medicine, graduating next year. Career goal is to become a Radiation Oncologist — north star shaping paper selection, app → [[2026-04-22-05-39-45-Jackson-is-in-final-year-of-medical-school-at-Univ]]
 - **2026-04-21** — Jackson is a final year medical student at the University of Tasmania School of Medicine. Career goal is to become a Radiation Oncologist — this is the north star that shapes paper selection, applicat → [[2026-04-21-15-30-06-Jackson-is-a-final-year-medical-student-at-the-Uni]]
 
@@ -39,8 +40,9 @@ tags:
 
 ## Related
 
-- [[Melbourne]] *(4)*
+- [[Melbourne]] *(5)*
 - [[Mentat]] *(3)*
+- [[Radiation Oncology]] *(1)*
 - [[Lumra]] *(1)*
 - [[Mentat]] *(1)*
 - [[Marvel Rivals]] *(1)*
@@ -49,4 +51,4 @@ tags:
 - [[Magic: The Gathering]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 11:48 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 12:26 UTC*
