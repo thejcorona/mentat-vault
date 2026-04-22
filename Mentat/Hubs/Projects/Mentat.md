@@ -35,7 +35,7 @@ tags:
 
 ## Challenge
 
-- **2026-04-22** — Jackson is currently overwhelmed juggling multiple high-cognitive-load concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (database audit, reference verification, m
+- **2026-04-22** — Jackson is currently overwhelmed juggling multiple high-cognitive-load concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (database audit, reference verification, m → [[2026-04-22-11-37-03-Jackson-is-currently-overwhelmed-juggling-multiple]]
 - **2026-04-21** — Jackson is currently overwhelmed juggling multiple concurrent projects (posterior fossa radiotherapy paper, Lumra cEDH deck optimization, competitive gaming, medical school final year). He uses Mentat → [[2026-04-21-14-23-36-Jackson-is-currently-overwhelmed-juggling-multiple]]
 - **2026-04-22** — Jackson is currently juggling multiple concurrent high-cognitive-load projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (database audit, reference verification, methodologica → [[2026-04-22-05-39-49-Jackson-is-currently-juggling-multiple-concurrent]]
 - **2026-04-22** — Jackson is experiencing cognitive overload juggling multiple concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper, Lumra cEDH deck optimization, competitive gaming, a → [[2026-04-22-04-34-45-Jackson-is-experiencing-cognitive-overload-jugglin]]
