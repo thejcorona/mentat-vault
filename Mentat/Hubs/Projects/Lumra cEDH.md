@@ -15,7 +15,7 @@ tags:
 
 ## Project
 
-- **2026-04-22** — Jackson is systematically identifying potential combo lines in his Lumra cEDH deck that haven't been documented yet. Key candidates include: Azusa + land untapper for mana generation without requiring
+- **2026-04-22** — Jackson is systematically identifying potential combo lines in his Lumra cEDH deck that haven't been documented yet. Key candidates include: Azusa + land untapper for mana generation without requiring → [[2026-04-22-04-38-43-Jackson-is-systematically-identifying-potential-co]]
 - **2026-04-22** — Jackson has a complete Lumra cEDH (Competitive Elder Dragon Highlander) decklist committed to Mentat's memory — 99 cards plus commander. Decklist is locked and verified against Scryfall for accurate c → [[2026-04-22-04-35-03-Jackson-has-a-complete-Lumra-cEDH-Competitive-Eld]]
 - **2026-04-22** — Jackson has a complete 99-card Lumra cEDH decklist committed to Mentat's memory. He expects Mentat to pull every card systematically from Scryfall, verify mechanics including alternate set names (espe → [[2026-04-22-04-31-47-Jackson-has-a-complete-99-card-Lumra-cEDH-decklist]]
 - **2026-04-22** — Jackson needs to paste his complete, clean Lumra cEDH decklist (99 cards) so Mentat can systematically pull every card from Scryfall, verify mechanics including alternate set names (especially Final F → [[2026-04-22-04-30-20-Jackson-needs-to-paste-his-complete-clean-Lumra-c]]
