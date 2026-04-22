@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 42
+memory_count: 43
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 42 memories*
+*Tool · 43 memories*
 
 
 ## Identity
@@ -58,6 +58,7 @@ tags:
 
 ## Challenge
 
+- **2026-04-22** — Jackson is experiencing cognitive overload juggling multiple concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (with four critical operational items remaining), Lu
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When f → [[2026-04-22-04-26-38-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's pattern when externalizing complex mental workload: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated during high-cognitive-load tasks (e → [[2026-04-21-15-16-58-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra cEDH combo lines simultaneously. He needs Mentat to systematically verify every card in his Lumra decklist by pulling actua → [[2026-04-21-15-02-41-Jackson-is-experiencing-cognitive-overload-trying]]
@@ -80,6 +81,7 @@ tags:
 - [[HER2+ metastatic breast cancer posterior fossa radiotherapy study]] *(2)*
 - [[Lumra cEDH]] *(2)*
 - [[Google Calendar]] *(2)*
+- [[University of Tasmania School of Medicine]] *(1)*
 - [[University of Tasmania]] *(1)*
 - [[Lumra cEDH combo document]] *(1)*
 - [[task-management]] *(1)*
