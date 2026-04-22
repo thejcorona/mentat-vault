@@ -1,7 +1,7 @@
 ---
 entity: Lumra
 type: project
-memory_count: 26
+memory_count: 27
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Lumra
 
-*Project · 26 memories*
+*Project · 27 memories*
 
 
 ## Project
@@ -43,6 +43,7 @@ tags:
 
 ## Challenge
 
+- **2026-04-22** — Jackson expressed acute frustration with the Lumra cEDH decklist verification process. He asked Mentat to delete the entire decklist from memory and restart fresh. He needs clean, systematic execution
 - **2026-04-21** — Jackson expressed acute frustration with the Lumra cEDH decklist verification process and asked Mentat to delete the entire decklist from memory and restart fresh tomorrow. He needs clean, systematic  → [[2026-04-21-15-22-40-Jackson-expressed-acute-frustration-with-the-Lumra]]
 - **2026-04-21** — Jackson expressed acute frustration with the Lumra cEDH decklist verification process, saying 'Fuck this' after providing the complete 99-card list multiple times. Mentat had been asking for clarifica → [[2026-04-21-15-12-40-Jackson-expressed-acute-frustration-with-the-Lumra]]
 - **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra cEDH combo lines simultaneously. He needs Mentat to systematically verify every card in his Lumra decklist by pulling actua → [[2026-04-21-15-02-41-Jackson-is-experiencing-cognitive-overload-trying]]
@@ -57,4 +58,4 @@ tags:
 - [[Build a Bear Workshop]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:36 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 11:47 UTC*
