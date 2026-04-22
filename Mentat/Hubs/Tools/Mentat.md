@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 38
+memory_count: 39
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 38 memories*
+*Tool · 39 memories*
 
 
 ## Identity
@@ -28,6 +28,7 @@ tags:
 - **2026-04-21** — Mentat made four critical revisions to Jackson's posterior fossa radiotherapy paper: (1) removed duplicate Shultz reference (PMID 30982195); (2) corrected suspected typo in Pikis DOI from s11060-026-0 → [[2026-04-21-13-47-44-Mentat-made-four-critical-revisions-to-Jacksons-p]]
 - **2026-04-21** — Jackson uploaded his HER2+ metastatic breast cancer posterior fossa radiotherapy study working document to Mentat. The document includes methods, inclusion/exclusion criteria, three study cohorts (SRS → [[2026-04-21-13-47-42-Jackson-uploaded-his-HER2-metastatic-breast-cance]]
 - **2026-04-21** — Jackson can directly fix the duplicate Shultz reference (PMID 30982195) and formalize the methodological notes/claims section from working-document style into formal introduction prose. He needs to ve → [[2026-04-21-13-34-46-Jackson-can-directly-fix-the-duplicate-Shultz-refe]]
+- **2026-04-22** — Jackson asked Mentat to commit his complete Lumra cEDH decklist (100 cards including commander) to long-term memory. He will ask about it later and expects Mentat to have the full accurate list plus t → [[2026-04-22-04-27-28-Jackson-asked-Mentat-to-commit-his-complete-Lumra]]
 - **2026-04-21** — Jackson has the complete Lumra cEDH decklist memorized and documented with Mentat: 99 cards from Aftermath Analyst through Zuran Orb, organized and verified against Scryfall. The decklist is ready for → [[2026-04-21-15-21-19-Jackson-has-the-complete-Lumra-cEDH-decklist-memor]]
 - **2026-04-21** — Jackson has the complete Lumra cEDH decklist (99 cards from Aftermath Analyst through Zuran Orb) documented and verified against Scryfall. The decklist is held in Mentat's memory and ready for card-by → [[2026-04-21-15-20-28-Jackson-has-the-complete-Lumra-cEDH-decklist-99-c]]
 - **2026-04-21** — Jackson created a comprehensive Lumra cEDH combo document with Mentat, organizing all major combo lines step-by-step: Block Buster (primary), Ashaya + Vesuva instant-speed loop, Ba Sing Se Line 1 (Ash → [[2026-04-21-15-16-55-Jackson-created-a-comprehensive-Lumra-cEDH-combo-d]]
@@ -54,7 +55,7 @@ tags:
 
 ## Challenge
 
-- **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When f
+- **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When f → [[2026-04-22-04-26-38-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's pattern when externalizing complex mental workload: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated during high-cognitive-load tasks (e → [[2026-04-21-15-16-58-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra cEDH combo lines simultaneously. He needs Mentat to systematically verify every card in his Lumra decklist by pulling actua → [[2026-04-21-15-02-41-Jackson-is-experiencing-cognitive-overload-trying]]
 - **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra combo lines simultaneously. This is part of his broader pattern of using Mentat to externalize and organize mental workload → [[2026-04-21-14-53-23-Jackson-is-experiencing-cognitive-overload-trying]]
@@ -70,7 +71,7 @@ tags:
 
 - [[Lumra]] *(7)*
 - [[Scryfall]] *(6)*
-- [[Lumra cEDH deck]] *(3)*
+- [[Lumra cEDH deck]] *(4)*
 - [[Melbourne]] *(2)*
 - [[HER2_PosteriorFossa_RT_Study_v2.docx]] *(2)*
 - [[HER2+ metastatic breast cancer posterior fossa radiotherapy study]] *(2)*
@@ -84,4 +85,4 @@ tags:
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:26 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 04:27 UTC*
