@@ -1,7 +1,7 @@
 ---
 entity: Lumra cEDH
 type: project
-memory_count: 15
+memory_count: 17
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,11 +10,13 @@ tags:
 
 # Lumra cEDH
 
-*Project · 15 memories*
+*Project · 17 memories*
 
 
 ## Project
 
+- **2026-04-22** — Jackson is systematically identifying previously undocumented combo lines in his Lumra cEDH deck by mapping tutors + untappers/bounce outlets. Candidate lines under exploration: (1) Azusa + sol land +
+- **2026-04-22** — Jackson's Lumra cEDH deck is restricted to green and colorless cards only. This color limitation eliminates cards like Weathered Wayfarer (white) and requires careful tutor/untapper selection from ava
 - **2026-04-22** — Jackson is systematically identifying potential combo lines in his Lumra cEDH deck that haven't been documented yet. Key candidates include: Azusa + land untapper for mana generation without requiring → [[2026-04-22-04-38-43-Jackson-is-systematically-identifying-potential-co]]
 - **2026-04-22** — Jackson has a complete Lumra cEDH (Competitive Elder Dragon Highlander) decklist committed to Mentat's memory — 99 cards plus commander. Decklist is locked and verified against Scryfall for accurate c → [[2026-04-22-04-35-03-Jackson-has-a-complete-Lumra-cEDH-Competitive-Eld]]
 - **2026-04-22** — Jackson has a complete 99-card Lumra cEDH decklist committed to Mentat's memory. He expects Mentat to pull every card systematically from Scryfall, verify mechanics including alternate set names (espe → [[2026-04-22-04-31-47-Jackson-has-a-complete-99-card-Lumra-cEDH-decklist]]
@@ -23,7 +25,7 @@ tags:
 - **2026-04-21** — Jackson's next phase with the Lumra cEDH deck is interrogating the four remaining flex cards (Fal'Cie Paradise, Formidable Speaker, Insidious Fungus, Chord of Calling) by pulling actual card text from → [[2026-04-21-15-20-30-Jacksons-next-phase-with-the-Lumra-cEDH-deck-is-i]]
 - **2026-04-21** — Jackson has the complete Lumra cEDH decklist (99 cards from Aftermath Analyst through Zuran Orb) documented and verified against Scryfall. The decklist is held in Mentat's memory and ready for card-by → [[2026-04-21-15-20-28-Jackson-has-the-complete-Lumra-cEDH-decklist-99-c]]
 - **2026-04-21** — Ba Sing Se in Lumra cEDH deck is a confirmed keeper — the Earthbend ability functions as a legitimate combo piece, not just conditional ramp. Line 1: Ashaya + Lumra + untapper + sac outlet creates a f → [[2026-04-21-14-46-15-Ba-Sing-Se-in-Lumra-cEDH-deck-is-a-confirmed-keepe]]
-- **2026-04-22** — Jackson is interrogating his Lumra cEDH decklist for unexplored combo variations by identifying tutor cards (Expedition Map, Crop Rotation, Summoner's Pact, Green Sun's Zenith) and lands with inherent
+- **2026-04-22** — Jackson is interrogating his Lumra cEDH decklist for unexplored combo variations by identifying tutor cards (Expedition Map, Crop Rotation, Summoner's Pact, Green Sun's Zenith) and lands with inherent → [[2026-04-22-04-38-45-Jackson-is-interrogating-his-Lumra-cEDH-decklist-f]]
 - **2026-04-21** — Jackson is filtering his Lumra cEDH decklist to mono-green and colorless cards only. Current filtered list is 90 cards; 9 cards remain unaccounted for to complete the 99-card format. This is part of h → [[2026-04-21-15-33-22-Jackson-is-filtering-his-Lumra-cEDH-decklist-to-mo]]
 - **2026-04-21** — Jackson removed non-green cards from his Lumra cEDH decklist: Uro Titan of Nature's Wrath, Golos Tireless Pilgrim, Lurrus of the Dream-Den, Six, Kayla bin-Kroog, Klothys God of Destiny, Torment of Hai → [[2026-04-21-15-33-24-Jackson-removed-non-green-cards-from-his-Lumra-cED]]
 
@@ -45,6 +47,7 @@ tags:
 - [[Scryfall]] *(5)*
 - [[Build a Bear Workshop]] *(3)*
 - [[Mentat]] *(3)*
+- [[Magic: The Gathering]] *(2)*
 - [[Ba Sing Se]] *(1)*
 - [[Ashaya]] *(1)*
 - [[Earthbend]] *(1)*
@@ -54,4 +57,4 @@ tags:
 - [[Mentat]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:38 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 04:46 UTC*
