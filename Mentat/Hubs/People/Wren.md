@@ -2,7 +2,7 @@
 entity: Wren
 type: person
 memory_count: 3
-last_updated: 2026-04-21
+last_updated: 2026-04-22
 tags:
   - hub
   - person
@@ -24,4 +24,4 @@ tags:
 - [[Bethany]] *(2)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 22:51 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 11:48 UTC*
