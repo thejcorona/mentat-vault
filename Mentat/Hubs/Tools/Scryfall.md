@@ -1,7 +1,7 @@
 ---
 entity: Scryfall
 type: tool
-memory_count: 19
+memory_count: 21
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Scryfall
 
-*Tool · 19 memories*
+*Tool · 21 memories*
 
 
 ## Identity
@@ -20,6 +20,7 @@ tags:
 ## Project
 
 - **2026-04-21** — Jackson has provided his complete Lumra cEDH decklist (99 cards from Aftermath Analyst through Zuran Orb) to Mentat multiple times. The decklist verification task requires Mentat to pull every single  → [[2026-04-21-15-12-44-Jackson-has-provided-his-complete-Lumra-cEDH-deckl]]
+- **2026-04-22** — Jackson has a complete 99-card Lumra cEDH decklist committed to Mentat's memory. He expects Mentat to pull every card systematically from Scryfall, verify mechanics including alternate set names (espe → [[2026-04-22-04-31-47-Jackson-has-a-complete-99-card-Lumra-cEDH-decklist]]
 - **2026-04-22** — Jackson needs to paste his complete, clean Lumra cEDH decklist (99 cards) so Mentat can systematically pull every card from Scryfall, verify mechanics including alternate set names (especially Final F → [[2026-04-22-04-30-20-Jackson-needs-to-paste-his-complete-clean-Lumra-c]]
 - **2026-04-22** — Jackson has not yet systematically verified card text from Scryfall for all 100 cards in his Lumra cEDH decklist. Next step is to pull every card from Scryfall, verify mechanics (especially alternate  → [[2026-04-22-04-28-08-Jackson-has-not-yet-systematically-verified-card-t]]
 - **2026-04-21** — Jackson's next phase with the Lumra cEDH deck is interrogating the four remaining flex cards (Fal'Cie Paradise, Formidable Speaker, Insidious Fungus, Chord of Calling) by pulling actual card text from → [[2026-04-21-15-20-30-Jacksons-next-phase-with-the-Lumra-cEDH-deck-is-i]]
@@ -29,6 +30,7 @@ tags:
 - **2026-04-21** — Jackson is asking Mentat to systematically verify every card in his Lumra cEDH decklist by pulling actual card text from Scryfall, including alternate set names (especially Final Fantasy crossover car → [[2026-04-21-14-57-17-Jackson-is-asking-Mentat-to-systematically-verify]]
 - **2026-04-21** — Jackson wants a running list of all combo lines in his Lumra cEDH deck, organized and documented. He's experiencing cognitive overload tracking them mentally and needs external organization. Wants Men → [[2026-04-21-14-53-19-Jackson-wants-a-running-list-of-all-combo-lines-in]]
 - **2026-04-21** — Jackson is interrogating his Lumra cEDH decklist card-by-card with Mentat. Key cards under review for intended role/synergy: Ba Sing Se (land ramp/theft tech), Balamb Garden (dual-faced land with card → [[2026-04-21-14-34-12-Jackson-is-interrogating-his-Lumra-cEDH-decklist-c]]
+- **2026-04-22** — Jackson has a complete 99-card Lumra cEDH decklist committed to Mentat's memory. He expects systematic card verification against Scryfall with alternate set names mapped to the established combo frame → [[2026-04-22-04-34-48-Jackson-has-a-complete-99-card-Lumra-cEDH-decklist]]
 - **2026-04-21** — Jackson is currently interrogating four remaining Lumra cEDH flex cards for intended role/synergy before accepting inclusion: Fal'Cie Paradise, Formidable Speaker, Insidious Fungus, Chord of Calling.  → [[2026-04-21-15-17-01-Jackson-is-currently-interrogating-four-remaining]]
 - **2026-04-21** — Jackson is asking Mentat to work with an incomplete Lumra cEDH decklist paste that cuts off mid-Boseiju. He needs the complete 99-card decklist pasted in full so Mentat can pull every card systematica → [[2026-04-21-15-02-45-Jackson-is-asking-Mentat-to-work-with-an-incomplet]]
 - **2026-04-21** — Four Lumra cEDH cards remain under interrogation for intended role/synergy before accepting inclusion: Fal'Cie Paradise, Formidable Speaker, Insidious Fungus, Chord of Calling. Jackson's approach: pul → [[2026-04-21-14-50-42-Four-Lumra-cEDH-cards-remain-under-interrogation-f]]
@@ -46,12 +48,12 @@ tags:
 
 ## Related
 
-- [[Lumra]] *(10)*
+- [[Lumra]] *(11)*
 - [[Mentat]] *(7)*
-- [[Lumra cEDH]] *(3)*
+- [[Lumra cEDH]] *(4)*
 - [[Lumra cEDH deck]] *(2)*
 - [[Mentat]] *(1)*
 - [[Magic: The Gathering]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:30 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 04:34 UTC*
