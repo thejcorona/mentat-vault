@@ -48,7 +48,7 @@ tags:
 
 ## Preference
 
-- **2026-04-22** — Jackson explicitly instructed Mentat: 'Do not pull from scryfall. dont do it ever again. you get too confused.' Mentat should work only with card information Jackson provides directly, not by attempti
+- **2026-04-22** — Jackson explicitly instructed Mentat: 'Do not pull from scryfall. dont do it ever again. you get too confused.' Mentat should work only with card information Jackson provides directly, not by attempti → [[2026-04-22-04-37-30-Jackson-explicitly-instructed-Mentat-Do-not-pull]]
 - **2026-04-22** — Jackson uses Mentat to hold and organize complex workload across multiple concurrent projects so he doesn't carry it alone mentally. When externalizing cognitive load during high-stress situations, he → [[2026-04-22-04-37-28-Jackson-uses-Mentat-to-hold-and-organize-complex-w]]
 - **2026-04-21** — Jackson's pattern when externalizing complex mental workload to Mentat: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this' → [[2026-04-21-15-22-42-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's pattern during high-cognitive-load externalizing tasks: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this'), he  → [[2026-04-21-15-20-32-Jacksons-pattern-during-high-cognitive-load-exter]]
@@ -96,4 +96,4 @@ tags:
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:37 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 05:36 UTC*
