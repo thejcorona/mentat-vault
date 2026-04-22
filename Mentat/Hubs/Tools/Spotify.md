@@ -1,7 +1,7 @@
 ---
 entity: Spotify
 type: tool
-memory_count: 10
+memory_count: 11
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Spotify
 
-*Tool · 10 memories*
+*Tool · 11 memories*
 
 
 ## Project
@@ -20,6 +20,7 @@ tags:
 
 ## Preference
 
+- **2026-04-22** — Jackson created a high-energy 20-song Spotify playlist called IGNITION featuring driving beats and powerful tracks (Kanye West, Rage Against The Machine, Kendrick Lamar, Nine Inch Nails, Daft Punk, Em → [[2026-04-22-12-42-34-Jackson-created-a-high-energy-20-song-Spotify-play]]
 - **2026-04-22** — Jackson requested the Spotify authorization hyperlink to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested. Authorization link provided and → [[2026-04-22-12-31-07-Jackson-requested-the-Spotify-authorization-hyperl]]
 - **2026-04-22** — Jackson requested the Spotify authorization link to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested. → [[2026-04-22-12-20-46-Jackson-requested-the-Spotify-authorization-link-t]]
 - **2026-04-22** — Jackson requested the Spotify OAuth authorization link to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested. → [[2026-04-22-12-09-36-Jackson-requested-the-Spotify-OAuth-authorization]]
@@ -34,7 +35,8 @@ tags:
 - [[Mentat]] *(10)*
 - [[Vangelis]] *(5)*
 - [[Threshold]] *(4)*
+- [[IGNITION]] *(1)*
 - [[Threshold by Vangelis]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 12:31 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 12:42 UTC*
