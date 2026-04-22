@@ -1,7 +1,7 @@
 ---
 entity: Bethany
 type: person
-memory_count: 6
+memory_count: 7
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Bethany
 
-*Person · 6 memories*
+*Person · 7 memories*
 
 
 ## Project
@@ -19,11 +19,12 @@ tags:
 
 ## Relationship
 
+- **2026-04-22** — Bethany is Jackson's wife. Email: bethmvcorona@gmail.com
 - **2026-04-22** — Bethany is Jackson's wife. Email: bmvcorona@gmail.com → [[2026-04-22-12-17-10-Bethany-is-Jacksons-wife-Email-bmvcoronagmail]]
 - **2026-04-21** — Married to Bethany. Has a daughter named Wren. → [[2026-04-21-15-30-08-Married-to-Bethany-Has-a-daughter-named-Wren]]
 - **2026-04-21** — Bethany is Jackson's wife and Wren's mother. → [[2026-04-21-13-16-41-Bethany-is-Jacksons-wife-and-Wrens-mother]]
 - **2026-04-21** — Married to Bethany → [[2026-04-21-13-15-29-Married-to-Bethany]]
-- **2026-04-22** — Bethany's email is bethmvcorona@gmail.com. She is Jackson's wife and Wren's mother.
+- **2026-04-22** — Bethany's email is bethmvcorona@gmail.com. She is Jackson's wife and Wren's mother. → [[2026-04-22-12-22-15-Bethanys-email-is-bethmvcoronagmailcom-She-is]]
 
 ## Related
 
@@ -31,4 +32,4 @@ tags:
 - [[Mentat]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 12:22 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 12:23 UTC*
