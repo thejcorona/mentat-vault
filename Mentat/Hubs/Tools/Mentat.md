@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 51
+memory_count: 52
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 51 memories*
+*Tool · 52 memories*
 
 
 ## Identity
@@ -70,10 +70,11 @@ tags:
 - **2026-04-21** — Jackson's pattern when externalizing complex mental workload: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated during high-cognitive-load tasks (e → [[2026-04-21-15-16-58-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra cEDH combo lines simultaneously. He needs Mentat to systematically verify every card in his Lumra decklist by pulling actua → [[2026-04-21-15-02-41-Jackson-is-experiencing-cognitive-overload-trying]]
 - **2026-04-21** — Jackson is experiencing cognitive overload trying to keep track of all Lumra combo lines simultaneously. This is part of his broader pattern of using Mentat to externalize and organize mental workload → [[2026-04-21-14-53-23-Jackson-is-experiencing-cognitive-overload-trying]]
-- **2026-04-22** — Jackson's pattern when requesting summarization or documentation work from Mentat: he specifies 'No further questions about them' or similar directives, indicating he wants clean execution and output 
+- **2026-04-22** — Jackson's pattern when requesting summarization or documentation work from Mentat: he specifies 'No further questions about them' or similar directives, indicating he wants clean execution and output  → [[2026-04-22-06-33-09-Jacksons-pattern-when-requesting-summarization-or]]
 
 ## Context
 
+- **2026-04-22** — Jackson is currently overwhelmed juggling multiple concurrent high-cognitive-load projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper, Lumra cEDH deck optimization, competitive
 - **2026-04-21** — Jackson uses Mentat as a system to hold and organize his workload so he doesn't carry it alone mentally. He responds positively to reassurance and clear next-step direction when overwhelmed, and value → [[2026-04-21-13-34-50-Jackson-uses-Mentat-as-a-system-to-hold-and-organi]]
 - **2026-04-21** — Jackson asked Mentat if it can search information from an open Discord server. Mentat clarified it cannot browse Discord directly but can work with content pasted into chat. Jackson is considering pul → [[2026-04-21-14-42-00-Jackson-asked-Mentat-if-it-can-search-information]]
 - **2026-04-21** — Jackson doesn't have access to previous research documents in the current chat session and needs to paste content directly for Mentat to tidy it up. → [[2026-04-21-13-31-33-Jackson-doesnt-have-access-to-previous-research-d]]
@@ -81,11 +82,11 @@ tags:
 
 ## Related
 
+- [[Lumra]] *(9)*
 - [[Scryfall]] *(8)*
-- [[Lumra]] *(8)*
 - [[Lumra cEDH deck]] *(4)*
+- [[University of Tasmania School of Medicine]] *(3)*
 - [[Lumra cEDH]] *(3)*
-- [[University of Tasmania School of Medicine]] *(2)*
 - [[Melbourne]] *(2)*
 - [[HER2_PosteriorFossa_RT_Study_v2.docx]] *(2)*
 - [[HER2+ metastatic breast cancer posterior fossa radiotherapy study]] *(2)*
@@ -98,4 +99,4 @@ tags:
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 06:33 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 11:47 UTC*
