@@ -1,7 +1,7 @@
 ---
 entity: Scryfall
 type: tool
-memory_count: 21
+memory_count: 22
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Scryfall
 
-*Tool · 21 memories*
+*Tool · 22 memories*
 
 
 ## Identity
@@ -20,6 +20,7 @@ tags:
 ## Project
 
 - **2026-04-21** — Jackson has provided his complete Lumra cEDH decklist (99 cards from Aftermath Analyst through Zuran Orb) to Mentat multiple times. The decklist verification task requires Mentat to pull every single  → [[2026-04-21-15-12-44-Jackson-has-provided-his-complete-Lumra-cEDH-deckl]]
+- **2026-04-22** — Jackson has a complete Lumra cEDH (Competitive Elder Dragon Highlander) decklist committed to Mentat's memory — 99 cards plus commander. Decklist is locked and verified against Scryfall for accurate c → [[2026-04-22-04-35-03-Jackson-has-a-complete-Lumra-cEDH-Competitive-Eld]]
 - **2026-04-22** — Jackson has a complete 99-card Lumra cEDH decklist committed to Mentat's memory. He expects Mentat to pull every card systematically from Scryfall, verify mechanics including alternate set names (espe → [[2026-04-22-04-31-47-Jackson-has-a-complete-99-card-Lumra-cEDH-decklist]]
 - **2026-04-22** — Jackson needs to paste his complete, clean Lumra cEDH decklist (99 cards) so Mentat can systematically pull every card from Scryfall, verify mechanics including alternate set names (especially Final F → [[2026-04-22-04-30-20-Jackson-needs-to-paste-his-complete-clean-Lumra-c]]
 - **2026-04-22** — Jackson has not yet systematically verified card text from Scryfall for all 100 cards in his Lumra cEDH decklist. Next step is to pull every card from Scryfall, verify mechanics (especially alternate  → [[2026-04-22-04-28-08-Jackson-has-not-yet-systematically-verified-card-t]]
@@ -49,11 +50,11 @@ tags:
 ## Related
 
 - [[Lumra]] *(11)*
-- [[Mentat]] *(7)*
-- [[Lumra cEDH]] *(4)*
+- [[Mentat]] *(8)*
+- [[Lumra cEDH]] *(5)*
 - [[Lumra cEDH deck]] *(2)*
 - [[Mentat]] *(1)*
 - [[Magic: The Gathering]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:34 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 04:35 UTC*
