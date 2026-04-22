@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: project
-memory_count: 21
+memory_count: 22
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Project · 21 memories*
+*Project · 22 memories*
 
 
 ## Project
@@ -28,6 +28,7 @@ tags:
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When f → [[2026-04-22-05-39-47-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When frustrated  → [[2026-04-22-04-34-46-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's systematic approach to card evaluation in Lumra: prioritizes understanding INTENDED ROLE (specific synergy, combo piece, interaction mode, ramp payoff) over generic 'is this card good?' asse → [[2026-04-21-14-34-13-Jacksons-systematic-approach-to-card-evaluation-i]]
+- **2026-04-22** — Jackson requested to play Mentat's theme song (Threshold by Vangelis). Mentat has Spotify authorization pending to enable automatic playback when requested.
 - **2026-04-22** — Jackson wants Mentat to connect Spotify so Threshold by Vangelis can play automatically when requested. Spotify authorization is now pending — he has the auth link and can complete the connection. → [[2026-04-22-11-32-43-Jackson-wants-Mentat-to-connect-Spotify-so-Thresho]]
 - **2026-04-22** — Jackson wants Mentat to connect Spotify so Threshold by Vangelis can play automatically when requested. Currently Spotify authorization is pending. → [[2026-04-22-11-26-19-Jackson-wants-Mentat-to-connect-Spotify-so-Thresho]]
 - **2026-04-22** — Mentat's theme song is Threshold by Vangelis — a crystalline, minimal synth piece that fits Mentat's design philosophy: precise, calm, built on restraint rather than noise. → [[2026-04-22-11-25-55-Mentats-theme-song-is-Threshold-by-Vangelis--a-c]]
@@ -48,11 +49,12 @@ tags:
 
 ## Related
 
-- [[Spotify]] *(3)*
+- [[Spotify]] *(4)*
 - [[Magic: The Gathering]] *(2)*
 - [[University of Tasmania]] *(2)*
 - [[Scryfall]] *(2)*
 - [[Next.js]] *(2)*
+- [[Threshold]] *(2)*
 - [[Vangelis]] *(2)*
 - [[University of Tasmania School of Medicine]] *(1)*
 - [[Marvel Rivals]] *(1)*
@@ -61,8 +63,7 @@ tags:
 - [[Lumra cEDH]] *(1)*
 - [[FastAPI]] *(1)*
 - [[Google]] *(1)*
-- [[Threshold]] *(1)*
 - [[Threshold by Vangelis]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 11:37 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 11:49 UTC*
