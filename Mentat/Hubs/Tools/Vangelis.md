@@ -1,7 +1,7 @@
 ---
 entity: Vangelis
 type: tool
-memory_count: 5
+memory_count: 6
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,11 +10,12 @@ tags:
 
 # Vangelis
 
-*Tool · 5 memories*
+*Tool · 6 memories*
 
 
 ## Preference
 
+- **2026-04-22** — Jackson requested the Spotify authorization hyperlink to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested. Authorization link provided and → [[2026-04-22-12-31-07-Jackson-requested-the-Spotify-authorization-hyperl]]
 - **2026-04-22** — Jackson requested the Spotify authorization link to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested. → [[2026-04-22-12-20-46-Jackson-requested-the-Spotify-authorization-link-t]]
 - **2026-04-22** — Jackson requested the Spotify OAuth authorization link to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested. → [[2026-04-22-12-09-36-Jackson-requested-the-Spotify-OAuth-authorization]]
 - **2026-04-22** — Jackson requested to play Mentat's theme song (Threshold by Vangelis) again. This is a recurring request indicating strong attachment to the piece as Mentat's sonic identity. → [[2026-04-22-11-50-41-Jackson-requested-to-play-Mentats-theme-song-Thr]]
@@ -23,8 +24,8 @@ tags:
 
 ## Related
 
-- [[Mentat]] *(5)*
-- [[Spotify]] *(4)*
+- [[Mentat]] *(6)*
+- [[Spotify]] *(5)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 12:20 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 12:31 UTC*
