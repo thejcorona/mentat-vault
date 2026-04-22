@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 45
+memory_count: 47
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 45 memories*
+*Tool · 47 memories*
 
 
 ## Identity
@@ -28,6 +28,7 @@ tags:
 - **2026-04-21** — Mentat made four critical revisions to Jackson's posterior fossa radiotherapy paper: (1) removed duplicate Shultz reference (PMID 30982195); (2) corrected suspected typo in Pikis DOI from s11060-026-0 → [[2026-04-21-13-47-44-Mentat-made-four-critical-revisions-to-Jacksons-p]]
 - **2026-04-21** — Jackson uploaded his HER2+ metastatic breast cancer posterior fossa radiotherapy study working document to Mentat. The document includes methods, inclusion/exclusion criteria, three study cohorts (SRS → [[2026-04-21-13-47-42-Jackson-uploaded-his-HER2-metastatic-breast-cance]]
 - **2026-04-21** — Jackson can directly fix the duplicate Shultz reference (PMID 30982195) and formalize the methodological notes/claims section from working-document style into formal introduction prose. He needs to ve → [[2026-04-21-13-34-46-Jackson-can-directly-fix-the-duplicate-Shultz-refe]]
+- **2026-04-22** — Jackson has a complete Lumra cEDH (Competitive Elder Dragon Highlander) decklist committed to Mentat's memory — 99 cards plus commander. Decklist is locked and verified against Scryfall for accurate c → [[2026-04-22-04-35-03-Jackson-has-a-complete-Lumra-cEDH-Competitive-Eld]]
 - **2026-04-22** — Jackson needs to paste his complete, clean Lumra cEDH decklist (99 cards) so Mentat can systematically pull every card from Scryfall, verify mechanics including alternate set names (especially Final F → [[2026-04-22-04-30-20-Jackson-needs-to-paste-his-complete-clean-Lumra-c]]
 - **2026-04-22** — Jackson previously asked Mentat to commit his complete Lumra cEDH decklist (100 cards including commander) plus the combo framework to long-term memory for later interrogation, optimization, and testi → [[2026-04-22-04-28-12-Jackson-previously-asked-Mentat-to-commit-his-comp]]
 - **2026-04-22** — Jackson asked Mentat to commit his complete Lumra cEDH decklist (100 cards including commander) to long-term memory. He will ask about it later and expects Mentat to have the full accurate list plus t → [[2026-04-22-04-27-28-Jackson-asked-Mentat-to-commit-his-complete-Lumra]]
@@ -49,7 +50,8 @@ tags:
 
 - **2026-04-21** — Jackson's pattern when externalizing complex mental workload to Mentat: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this' → [[2026-04-21-15-22-42-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's pattern during high-cognitive-load externalizing tasks: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this'), he  → [[2026-04-21-15-20-32-Jacksons-pattern-during-high-cognitive-load-exter]]
-- **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: he needs clean, systematic execution without ambiguity. When frustrated (expressed as 'Fuc
+- **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: he needs clean, systematic execution without ambiguity or re-requests for information. Whe
+- **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: he needs clean, systematic execution without ambiguity. When frustrated (expressed as 'Fuc → [[2026-04-22-04-31-49-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-22** — Jackson's pattern during high-cognitive-load externalizing tasks with Mentat: needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck th → [[2026-04-22-04-28-10-Jacksons-pattern-during-high-cognitive-load-exter]]
 - **2026-04-21** — Jackson's systematic approach to overwhelming workload: prioritizes operational/foundational items (database verification, reference accuracy, methodological definitions) before polishing presentation → [[2026-04-21-22-51-07-Jacksons-systematic-approach-to-overwhelming-work]]
 - **2026-04-21** — Jackson's pattern of demanding accuracy and systematic verification before proceeding is acute during high-cognitive-load situations. When frustrated (e.g., 'Fuck this'), he needs Mentat to stop askin → [[2026-04-21-15-12-41-Jacksons-pattern-of-demanding-accuracy-and-system]]
@@ -75,13 +77,13 @@ tags:
 
 ## Related
 
+- [[Scryfall]] *(8)*
 - [[Lumra]] *(8)*
-- [[Scryfall]] *(7)*
 - [[Lumra cEDH deck]] *(4)*
+- [[Lumra cEDH]] *(3)*
 - [[Melbourne]] *(2)*
 - [[HER2_PosteriorFossa_RT_Study_v2.docx]] *(2)*
 - [[HER2+ metastatic breast cancer posterior fossa radiotherapy study]] *(2)*
-- [[Lumra cEDH]] *(2)*
 - [[Google Calendar]] *(2)*
 - [[University of Tasmania School of Medicine]] *(1)*
 - [[University of Tasmania]] *(1)*
@@ -92,4 +94,4 @@ tags:
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:31 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 04:35 UTC*
