@@ -37,4 +37,4 @@ tags:
 - [[medical-training]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 11:47 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 11:48 UTC*
