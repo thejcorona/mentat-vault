@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: project
-memory_count: 19
+memory_count: 20
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,13 +10,14 @@ tags:
 
 # Mentat
 
-*Project · 19 memories*
+*Project · 20 memories*
 
 
 ## Project
 
 - **2026-04-21** — Jackson is interrogating his Lumra cEDH decklist card-by-card with Mentat. Key cards under review for intended role/synergy: Ba Sing Se (land ramp/theft tech), Balamb Garden (dual-faced land with card → [[2026-04-21-14-34-12-Jackson-is-interrogating-his-Lumra-cEDH-decklist-c]]
 - **2026-04-21** — Jackson has a saved to-do list holding two major workstreams: (1) Research stuff — database audit, Pikis DOI verification, Shultz duplicate removal, methodological notes formalization, margin definiti → [[2026-04-21-14-23-39-Jackson-has-a-saved-to-do-list-holding-two-major-w]]
+- **2026-04-22** — Jackson requested an interactive Magic: The Gathering game prototype where he can play against an AI opponent with card rendering from Scryfall API. Mentat built a React-based MTG arena with deck mana
 - **2026-04-21** — Jackson implemented a backend fix to Mentat that persists document content across the conversation session, so he doesn't need to re-upload documents for continued context and analysis. → [[2026-04-21-14-05-13-Jackson-implemented-a-backend-fix-to-Mentat-that-p]]
 - **2026-04-21** — Jackson has full access to Mentat's codebase and can review and debug it as needed. The backend uses Python (FastAPI likely) with main.py, database.py, and requirements.txt. The frontend is Next.js wi → [[2026-04-21-12-53-57-Jackson-has-full-access-to-Mentats-codebase-and-c]]
 - **2026-04-22** — Jackson requested a Spotify authorization hyperlink for connecting Spotify to Mentat so Threshold by Vangelis can play automatically when requested. Authorization link provided and pending completion. → [[2026-04-22-11-33-11-Jackson-requested-a-Spotify-authorization-hyperlin]]
@@ -41,16 +42,17 @@ tags:
 
 ## Context
 
-- **2026-04-22** — Jackson requested a Google OAuth authorization link for connecting Google services (Gmail, Calendar, Drive) to Mentat. Link provided and pending completion for account integration.
+- **2026-04-22** — Jackson requested a Google OAuth authorization link for connecting Google services (Gmail, Calendar, Drive) to Mentat. Link provided and pending completion for account integration. → [[2026-04-22-11-33-55-Jackson-requested-a-Google-OAuth-authorization-lin]]
 - **2026-04-22** — Backend infrastructure is stable — Railway deployment successful at 11:23 UTC with clean logs, no errors. Container routing working as expected, all graph retrievals functioning correctly. → [[2026-04-22-11-24-18-Backend-infrastructure-is-stable--Railway-deploym]]
 
 ## Related
 
 - [[Spotify]] *(3)*
 - [[University of Tasmania]] *(2)*
+- [[Scryfall]] *(2)*
 - [[Next.js]] *(2)*
 - [[Vangelis]] *(2)*
-- [[Scryfall]] *(1)*
+- [[Magic: The Gathering]] *(1)*
 - [[Lumra cEDH]] *(1)*
 - [[FastAPI]] *(1)*
 - [[Google]] *(1)*
@@ -60,4 +62,4 @@ tags:
 - [[Railway]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 11:33 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 11:37 UTC*
