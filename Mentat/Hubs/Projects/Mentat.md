@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: project
-memory_count: 18
+memory_count: 19
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Project · 18 memories*
+*Project · 19 memories*
 
 
 ## Project
@@ -19,7 +19,7 @@ tags:
 - **2026-04-21** — Jackson has a saved to-do list holding two major workstreams: (1) Research stuff — database audit, Pikis DOI verification, Shultz duplicate removal, methodological notes formalization, margin definiti → [[2026-04-21-14-23-39-Jackson-has-a-saved-to-do-list-holding-two-major-w]]
 - **2026-04-21** — Jackson implemented a backend fix to Mentat that persists document content across the conversation session, so he doesn't need to re-upload documents for continued context and analysis. → [[2026-04-21-14-05-13-Jackson-implemented-a-backend-fix-to-Mentat-that-p]]
 - **2026-04-21** — Jackson has full access to Mentat's codebase and can review and debug it as needed. The backend uses Python (FastAPI likely) with main.py, database.py, and requirements.txt. The frontend is Next.js wi → [[2026-04-21-12-53-57-Jackson-has-full-access-to-Mentats-codebase-and-c]]
-- **2026-04-22** — Jackson requested a Spotify authorization hyperlink for connecting Spotify to Mentat so Threshold by Vangelis can play automatically when requested. Authorization link provided and pending completion.
+- **2026-04-22** — Jackson requested a Spotify authorization hyperlink for connecting Spotify to Mentat so Threshold by Vangelis can play automatically when requested. Authorization link provided and pending completion. → [[2026-04-22-11-33-11-Jackson-requested-a-Spotify-authorization-hyperlin]]
 - **2026-04-22** — Frontend builds clean. Next.js 16.2.3 compiled successfully in 5 seconds, TypeScript passed, static pages generated without error. Deployment completed and build cache uploaded. System is healthy. → [[2026-04-22-11-25-07-Frontend-builds-clean-Nextjs-1623-compiled-suc]]
 
 ## Preference
@@ -41,6 +41,7 @@ tags:
 
 ## Context
 
+- **2026-04-22** — Jackson requested a Google OAuth authorization link for connecting Google services (Gmail, Calendar, Drive) to Mentat. Link provided and pending completion for account integration.
 - **2026-04-22** — Backend infrastructure is stable — Railway deployment successful at 11:23 UTC with clean logs, no errors. Container routing working as expected, all graph retrievals functioning correctly. → [[2026-04-22-11-24-18-Backend-infrastructure-is-stable--Railway-deploym]]
 
 ## Related
@@ -52,6 +53,7 @@ tags:
 - [[Scryfall]] *(1)*
 - [[Lumra cEDH]] *(1)*
 - [[FastAPI]] *(1)*
+- [[Google]] *(1)*
 - [[Threshold]] *(1)*
 - [[Threshold by Vangelis]] *(1)*
 - [[Vercel]] *(1)*
