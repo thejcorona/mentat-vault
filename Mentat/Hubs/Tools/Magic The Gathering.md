@@ -1,7 +1,7 @@
 ---
 entity: Magic: The Gathering
 type: tool
-memory_count: 5
+memory_count: 6
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Magic: The Gathering
 
-*Tool · 5 memories*
+*Tool · 6 memories*
 
 
 ## Project
@@ -21,6 +21,7 @@ tags:
 
 ## Preference
 
+- **2026-04-22** — Plays four competitive video games: Marvel Rivals, Overwatch, Pokémon Champions, and Magic: The Gathering. Has specific role and deck preferences in each. Identifies competitive gaming as a major recu → [[2026-04-22-11-48-16-Plays-four-competitive-video-games-Marvel-Rivals]]
 - **2026-04-21** — Jackson should use Scryfall (https://scryfall.com/) as the primary reference for accurate Magic card text before analyzing any card's mechanics or role in his deck. This replaces ad-hoc lookups and pr → [[2026-04-21-14-32-57-Jackson-should-use-Scryfall-httpsscryfallcom]]
 
 ## Challenge
@@ -30,12 +31,12 @@ tags:
 ## Related
 
 - [[Mentat]] *(2)*
+- [[Marvel Rivals]] *(2)*
+- [[Overwatch]] *(2)*
+- [[Pokémon Champions]] *(2)*
 - [[Lumra cEDH]] *(2)*
 - [[Scryfall]] *(2)*
 - [[University of Tasmania School of Medicine]] *(1)*
-- [[Marvel Rivals]] *(1)*
-- [[Overwatch]] *(1)*
-- [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 11:37 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 11:48 UTC*
