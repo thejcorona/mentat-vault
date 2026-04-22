@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: project
-memory_count: 16
+memory_count: 17
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Project · 16 memories*
+*Project · 17 memories*
 
 
 ## Project
@@ -26,7 +26,8 @@ tags:
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When f → [[2026-04-22-05-39-47-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When frustrated  → [[2026-04-22-04-34-46-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's systematic approach to card evaluation in Lumra: prioritizes understanding INTENDED ROLE (specific synergy, combo piece, interaction mode, ramp payoff) over generic 'is this card good?' asse → [[2026-04-21-14-34-13-Jacksons-systematic-approach-to-card-evaluation-i]]
-- **2026-04-22** — Jackson wants Mentat to connect Spotify so Threshold by Vangelis can play automatically when requested. Currently Spotify authorization is pending.
+- **2026-04-22** — Jackson wants Mentat to connect Spotify so Threshold by Vangelis can play automatically when requested. Spotify authorization is now pending — he has the auth link and can complete the connection.
+- **2026-04-22** — Jackson wants Mentat to connect Spotify so Threshold by Vangelis can play automatically when requested. Currently Spotify authorization is pending. → [[2026-04-22-11-26-19-Jackson-wants-Mentat-to-connect-Spotify-so-Thresho]]
 - **2026-04-22** — Mentat's theme song is Threshold by Vangelis — a crystalline, minimal synth piece that fits Mentat's design philosophy: precise, calm, built on restraint rather than noise. → [[2026-04-22-11-25-55-Mentats-theme-song-is-Threshold-by-Vangelis--a-c]]
 - **2026-04-21** — Jackson requested a quick PowerPoint presentation summarizing what Mentat knows about him, suggesting he values rapid synthesis and documentation of his own profile. → [[2026-04-21-13-12-06-Jackson-requested-a-quick-PowerPoint-presentation]]
 
@@ -45,13 +46,14 @@ tags:
 
 - [[University of Tasmania]] *(2)*
 - [[Next.js]] *(2)*
+- [[Spotify]] *(2)*
 - [[Vangelis]] *(2)*
 - [[Scryfall]] *(1)*
 - [[Lumra cEDH]] *(1)*
 - [[FastAPI]] *(1)*
-- [[Spotify]] *(1)*
+- [[Threshold by Vangelis]] *(1)*
 - [[Vercel]] *(1)*
 - [[Railway]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 11:26 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 11:32 UTC*
