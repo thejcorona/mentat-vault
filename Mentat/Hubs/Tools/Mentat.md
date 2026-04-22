@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 44
+memory_count: 45
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 44 memories*
+*Tool · 45 memories*
 
 
 ## Identity
@@ -49,6 +49,7 @@ tags:
 
 - **2026-04-21** — Jackson's pattern when externalizing complex mental workload to Mentat: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this' → [[2026-04-21-15-22-42-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's pattern during high-cognitive-load externalizing tasks: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this'), he  → [[2026-04-21-15-20-32-Jacksons-pattern-during-high-cognitive-load-exter]]
+- **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: he needs clean, systematic execution without ambiguity. When frustrated (expressed as 'Fuc
 - **2026-04-22** — Jackson's pattern during high-cognitive-load externalizing tasks with Mentat: needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck th → [[2026-04-22-04-28-10-Jacksons-pattern-during-high-cognitive-load-exter]]
 - **2026-04-21** — Jackson's systematic approach to overwhelming workload: prioritizes operational/foundational items (database verification, reference accuracy, methodological definitions) before polishing presentation → [[2026-04-21-22-51-07-Jacksons-systematic-approach-to-overwhelming-work]]
 - **2026-04-21** — Jackson's pattern of demanding accuracy and systematic verification before proceeding is acute during high-cognitive-load situations. When frustrated (e.g., 'Fuck this'), he needs Mentat to stop askin → [[2026-04-21-15-12-41-Jacksons-pattern-of-demanding-accuracy-and-system]]
@@ -58,7 +59,7 @@ tags:
 
 ## Challenge
 
-- **2026-04-22** — Jackson is experiencing cognitive overload juggling multiple concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper, Lumra cEDH deck optimization, competitive gaming, a
+- **2026-04-22** — Jackson is experiencing cognitive overload juggling multiple concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper, Lumra cEDH deck optimization, competitive gaming, a → [[2026-04-22-04-31-44-Jackson-is-experiencing-cognitive-overload-jugglin]]
 - **2026-04-22** — Jackson is experiencing cognitive overload juggling multiple concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (with four critical operational items remaining), Lu → [[2026-04-22-04-30-24-Jackson-is-experiencing-cognitive-overload-jugglin]]
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When f → [[2026-04-22-04-26-38-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's pattern when externalizing complex mental workload: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated during high-cognitive-load tasks (e → [[2026-04-21-15-16-58-Jacksons-pattern-when-externalizing-complex-menta]]
