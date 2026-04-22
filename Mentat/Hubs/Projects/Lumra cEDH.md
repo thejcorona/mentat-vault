@@ -1,8 +1,8 @@
 ---
 entity: Lumra cEDH
 type: project
-memory_count: 9
-last_updated: 2026-04-21
+memory_count: 10
+last_updated: 2026-04-22
 tags:
   - hub
   - project
@@ -10,11 +10,12 @@ tags:
 
 # Lumra cEDH
 
-*Project · 9 memories*
+*Project · 10 memories*
 
 
 ## Project
 
+- **2026-04-22** — Lumra cEDH decklist confirmed locked at 100 cards (99 + commander). Complete list from Aftermath Analyst through Zuran Orb. Decklist is clean and ready for card-by-card interrogation against establish
 - **2026-04-21** — Jackson's next phase with the Lumra cEDH deck is interrogating the four remaining flex cards (Fal'Cie Paradise, Formidable Speaker, Insidious Fungus, Chord of Calling) by pulling actual card text from → [[2026-04-21-15-20-30-Jacksons-next-phase-with-the-Lumra-cEDH-deck-is-i]]
 - **2026-04-21** — Jackson has the complete Lumra cEDH decklist (99 cards from Aftermath Analyst through Zuran Orb) documented and verified against Scryfall. The decklist is held in Mentat's memory and ready for card-by → [[2026-04-21-15-20-28-Jackson-has-the-complete-Lumra-cEDH-decklist-99-c]]
 - **2026-04-21** — Ba Sing Se in Lumra cEDH deck is a confirmed keeper — the Earthbend ability functions as a legitimate combo piece, not just conditional ramp. Line 1: Ashaya + Lumra + untapper + sac outlet creates a f → [[2026-04-21-14-46-15-Ba-Sing-Se-in-Lumra-cEDH-deck-is-a-confirmed-keepe]]
@@ -48,4 +49,4 @@ tags:
 - [[Build a Bear Workshop]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 15:38 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 04:26 UTC*
