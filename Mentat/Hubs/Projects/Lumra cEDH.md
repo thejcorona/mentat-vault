@@ -1,7 +1,7 @@
 ---
 entity: Lumra cEDH
 type: project
-memory_count: 11
+memory_count: 12
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,11 +10,12 @@ tags:
 
 # Lumra cEDH
 
-*Project · 11 memories*
+*Project · 12 memories*
 
 
 ## Project
 
+- **2026-04-22** — Jackson has a complete 99-card Lumra cEDH decklist committed to Mentat's memory. He expects Mentat to pull every card systematically from Scryfall, verify mechanics including alternate set names (espe → [[2026-04-22-04-31-47-Jackson-has-a-complete-99-card-Lumra-cEDH-decklist]]
 - **2026-04-22** — Jackson needs to paste his complete, clean Lumra cEDH decklist (99 cards) so Mentat can systematically pull every card from Scryfall, verify mechanics including alternate set names (especially Final F → [[2026-04-22-04-30-20-Jackson-needs-to-paste-his-complete-clean-Lumra-c]]
 - **2026-04-22** — Lumra cEDH decklist confirmed locked at 100 cards (99 + commander). Complete list from Aftermath Analyst through Zuran Orb. Decklist is clean and ready for card-by-card interrogation against establish → [[2026-04-22-04-26-35-Lumra-cEDH-decklist-confirmed-locked-at-100-cards]]
 - **2026-04-21** — Jackson's next phase with the Lumra cEDH deck is interrogating the four remaining flex cards (Fal'Cie Paradise, Formidable Speaker, Insidious Fungus, Chord of Calling) by pulling actual card text from → [[2026-04-21-15-20-30-Jacksons-next-phase-with-the-Lumra-cEDH-deck-is-i]]
@@ -38,7 +39,7 @@ tags:
 
 ## Related
 
-- [[Scryfall]] *(3)*
+- [[Scryfall]] *(4)*
 - [[Mentat]] *(2)*
 - [[Ba Sing Se]] *(1)*
 - [[Ashaya]] *(1)*
@@ -50,4 +51,4 @@ tags:
 - [[Build a Bear Workshop]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:30 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 04:31 UTC*
