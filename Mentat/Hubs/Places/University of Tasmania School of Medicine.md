@@ -1,7 +1,7 @@
 ---
 entity: University of Tasmania School of Medicine
 type: place
-memory_count: 8
+memory_count: 9
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # University of Tasmania School of Medicine
 
-*Place · 8 memories*
+*Place · 9 memories*
 
 
 ## Identity
@@ -33,10 +33,15 @@ tags:
 - **2026-04-22** — Jackson is currently overwhelmed juggling multiple high-cognitive-load concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (database audit, reference verification, m → [[2026-04-22-11-37-03-Jackson-is-currently-overwhelmed-juggling-multiple]]
 - **2026-04-22** — Jackson is experiencing cognitive overload juggling multiple concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (with four critical operational items remaining), Lu → [[2026-04-22-04-30-24-Jackson-is-experiencing-cognitive-overload-jugglin]]
 
+## Context
+
+- **2026-04-22** — Jackson is currently overwhelmed juggling multiple concurrent high-cognitive-load projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper, Lumra cEDH deck optimization, competitive → [[2026-04-22-11-47-34-Jackson-is-currently-overwhelmed-juggling-multiple]]
+
 ## Related
 
 - [[Melbourne]] *(4)*
-- [[Mentat]] *(2)*
+- [[Mentat]] *(3)*
+- [[Lumra]] *(1)*
 - [[Mentat]] *(1)*
 - [[Marvel Rivals]] *(1)*
 - [[Overwatch]] *(1)*
@@ -44,4 +49,4 @@ tags:
 - [[Magic: The Gathering]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 11:37 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 11:47 UTC*
