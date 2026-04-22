@@ -1,7 +1,7 @@
 ---
 entity: Spotify
 type: tool
-memory_count: 8
+memory_count: 9
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,11 +10,12 @@ tags:
 
 # Spotify
 
-*Tool · 8 memories*
+*Tool · 9 memories*
 
 
 ## Project
 
+- **2026-04-22** — Jackson requested a Spotify authorization hyperlink for connecting Spotify to Mentat so Threshold by Vangelis (Mentat's theme song) can play automatically when requested. Authorization link provided a → [[2026-04-22-12-21-05-Jackson-requested-a-Spotify-authorization-hyperlin]]
 - **2026-04-22** — Jackson requested a Spotify authorization hyperlink for connecting Spotify to Mentat so Threshold by Vangelis can play automatically when requested. Authorization link provided and pending completion. → [[2026-04-22-11-33-11-Jackson-requested-a-Spotify-authorization-hyperlin]]
 
 ## Preference
@@ -29,10 +30,10 @@ tags:
 
 ## Related
 
-- [[Mentat]] *(8)*
+- [[Mentat]] *(9)*
+- [[Threshold]] *(4)*
 - [[Vangelis]] *(4)*
-- [[Threshold]] *(3)*
 - [[Threshold by Vangelis]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 12:20 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 12:21 UTC*
