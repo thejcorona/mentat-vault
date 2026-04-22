@@ -1,8 +1,8 @@
 ---
 entity: Lumra
 type: project
-memory_count: 23
-last_updated: 2026-04-21
+memory_count: 24
+last_updated: 2026-04-22
 tags:
   - hub
   - project
@@ -10,13 +10,14 @@ tags:
 
 # Lumra
 
-*Project · 23 memories*
+*Project · 24 memories*
 
 
 ## Project
 
 - **2026-04-21** — Jackson has provided his complete Lumra cEDH decklist (99 cards from Aftermath Analyst through Zuran Orb) to Mentat multiple times. The decklist verification task requires Mentat to pull every single  → [[2026-04-21-15-12-44-Jackson-has-provided-his-complete-Lumra-cEDH-deckl]]
 - **2026-04-21** — Lumra cEDH primer obtained and studied. Primer clarifies core deck mechanics: (1) Block Buster combo is cast Lumra → sacrifice lands in response to ETB → lands return, generate mana → repeat; (2) Comm → [[2026-04-21-14-22-03-Lumra-cEDH-primer-obtained-and-studied-Primer-cla]]
+- **2026-04-22** — Jackson has not yet systematically verified card text from Scryfall for all 100 cards in his Lumra cEDH decklist. Next step is to pull every card from Scryfall, verify mechanics (especially alternate 
 - **2026-04-21** — Jackson has the complete Lumra cEDH primer from divinerage01 and the Build a Bear Workshop discord community. Primer covers core mechanics (Block Buster combo, Command Beacon/Mirrorpool bypass, Ashaya → [[2026-04-21-15-14-06-Jackson-has-the-complete-Lumra-cEDH-primer-from-di]]
 - **2026-04-21** — Jackson confirmed his Lumra cEDH decklist runs from Aftermath Analyst all the way through to Zuran Orb — 99 cards total. He's currently in the process of having Mentat systematically pull every card f → [[2026-04-21-15-11-16-Jackson-confirmed-his-Lumra-cEDH-decklist-runs-fro]]
 - **2026-04-21** — Jackson is systematically building a comprehensive Lumra cEDH combo document with Mentat. Approach: pull every card in the 99 from Scryfall, verify actual mechanics and alternate set printings, then m → [[2026-04-21-15-06-03-Jackson-is-systematically-building-a-comprehensive]]
@@ -47,11 +48,11 @@ tags:
 
 ## Related
 
-- [[Scryfall]] *(9)*
+- [[Scryfall]] *(10)*
 - [[Mentat]] *(7)*
 - [[divinerage01]] *(1)*
 - [[Build a Bear Workshop]] *(1)*
 - [[Build a Bear Workshop]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-21 at 15:31 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 04:28 UTC*
