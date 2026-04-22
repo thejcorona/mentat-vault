@@ -1,7 +1,7 @@
 ---
 entity: Lumra cEDH
 type: project
-memory_count: 12
+memory_count: 13
 last_updated: 2026-04-22
 tags:
   - hub
@@ -10,11 +10,12 @@ tags:
 
 # Lumra cEDH
 
-*Project · 12 memories*
+*Project · 13 memories*
 
 
 ## Project
 
+- **2026-04-22** — Jackson has a complete Lumra cEDH (Competitive Elder Dragon Highlander) decklist committed to Mentat's memory — 99 cards plus commander. Decklist is locked and verified against Scryfall for accurate c → [[2026-04-22-04-35-03-Jackson-has-a-complete-Lumra-cEDH-Competitive-Eld]]
 - **2026-04-22** — Jackson has a complete 99-card Lumra cEDH decklist committed to Mentat's memory. He expects Mentat to pull every card systematically from Scryfall, verify mechanics including alternate set names (espe → [[2026-04-22-04-31-47-Jackson-has-a-complete-99-card-Lumra-cEDH-decklist]]
 - **2026-04-22** — Jackson needs to paste his complete, clean Lumra cEDH decklist (99 cards) so Mentat can systematically pull every card from Scryfall, verify mechanics including alternate set names (especially Final F → [[2026-04-22-04-30-20-Jackson-needs-to-paste-his-complete-clean-Lumra-c]]
 - **2026-04-22** — Lumra cEDH decklist confirmed locked at 100 cards (99 + commander). Complete list from Aftermath Analyst through Zuran Orb. Decklist is clean and ready for card-by-card interrogation against establish → [[2026-04-22-04-26-35-Lumra-cEDH-decklist-confirmed-locked-at-100-cards]]
@@ -39,8 +40,8 @@ tags:
 
 ## Related
 
-- [[Scryfall]] *(4)*
-- [[Mentat]] *(2)*
+- [[Scryfall]] *(5)*
+- [[Mentat]] *(3)*
 - [[Ba Sing Se]] *(1)*
 - [[Ashaya]] *(1)*
 - [[Earthbend]] *(1)*
@@ -51,4 +52,4 @@ tags:
 - [[Build a Bear Workshop]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:31 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-22 at 04:35 UTC*
