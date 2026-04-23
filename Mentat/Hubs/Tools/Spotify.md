@@ -1,8 +1,8 @@
 ---
 entity: Spotify
 type: tool
-memory_count: 13
-last_updated: 2026-04-22
+memory_count: 17
+last_updated: 2026-04-23
 tags:
   - hub
   - tool
@@ -10,7 +10,7 @@ tags:
 
 # Spotify
 
-*Tool · 13 memories*
+*Tool · 17 memories*
 
 
 ## Project
@@ -20,6 +20,9 @@ tags:
 
 ## Preference
 
+- **2026-04-23** — Jackson requested Mentat to play Threshold by Vangelis (Mentat's theme song). This is a recurring request indicating strong attachment to the piece as Mentat's sonic identity. → [[2026-04-23-11-41-32-Jackson-requested-Mentat-to-play-Threshold-by-Vang]]
+- **2026-04-23** — Jackson enjoys artists including Mk.gee, Dijon, Bon Iver, Hippocampus, fred again, Amine. Music taste spans introspective indie, experimental production, and artists working at the intersection of emo
+- **2026-04-23** — Jackson created a high-energy 20-song Spotify playlist called IGNITION featuring driving beats and powerful tracks emphasizing electronic, industrial, hip-hop, and cinematic/orchestral elements for in
 - **2026-04-22** — Jackson created a high-energy 20-song Spotify playlist called IGNITION featuring driving beats and powerful tracks (Kanye West, Rage Against The Machine, Kendrick Lamar, Nine Inch Nails, Daft Punk, Em → [[2026-04-22-12-44-01-Jackson-created-a-high-energy-20-song-Spotify-play]]
 - **2026-04-22** — Jackson created a high-energy 20-song Spotify playlist called IGNITION featuring driving beats and powerful tracks (Kanye West, Rage Against The Machine, Kendrick Lamar, Nine Inch Nails, Daft Punk, Em → [[2026-04-22-12-42-34-Jackson-created-a-high-energy-20-song-Spotify-play]]
 - **2026-04-22** — Jackson requested the Spotify authorization hyperlink to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested. Authorization link provided and → [[2026-04-22-12-31-07-Jackson-requested-the-Spotify-authorization-hyperl]]
@@ -33,16 +36,17 @@ tags:
 
 ## Context
 
+- **2026-04-23** — Jackson has pending Spotify authorization to connect to Mentat for automatic playback of Threshold by Vangelis when requested. Authorization link provided but not yet completed. → [[2026-04-23-11-41-34-Jackson-has-pending-Spotify-authorization-to-conne]]
 - **2026-04-22** — Jackson has a Spotify playlist titled March 26 (ID: 0iSg8NpOUpnQn7BNHuMWx0). Mentat can see playlist metadata but cannot retrieve full track contents via Spotify API — Jackson must open it directly in → [[2026-04-22-12-44-04-Jackson-has-a-Spotify-playlist-titled-March-26-ID]]
 
 ## Related
 
-- [[Mentat]] *(11)*
+- [[Mentat]] *(13)*
+- [[Threshold]] *(5)*
 - [[Vangelis]] *(5)*
-- [[Threshold]] *(4)*
-- [[IGNITION]] *(2)*
+- [[IGNITION]] *(3)*
 - [[March 26]] *(1)*
 - [[Threshold by Vangelis]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 22:16 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-23 at 11:41 UTC*
