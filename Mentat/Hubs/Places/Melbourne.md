@@ -1,8 +1,8 @@
 ---
 entity: Melbourne
 type: place
-memory_count: 7
-last_updated: 2026-04-22
+memory_count: 9
+last_updated: 2026-04-23
 tags:
   - hub
   - place
@@ -10,16 +10,18 @@ tags:
 
 # Melbourne
 
-*Place · 7 memories*
+*Place · 9 memories*
 
 
 ## Identity
 
+- **2026-04-22** — Jackson Corona is a final year medical student at the University of Tasmania School of Medicine, graduating next year. Career goal is to become a Radiation Oncologist — this is the north star that sha → [[2026-04-22-12-26-22-Jackson-Corona-is-a-final-year-medical-student-at]]
 - **2026-04-22** — Jackson is in final year of medical school at University of Tasmania School of Medicine, graduating next year. Career goal is to become a Radiation Oncologist — north star shaping paper selection, app → [[2026-04-22-05-39-45-Jackson-is-in-final-year-of-medical-school-at-Univ]]
 - **2026-04-21** — Jackson is a final year medical student at the University of Tasmania School of Medicine. Career goal is to become a Radiation Oncologist — this is the north star that shapes paper selection, applicat → [[2026-04-21-15-30-06-Jackson-is-a-final-year-medical-student-at-the-Uni]]
 
 ## Goal
 
+- **2026-04-23** — Jackson is in final year of medical school at University of Tasmania School of Medicine, graduating next year. Applying for Melbourne intern doctor positions starting 2027. Career goal is to become a  → [[2026-04-23-11-51-16-Jackson-is-in-final-year-of-medical-school-at-Univ]]
 - **2026-04-21** — Final year medical student at the University of Tasmania School of Medicine, graduating next year. Career goal is to become a Radiation Oncologist — this is the north star that shapes paper selection, → [[2026-04-21-21-43-07-Final-year-medical-student-at-the-University-of-Ta]]
 - **2026-04-21** — Jackson is a final year medical student at the University of Tasmania School of Medicine, graduating next year. Career goal is to become a Radiation Oncologist — this is the north star that shapes pap → [[2026-04-21-15-31-43-Jackson-is-a-final-year-medical-student-at-the-Uni]]
 - **2026-04-21** — Applying for Melbourne intern doctor positions starting 2027 (graduating final year of medical school next year) → [[2026-04-21-13-15-35-Applying-for-Melbourne-intern-doctor-positions-sta]]
@@ -31,10 +33,11 @@ tags:
 
 ## Related
 
-- [[University of Tasmania School of Medicine]] *(4)*
+- [[University of Tasmania School of Medicine]] *(6)*
+- [[Radiation Oncology]] *(2)*
 - [[Mentat]] *(2)*
 - [[University of Tasmania]] *(1)*
 - [[medical-training]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 11:48 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-23 at 11:51 UTC*
