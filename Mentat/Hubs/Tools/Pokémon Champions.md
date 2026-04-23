@@ -1,8 +1,8 @@
 ---
 entity: Pokémon Champions
 type: tool
-memory_count: 6
-last_updated: 2026-04-22
+memory_count: 7
+last_updated: 2026-04-23
 tags:
   - hub
   - tool
@@ -10,7 +10,7 @@ tags:
 
 # Pokémon Champions
 
-*Tool · 6 memories*
+*Tool · 7 memories*
 
 
 ## Preference
@@ -21,6 +21,7 @@ tags:
 
 ## Challenge
 
+- **2026-04-23** — Jackson is currently overwhelmed juggling multiple concurrent high-cognitive-load projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (database audit, reference verification, m → [[2026-04-23-11-51-20-Jackson-is-currently-overwhelmed-juggling-multiple]]
 - **2026-04-22** — Jackson is currently overwhelmed juggling multiple high-cognitive-load concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (database audit, reference verification, m → [[2026-04-22-11-37-03-Jackson-is-currently-overwhelmed-juggling-multiple]]
 
 ## Context
@@ -30,14 +31,15 @@ tags:
 
 ## Related
 
-- [[Marvel Rivals]] *(3)*
-- [[Overwatch]] *(3)*
-- [[Magic: The Gathering]] *(2)*
+- [[Marvel Rivals]] *(4)*
+- [[Overwatch]] *(4)*
+- [[Magic: The Gathering]] *(3)*
+- [[Mentat]] *(2)*
 - [[Nintendo Switch]] *(2)*
+- [[Lumra cEDH]] *(1)*
 - [[Mentat]] *(1)*
 - [[University of Tasmania School of Medicine]] *(1)*
 - [[Magic the Gathering]] *(1)*
-- [[Mentat]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 11:48 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-23 at 11:51 UTC*
