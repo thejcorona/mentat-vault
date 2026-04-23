@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 53
+memory_count: 54
 last_updated: 2026-04-23
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 53 memories*
+*Tool · 54 memories*
 
 
 ## Identity
@@ -28,7 +28,7 @@ tags:
 - **2026-04-21** — Mentat made four critical revisions to Jackson's posterior fossa radiotherapy paper: (1) removed duplicate Shultz reference (PMID 30982195); (2) corrected suspected typo in Pikis DOI from s11060-026-0 → [[2026-04-21-13-47-44-Mentat-made-four-critical-revisions-to-Jacksons-p]]
 - **2026-04-21** — Jackson uploaded his HER2+ metastatic breast cancer posterior fossa radiotherapy study working document to Mentat. The document includes methods, inclusion/exclusion criteria, three study cohorts (SRS → [[2026-04-21-13-47-42-Jackson-uploaded-his-HER2-metastatic-breast-cance]]
 - **2026-04-21** — Jackson can directly fix the duplicate Shultz reference (PMID 30982195) and formalize the methodological notes/claims section from working-document style into formal introduction prose. He needs to ve → [[2026-04-21-13-34-46-Jackson-can-directly-fix-the-duplicate-Shultz-refe]]
-- **2026-04-23** — Jackson has a prescribing exam coming up. Created a comprehensive 100-drug reference table organized by category (analgesics, antibiotics, cardiovascular, respiratory, endocrine, GI, psychiatry/neurol
+- **2026-04-23** — Jackson has a prescribing exam coming up. Created a comprehensive 100-drug reference table organized by category (analgesics, antibiotics, cardiovascular, respiratory, endocrine, GI, psychiatry/neurol → [[2026-04-23-11-24-08-Jackson-has-a-prescribing-exam-coming-up-Created]]
 - **2026-04-22** — Jackson has a complete Lumra cEDH (Competitive Elder Dragon Highlander) decklist committed to Mentat's memory — 99 cards plus commander. Decklist is locked and verified against Scryfall for accurate c → [[2026-04-22-04-35-03-Jackson-has-a-complete-Lumra-cEDH-Competitive-Eld]]
 - **2026-04-22** — Jackson needs to paste his complete, clean Lumra cEDH decklist (99 cards) so Mentat can systematically pull every card from Scryfall, verify mechanics including alternate set names (especially Final F → [[2026-04-22-04-30-20-Jackson-needs-to-paste-his-complete-clean-Lumra-c]]
 - **2026-04-22** — Jackson previously asked Mentat to commit his complete Lumra cEDH decklist (100 cards including commander) plus the combo framework to long-term memory for later interrogation, optimization, and testi → [[2026-04-22-04-28-12-Jackson-previously-asked-Mentat-to-commit-his-comp]]
@@ -47,6 +47,7 @@ tags:
 - **2026-04-21** — Jackson uploaded a working document for his HER2+ metastatic breast cancer posterior fossa radiotherapy study. The document is now stored in Mentat for reference and iteration. Document includes metho → [[2026-04-21-13-33-58-Jackson-uploaded-a-working-document-for-his-HER2]]
 - **2026-04-22** — Jackson is completing medical school logbook entries for radiation oncology cases as part of final year documentation at University of Tasmania School of Medicine. He requires concise (250 words max), → [[2026-04-22-06-33-08-Jackson-is-completing-medical-school-logbook-entri]]
 - **2026-04-21** — Jackson is asking Mentat to work with an incomplete Lumra cEDH decklist paste that cuts off mid-Boseiju. He needs the complete 99-card decklist pasted in full so Mentat can pull every card systematica → [[2026-04-21-15-02-45-Jackson-is-asking-Mentat-to-work-with-an-incomplet]]
+- **2026-04-23** — Jackson requested Mentat to rebuild his prescribing exam reference as a top 50 drugs table (down from 100). Table organized by category with standard adult doses and clinical indications for Australia
 
 ## Preference
 
@@ -100,4 +101,4 @@ tags:
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-23 at 11:24 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-23 at 11:26 UTC*
