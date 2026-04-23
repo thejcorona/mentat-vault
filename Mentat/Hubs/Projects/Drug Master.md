@@ -1,7 +1,7 @@
 ---
 entity: Drug Master
 type: project
-memory_count: 2
+memory_count: 3
 last_updated: 2026-04-23
 tags:
   - hub
@@ -10,17 +10,19 @@ tags:
 
 # Drug Master
 
-*Project · 2 memories*
+*Project · 3 memories*
 
 
 ## Project
 
+- **2026-04-23** — Drug Master game committed to memory — 100 essential hospital drugs organized by category (cardiovascular, antibiotics, analgesics, respiratory, endocrine, GI, psychiatry, miscellaneous) with three le
 - **2026-04-23** — Jackson created a comprehensive interactive game in React called 'Drug Master' to learn the top 100 most-used medical drugs in Australian hospitals. Game teaches drug name, standard adult dose (Austra → [[2026-04-23-11-47-56-Jackson-created-a-comprehensive-interactive-game-i]]
-- **2026-04-23** — Jackson created a simplified Drug Quiz app in React with 100 essential hospital drugs (cardiovascular, antibiotics, analgesics, respiratory, endocrine, psychiatry/neurology, GI, miscellaneous). App in
+- **2026-04-23** — Jackson created a simplified Drug Quiz app in React with 100 essential hospital drugs (cardiovascular, antibiotics, analgesics, respiratory, endocrine, psychiatry/neurology, GI, miscellaneous). App in → [[2026-04-23-11-51-13-Jackson-created-a-simplified-Drug-Quiz-app-in-Reac]]
 
 ## Related
 
 - [[React]] *(2)*
+- [[Mentat]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-23 at 11:51 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-23 at 12:21 UTC*
