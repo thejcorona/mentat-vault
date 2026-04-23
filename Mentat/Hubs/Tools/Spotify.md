@@ -1,7 +1,7 @@
 ---
 entity: Spotify
 type: tool
-memory_count: 17
+memory_count: 18
 last_updated: 2026-04-23
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Spotify
 
-*Tool · 17 memories*
+*Tool · 18 memories*
 
 
 ## Project
@@ -21,7 +21,8 @@ tags:
 ## Preference
 
 - **2026-04-23** — Jackson requested Mentat to play Threshold by Vangelis (Mentat's theme song). This is a recurring request indicating strong attachment to the piece as Mentat's sonic identity. → [[2026-04-23-11-41-32-Jackson-requested-Mentat-to-play-Threshold-by-Vang]]
-- **2026-04-23** — Jackson enjoys artists including Mk.gee, Dijon, Bon Iver, Hippocampus, fred again, Amine. Music taste spans introspective indie, experimental production, and artists working at the intersection of emo
+- **2026-04-23** — Jackson requested to play Mentat's theme song (Threshold by Vangelis). This is a recurring request indicating strong attachment to the piece as Mentat's sonic identity. Mentat has Spotify authorizatio → [[2026-04-23-12-41-41-Jackson-requested-to-play-Mentats-theme-song-Thr]]
+- **2026-04-23** — Jackson enjoys artists including Mk.gee, Dijon, Bon Iver, Hippocampus, fred again, Amine. Music taste spans introspective indie, experimental production, and artists working at the intersection of emo → [[2026-04-23-11-41-38-Jackson-enjoys-artists-including-Mkgee-Dijon-Bo]]
 - **2026-04-23** — Jackson created a high-energy 20-song Spotify playlist called IGNITION featuring driving beats and powerful tracks emphasizing electronic, industrial, hip-hop, and cinematic/orchestral elements for in → [[2026-04-23-11-41-36-Jackson-created-a-high-energy-20-song-Spotify-play]]
 - **2026-04-22** — Jackson created a high-energy 20-song Spotify playlist called IGNITION featuring driving beats and powerful tracks (Kanye West, Rage Against The Machine, Kendrick Lamar, Nine Inch Nails, Daft Punk, Em → [[2026-04-22-12-44-01-Jackson-created-a-high-energy-20-song-Spotify-play]]
 - **2026-04-22** — Jackson created a high-energy 20-song Spotify playlist called IGNITION featuring driving beats and powerful tracks (Kanye West, Rage Against The Machine, Kendrick Lamar, Nine Inch Nails, Daft Punk, Em → [[2026-04-22-12-42-34-Jackson-created-a-high-energy-20-song-Spotify-play]]
@@ -41,12 +42,12 @@ tags:
 
 ## Related
 
-- [[Mentat]] *(13)*
+- [[Mentat]] *(14)*
+- [[Vangelis]] *(6)*
 - [[Threshold]] *(5)*
-- [[Vangelis]] *(5)*
 - [[IGNITION]] *(3)*
 - [[March 26]] *(1)*
 - [[Threshold by Vangelis]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-23 at 11:41 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-23 at 12:41 UTC*
