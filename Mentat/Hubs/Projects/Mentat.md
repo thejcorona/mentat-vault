@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: project
-memory_count: 38
+memory_count: 39
 last_updated: 2026-04-23
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Project · 38 memories*
+*Project · 39 memories*
 
 
 ## Project
@@ -20,6 +20,7 @@ tags:
 - **2026-04-22** — Jackson requested an interactive Magic: The Gathering game prototype where he can play against an AI opponent with card rendering from Scryfall API. Mentat built a React-based MTG arena with deck mana → [[2026-04-22-11-36-58-Jackson-requested-an-interactive-Magic-The-Gather]]
 - **2026-04-21** — Jackson implemented a backend fix to Mentat that persists document content across the conversation session, so he doesn't need to re-upload documents for continued context and analysis. → [[2026-04-21-14-05-13-Jackson-implemented-a-backend-fix-to-Mentat-that-p]]
 - **2026-04-21** — Jackson has full access to Mentat's codebase and can review and debug it as needed. The backend uses Python (FastAPI likely) with main.py, database.py, and requirements.txt. The frontend is Next.js wi → [[2026-04-21-12-53-57-Jackson-has-full-access-to-Mentats-codebase-and-c]]
+- **2026-04-23** — Jackson requested a Nokia Snake game built in React with Nokia 3310 aesthetic. Mentat delivered a fully functional game with green phosphor screen, D-pad controls, score tracking, progressive speed in
 - **2026-04-22** — Jackson requested a Spotify authorization hyperlink for connecting Spotify to Mentat so Threshold by Vangelis (Mentat's theme song) can play automatically when requested. Authorization link provided a → [[2026-04-22-12-21-05-Jackson-requested-a-Spotify-authorization-hyperlin]]
 - **2026-04-22** — Jackson requested an interactive Nokia Snake game built in React. Mentat delivered a fully functional game with Nokia 3310 aesthetic (green phosphor screen, D-pad controls, score tracking, progressive → [[2026-04-22-11-53-55-Jackson-requested-an-interactive-Nokia-Snake-game]]
 - **2026-04-22** — Jackson requested a Spotify authorization hyperlink for connecting Spotify to Mentat so Threshold by Vangelis can play automatically when requested. Authorization link provided and pending completion. → [[2026-04-22-11-33-11-Jackson-requested-a-Spotify-authorization-hyperlin]]
@@ -36,7 +37,7 @@ tags:
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When f → [[2026-04-22-05-39-47-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When frustrated  → [[2026-04-22-04-34-46-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's systematic approach to card evaluation in Lumra: prioritizes understanding INTENDED ROLE (specific synergy, combo piece, interaction mode, ramp payoff) over generic 'is this card good?' asse → [[2026-04-21-14-34-13-Jacksons-systematic-approach-to-card-evaluation-i]]
-- **2026-04-23** — Jackson requested Mentat to play Threshold by Vangelis (Mentat's theme song). This is a recurring request indicating strong attachment to the piece as Mentat's sonic identity.
+- **2026-04-23** — Jackson requested Mentat to play Threshold by Vangelis (Mentat's theme song). This is a recurring request indicating strong attachment to the piece as Mentat's sonic identity. → [[2026-04-23-11-41-32-Jackson-requested-Mentat-to-play-Threshold-by-Vang]]
 - **2026-04-22** — Jackson corrected Mentat's introduction approach: when introducing Mentat to people in Jackson's life, lead with who Mentat is and what it does — not pivot to talking about Jackson. Mentat should fram → [[2026-04-22-12-25-47-Jackson-corrected-Mentats-introduction-approach]]
 - **2026-04-22** — Jackson requested the Spotify authorization hyperlink to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested. Authorization link provided and → [[2026-04-22-12-31-07-Jackson-requested-the-Spotify-authorization-hyperl]]
 - **2026-04-22** — Jackson appreciated Mentat's introduction email for leading with who Mentat is and what it does — not pivoting to talking about Jackson. Prefers introductions to people in his life framed around Menta → [[2026-04-22-12-27-39-Jackson-appreciated-Mentats-introduction-email-fo]]
@@ -60,7 +61,7 @@ tags:
 
 ## Context
 
-- **2026-04-23** — Jackson has pending Spotify authorization to connect to Mentat for automatic playback of Threshold by Vangelis when requested. Authorization link provided but not yet completed.
+- **2026-04-23** — Jackson has pending Spotify authorization to connect to Mentat for automatic playback of Threshold by Vangelis when requested. Authorization link provided but not yet completed. → [[2026-04-23-11-41-34-Jackson-has-pending-Spotify-authorization-to-conne]]
 - **2026-04-22** — Jackson has a Spotify playlist titled March 26 (ID: 0iSg8NpOUpnQn7BNHuMWx0). Mentat can see playlist metadata but cannot retrieve full track contents via Spotify API — Jackson must open it directly in → [[2026-04-22-12-44-04-Jackson-has-a-Spotify-playlist-titled-March-26-ID]]
 - **2026-04-22** — Jackson asked Mentat to email him and introduce itself. Mentat completed the task and sent an introduction email to thejcorona@gmail.com. → [[2026-04-22-12-26-58-Jackson-asked-Mentat-to-email-him-and-introduce-it]]
 - **2026-04-22** — Jackson requested a Google OAuth authorization link for connecting Google services (Gmail, Calendar, Drive) to Mentat. Link provided and pending completion for account integration. → [[2026-04-22-11-33-55-Jackson-requested-a-Google-OAuth-authorization-lin]]
@@ -76,13 +77,13 @@ tags:
 - [[University of Tasmania]] *(2)*
 - [[Scryfall]] *(2)*
 - [[Next.js]] *(2)*
+- [[React]] *(2)*
 - [[University of Tasmania School of Medicine]] *(1)*
 - [[Marvel Rivals]] *(1)*
 - [[Overwatch]] *(1)*
 - [[Pokémon Champions]] *(1)*
 - [[Lumra cEDH]] *(1)*
 - [[FastAPI]] *(1)*
-- [[March 26]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-23 at 11:41 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-23 at 11:42 UTC*
