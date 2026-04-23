@@ -1,8 +1,8 @@
 ---
 entity: Mentat
 type: project
-memory_count: 36
-last_updated: 2026-04-22
+memory_count: 38
+last_updated: 2026-04-23
 tags:
   - hub
   - project
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Project · 36 memories*
+*Project · 38 memories*
 
 
 ## Project
@@ -36,6 +36,7 @@ tags:
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When f → [[2026-04-22-05-39-47-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When frustrated  → [[2026-04-22-04-34-46-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's systematic approach to card evaluation in Lumra: prioritizes understanding INTENDED ROLE (specific synergy, combo piece, interaction mode, ramp payoff) over generic 'is this card good?' asse → [[2026-04-21-14-34-13-Jacksons-systematic-approach-to-card-evaluation-i]]
+- **2026-04-23** — Jackson requested Mentat to play Threshold by Vangelis (Mentat's theme song). This is a recurring request indicating strong attachment to the piece as Mentat's sonic identity.
 - **2026-04-22** — Jackson corrected Mentat's introduction approach: when introducing Mentat to people in Jackson's life, lead with who Mentat is and what it does — not pivot to talking about Jackson. Mentat should fram → [[2026-04-22-12-25-47-Jackson-corrected-Mentats-introduction-approach]]
 - **2026-04-22** — Jackson requested the Spotify authorization hyperlink to connect Spotify to Mentat for automatic playback of Threshold by Vangelis (Mentat's theme song) when requested. Authorization link provided and → [[2026-04-22-12-31-07-Jackson-requested-the-Spotify-authorization-hyperl]]
 - **2026-04-22** — Jackson appreciated Mentat's introduction email for leading with who Mentat is and what it does — not pivoting to talking about Jackson. Prefers introductions to people in his life framed around Menta → [[2026-04-22-12-27-39-Jackson-appreciated-Mentats-introduction-email-fo]]
@@ -59,6 +60,7 @@ tags:
 
 ## Context
 
+- **2026-04-23** — Jackson has pending Spotify authorization to connect to Mentat for automatic playback of Threshold by Vangelis when requested. Authorization link provided but not yet completed.
 - **2026-04-22** — Jackson has a Spotify playlist titled March 26 (ID: 0iSg8NpOUpnQn7BNHuMWx0). Mentat can see playlist metadata but cannot retrieve full track contents via Spotify API — Jackson must open it directly in → [[2026-04-22-12-44-04-Jackson-has-a-Spotify-playlist-titled-March-26-ID]]
 - **2026-04-22** — Jackson asked Mentat to email him and introduce itself. Mentat completed the task and sent an introduction email to thejcorona@gmail.com. → [[2026-04-22-12-26-58-Jackson-asked-Mentat-to-email-him-and-introduce-it]]
 - **2026-04-22** — Jackson requested a Google OAuth authorization link for connecting Google services (Gmail, Calendar, Drive) to Mentat. Link provided and pending completion for account integration. → [[2026-04-22-11-33-55-Jackson-requested-a-Google-OAuth-authorization-lin]]
@@ -66,10 +68,10 @@ tags:
 
 ## Related
 
-- [[Spotify]] *(11)*
+- [[Spotify]] *(13)*
 - [[Vangelis]] *(6)*
+- [[Threshold]] *(5)*
 - [[Bethany]] *(4)*
-- [[Threshold]] *(4)*
 - [[Magic: The Gathering]] *(2)*
 - [[University of Tasmania]] *(2)*
 - [[Scryfall]] *(2)*
@@ -83,4 +85,4 @@ tags:
 - [[March 26]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 22:16 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-23 at 11:41 UTC*
