@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 54
+memory_count: 55
 last_updated: 2026-04-23
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 54 memories*
+*Tool · 55 memories*
 
 
 ## Identity
@@ -45,9 +45,10 @@ tags:
 - **2026-04-21** — Jackson wants Mentat to remind him about connecting Google Calendar for database audit automation when he asks about workload or next steps on the posterior fossa paper. This is a foundational task th → [[2026-04-21-13-39-25-Jackson-wants-Mentat-to-remind-him-about-connectin]]
 - **2026-04-21** — Jackson wants to integrate his database audit checklist into his daily spread/calendar system. Mentat offered to connect Google Calendar to automate this, but Jackson can also add it manually in the m → [[2026-04-21-13-36-12-Jackson-wants-to-integrate-his-database-audit-chec]]
 - **2026-04-21** — Jackson uploaded a working document for his HER2+ metastatic breast cancer posterior fossa radiotherapy study. The document is now stored in Mentat for reference and iteration. Document includes metho → [[2026-04-21-13-33-58-Jackson-uploaded-a-working-document-for-his-HER2]]
+- **2026-04-23** — Jackson created a drug flashcard UI component for prescribing exam prep — 50 drugs organized by category (analgesics, antibiotics, cardiovascular, respiratory, endocrine, GI, psychiatry/neurology) wit
 - **2026-04-22** — Jackson is completing medical school logbook entries for radiation oncology cases as part of final year documentation at University of Tasmania School of Medicine. He requires concise (250 words max), → [[2026-04-22-06-33-08-Jackson-is-completing-medical-school-logbook-entri]]
 - **2026-04-21** — Jackson is asking Mentat to work with an incomplete Lumra cEDH decklist paste that cuts off mid-Boseiju. He needs the complete 99-card decklist pasted in full so Mentat can pull every card systematica → [[2026-04-21-15-02-45-Jackson-is-asking-Mentat-to-work-with-an-incomplet]]
-- **2026-04-23** — Jackson requested Mentat to rebuild his prescribing exam reference as a top 50 drugs table (down from 100). Table organized by category with standard adult doses and clinical indications for Australia
+- **2026-04-23** — Jackson requested Mentat to rebuild his prescribing exam reference as a top 50 drugs table (down from 100). Table organized by category with standard adult doses and clinical indications for Australia → [[2026-04-23-11-26-04-Jackson-requested-Mentat-to-rebuild-his-prescribin]]
 
 ## Preference
 
@@ -101,4 +102,4 @@ tags:
 - [[Pokémon Champions]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-23 at 11:26 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-23 at 11:33 UTC*
