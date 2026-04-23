@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 56
+memory_count: 57
 last_updated: 2026-04-23
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 56 memories*
+*Tool · 57 memories*
 
 
 ## Identity
@@ -28,6 +28,7 @@ tags:
 - **2026-04-21** — Mentat made four critical revisions to Jackson's posterior fossa radiotherapy paper: (1) removed duplicate Shultz reference (PMID 30982195); (2) corrected suspected typo in Pikis DOI from s11060-026-0 → [[2026-04-21-13-47-44-Mentat-made-four-critical-revisions-to-Jacksons-p]]
 - **2026-04-21** — Jackson uploaded his HER2+ metastatic breast cancer posterior fossa radiotherapy study working document to Mentat. The document includes methods, inclusion/exclusion criteria, three study cohorts (SRS → [[2026-04-21-13-47-42-Jackson-uploaded-his-HER2-metastatic-breast-cance]]
 - **2026-04-21** — Jackson can directly fix the duplicate Shultz reference (PMID 30982195) and formalize the methodological notes/claims section from working-document style into formal introduction prose. He needs to ve → [[2026-04-21-13-34-46-Jackson-can-directly-fix-the-duplicate-Shultz-refe]]
+- **2026-04-23** — Drug Master game committed to memory — 100 essential hospital drugs organized by category (cardiovascular, antibiotics, analgesics, respiratory, endocrine, GI, psychiatry, miscellaneous) with three le → [[2026-04-23-12-21-42-Drug-Master-game-committed-to-memory--100-essenti]]
 - **2026-04-23** — Jackson has a prescribing exam coming up. Created a comprehensive 100-drug reference table organized by category (analgesics, antibiotics, cardiovascular, respiratory, endocrine, GI, psychiatry/neurol → [[2026-04-23-11-24-08-Jackson-has-a-prescribing-exam-coming-up-Created]]
 - **2026-04-22** — Jackson has a complete Lumra cEDH (Competitive Elder Dragon Highlander) decklist committed to Mentat's memory — 99 cards plus commander. Decklist is locked and verified against Scryfall for accurate c → [[2026-04-22-04-35-03-Jackson-has-a-complete-Lumra-cEDH-Competitive-Eld]]
 - **2026-04-22** — Jackson needs to paste his complete, clean Lumra cEDH decklist (99 cards) so Mentat can systematically pull every card from Scryfall, verify mechanics including alternate set names (especially Final F → [[2026-04-22-04-30-20-Jackson-needs-to-paste-his-complete-clean-Lumra-c]]
@@ -67,7 +68,7 @@ tags:
 
 ## Challenge
 
-- **2026-04-23** — Jackson is currently overwhelmed juggling multiple concurrent high-cognitive-load projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (database audit, reference verification, m
+- **2026-04-23** — Jackson is currently overwhelmed juggling multiple concurrent high-cognitive-load projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (database audit, reference verification, m → [[2026-04-23-11-51-20-Jackson-is-currently-overwhelmed-juggling-multiple]]
 - **2026-04-22** — Jackson is experiencing cognitive overload juggling multiple concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper, Lumra cEDH deck optimization, competitive gaming, a → [[2026-04-22-04-31-44-Jackson-is-experiencing-cognitive-overload-jugglin]]
 - **2026-04-22** — Jackson is experiencing cognitive overload juggling multiple concurrent projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (with four critical operational items remaining), Lu → [[2026-04-22-04-30-24-Jackson-is-experiencing-cognitive-overload-jugglin]]
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: needs clean, systematic execution without ambiguity or re-requests for information. When f → [[2026-04-22-04-26-38-Jacksons-pattern-when-externalizing-complex-menta]]
@@ -100,7 +101,7 @@ tags:
 - [[Overwatch]] *(1)*
 - [[Magic: The Gathering]] *(1)*
 - [[University of Tasmania]] *(1)*
-- [[Lumra cEDH combo document]] *(1)*
+- [[Drug Master]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-23 at 11:51 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-23 at 12:21 UTC*
