@@ -1,8 +1,8 @@
 ---
 entity: Lumra cEDH
 type: project
-memory_count: 17
-last_updated: 2026-04-22
+memory_count: 18
+last_updated: 2026-04-23
 tags:
   - hub
   - project
@@ -10,12 +10,12 @@ tags:
 
 # Lumra cEDH
 
-*Project · 17 memories*
+*Project · 18 memories*
 
 
 ## Project
 
-- **2026-04-22** — Jackson is systematically identifying previously undocumented combo lines in his Lumra cEDH deck by mapping tutors + untappers/bounce outlets. Candidate lines under exploration: (1) Azusa + sol land +
+- **2026-04-22** — Jackson is systematically identifying previously undocumented combo lines in his Lumra cEDH deck by mapping tutors + untappers/bounce outlets. Candidate lines under exploration: (1) Azusa + sol land + → [[2026-04-22-04-46-24-Jackson-is-systematically-identifying-previously-u]]
 - **2026-04-22** — Jackson's Lumra cEDH deck is restricted to green and colorless cards only. This color limitation eliminates cards like Weathered Wayfarer (white) and requires careful tutor/untapper selection from ava → [[2026-04-22-04-46-21-Jacksons-Lumra-cEDH-deck-is-restricted-to-green-a]]
 - **2026-04-22** — Jackson is systematically identifying potential combo lines in his Lumra cEDH deck that haven't been documented yet. Key candidates include: Azusa + land untapper for mana generation without requiring → [[2026-04-22-04-38-43-Jackson-is-systematically-identifying-potential-co]]
 - **2026-04-22** — Jackson has a complete Lumra cEDH (Competitive Elder Dragon Highlander) decklist committed to Mentat's memory — 99 cards plus commander. Decklist is locked and verified against Scryfall for accurate c → [[2026-04-22-04-35-03-Jackson-has-a-complete-Lumra-cEDH-Competitive-Eld]]
@@ -35,6 +35,7 @@ tags:
 
 ## Challenge
 
+- **2026-04-23** — Jackson is currently overwhelmed juggling multiple concurrent high-cognitive-load projects: posterior fossa HER2+ metastatic breast cancer radiotherapy paper (database audit, reference verification, m → [[2026-04-23-11-51-20-Jackson-is-currently-overwhelmed-juggling-multiple]]
 - **2026-04-21** — Jackson asked Mentat to scrap the corrupted Lumra cEDH decklist and start fresh tomorrow. He needs clean, systematic execution without ambiguity when externalizing cognitive load. This reflects his pa → [[2026-04-21-15-38-49-Jackson-asked-Mentat-to-scrap-the-corrupted-Lumra]]
 - **2026-04-21** — Jackson acknowledged he was confused about the Lumra cEDH decklist and asked Mentat to reset. Mentat confirmed it has the full decklist (Aftermath Analyst through Cavern of Souls) and will pull every  → [[2026-04-21-15-08-13-Jackson-acknowledged-he-was-confused-about-the-Lum]]
 
@@ -45,9 +46,12 @@ tags:
 ## Related
 
 - [[Scryfall]] *(5)*
+- [[Mentat]] *(4)*
+- [[Magic: The Gathering]] *(3)*
 - [[Build a Bear Workshop]] *(3)*
-- [[Mentat]] *(3)*
-- [[Magic: The Gathering]] *(2)*
+- [[Marvel Rivals]] *(1)*
+- [[Overwatch]] *(1)*
+- [[Pokémon Champions]] *(1)*
 - [[Ba Sing Se]] *(1)*
 - [[Ashaya]] *(1)*
 - [[Earthbend]] *(1)*
@@ -57,4 +61,4 @@ tags:
 - [[Mentat]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 04:46 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-23 at 11:51 UTC*
