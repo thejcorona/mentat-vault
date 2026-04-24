@@ -1,7 +1,7 @@
 ---
 entity: Kate Macintyre
 type: person
-memory_count: 1
+memory_count: 2
 last_updated: 2026-04-24
 tags:
   - hub
@@ -10,12 +10,13 @@ tags:
 
 # Kate Macintyre
 
-*Person · 1 memory*
+*Person · 2 memories*
 
 
 ## Context
 
 - **2026-04-24** — CAM524/525 HCS Group Learning Week 3 scheduled Monday 27 April to Friday 1 May 2026 at Tasmanian School of Medicine Hobart Clinical School. Key sessions include THS Intern Briefing, reflective case-ba → [[2026-04-24-05-15-26-CAM524525-HCS-Group-Learning-Week-3-scheduled-Mon]]
+- **2026-04-24** — CAM524/525 HCS Group Learning Week 3 scheduled Monday 27 April to Friday 1 May 2026 at Tasmanian School of Medicine Hobart Clinical School. Key sessions include THS Intern Briefing, reflective case-ba → [[2026-04-24-05-18-43-CAM524525-HCS-Group-Learning-Week-3-scheduled-Mon]]
 
 ## Related
 
@@ -29,6 +30,11 @@ tags:
 - [[Dr Brian Doyle]] *(1)*
 - [[Nara Jones]] *(1)*
 - [[Jo Brown]] *(1)*
+- [[Tasmanian School of Medicine Hobart Clinical School]] *(1)*
+- [[CAM524/525]] *(1)*
+- [[Blair Adamczewski]] *(1)*
+- [[Phil Roberts-Thomson]] *(1)*
+- [[Max Sarma]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-24 at 05:15 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-24 at 05:19 UTC*
