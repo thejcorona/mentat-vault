@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 47
+memory_count: 48
 last_updated: 2026-04-24
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 47 memories*
+*Tool · 48 memories*
 
 
 ## Identity
@@ -47,6 +47,7 @@ tags:
 - **2026-04-22** — Jackson uses Mentat to hold and organize complex workload across multiple concurrent projects so he doesn't carry it alone mentally. When externalizing cognitive load during high-stress situations, he → [[2026-04-22-04-37-28-Jackson-uses-Mentat-to-hold-and-organize-complex-w]]
 - **2026-04-21** — Jackson's pattern when externalizing complex mental workload to Mentat: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this' → [[2026-04-21-15-22-42-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's pattern during high-cognitive-load externalizing tasks: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this'), he  → [[2026-04-21-15-20-32-Jacksons-pattern-during-high-cognitive-load-exter]]
+- **2026-04-24** — Jackson's pattern when requesting batch calendar additions or organizational cleanup: specifies exact constraints (e.g., 'Group 1a specifically') and expects Mentat to ask for clarification if needed,
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: he needs clean, systematic execution without ambiguity or re-requests for information. Whe → [[2026-04-22-04-35-05-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: he needs clean, systematic execution without ambiguity. When frustrated (expressed as 'Fuc → [[2026-04-22-04-31-49-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-22** — Jackson's pattern during high-cognitive-load externalizing tasks with Mentat: needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck th → [[2026-04-22-04-28-10-Jacksons-pattern-during-high-cognitive-load-exter]]
@@ -55,7 +56,7 @@ tags:
 - **2026-04-21** — Jackson values having a system (Mentat) that can hold and organize his workload so he doesn't have to carry it alone mentally. He responds positively to reassurance and clear next-step direction when  → [[2026-04-21-13-23-03-Jackson-values-having-a-system-Mentat-that-can-h]]
 - **2026-04-21** — Jackson demonstrates a pattern of catching and correcting factual errors in Magic card mechanics before accepting card inclusion decisions. Rather than accepting Mentat's analysis at face value, he pu → [[2026-04-21-14-49-15-Jackson-demonstrates-a-pattern-of-catching-and-cor]]
 - **2026-04-21** — Jackson's approach to collaborative analysis with Mentat: when Mentat makes factual errors (card mechanics, game rules), Jackson corrects directly with accurate text, then asks Mentat to clarify the I → [[2026-04-21-14-18-51-Jacksons-approach-to-collaborative-analysis-with]]
-- **2026-04-24** — Jackson asked Mentat to add the entire Group Learning Week 3 timetable to his calendar in batch. Mentat organized 20 events across Monday 27 April to Friday 1 May with 15-minute reminders and grouped 
+- **2026-04-24** — Jackson asked Mentat to add the entire Group Learning Week 3 timetable to his calendar in batch. Mentat organized 20 events across Monday 27 April to Friday 1 May with 15-minute reminders and grouped  → [[2026-04-24-05-17-14-Jackson-asked-Mentat-to-add-the-entire-Group-Learn]]
 
 ## Challenge
 
@@ -94,4 +95,4 @@ tags:
 - [[Lumra cEDH combo document]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-24 at 05:17 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-24 at 05:18 UTC*
