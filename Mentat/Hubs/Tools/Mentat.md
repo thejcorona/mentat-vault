@@ -20,7 +20,7 @@ tags:
 
 ## Project
 
-- **2026-04-25** — Actively working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases treated with radiotherapy. Study compares three treatment arms: SRS (any locati
+- **2026-04-25** — Actively working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases treated with radiotherapy. Study compares three treatment arms: SRS (any locati → [[2026-04-25-04-06-32-Actively-working-on-a-retrospective-cohort-study-o]]
 - **2026-04-21** — Jackson's posterior fossa HER2+ metastatic breast cancer radiotherapy paper is missing several high-priority references that directly support his study design and systemic therapy variables. Zare et a → [[2026-04-21-22-56-06-Jacksons-posterior-fossa-HER2-metastatic-breast]]
 - **2026-04-21** — Jackson is systematically running a literature review on HER2-positive metastatic breast cancer with intracranial metastases and radiotherapy failure patterns to identify gaps in his posterior fossa s → [[2026-04-21-22-56-04-Jackson-is-systematically-running-a-literature-rev]]
 - **2026-04-21** — Currently working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases treated with radiotherapy. Study compares three treatment arms (SRS any locati → [[2026-04-21-22-51-04-Currently-working-on-a-retrospective-cohort-study]]
@@ -96,4 +96,4 @@ tags:
 - [[Lumra cEDH combo document]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-25 at 04:06 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-25 at 23:08 UTC*
