@@ -1,8 +1,8 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 48
-last_updated: 2026-04-24
+memory_count: 49
+last_updated: 2026-04-25
 tags:
   - hub
   - tool
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 48 memories*
+*Tool · 49 memories*
 
 
 ## Identity
@@ -20,6 +20,7 @@ tags:
 
 ## Project
 
+- **2026-04-25** — Actively working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases treated with radiotherapy. Study compares three treatment arms: SRS (any locati
 - **2026-04-21** — Jackson's posterior fossa HER2+ metastatic breast cancer radiotherapy paper is missing several high-priority references that directly support his study design and systemic therapy variables. Zare et a → [[2026-04-21-22-56-06-Jacksons-posterior-fossa-HER2-metastatic-breast]]
 - **2026-04-21** — Jackson is systematically running a literature review on HER2-positive metastatic breast cancer with intracranial metastases and radiotherapy failure patterns to identify gaps in his posterior fossa s → [[2026-04-21-22-56-04-Jackson-is-systematically-running-a-literature-rev]]
 - **2026-04-21** — Currently working on a retrospective cohort study of HER2+ metastatic breast cancer patients with intracranial metastases treated with radiotherapy. Study compares three treatment arms (SRS any locati → [[2026-04-21-22-51-04-Currently-working-on-a-retrospective-cohort-study]]
@@ -47,7 +48,7 @@ tags:
 - **2026-04-22** — Jackson uses Mentat to hold and organize complex workload across multiple concurrent projects so he doesn't carry it alone mentally. When externalizing cognitive load during high-stress situations, he → [[2026-04-22-04-37-28-Jackson-uses-Mentat-to-hold-and-organize-complex-w]]
 - **2026-04-21** — Jackson's pattern when externalizing complex mental workload to Mentat: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this' → [[2026-04-21-15-22-42-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-21** — Jackson's pattern during high-cognitive-load externalizing tasks: he needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck this'), he  → [[2026-04-21-15-20-32-Jacksons-pattern-during-high-cognitive-load-exter]]
-- **2026-04-24** — Jackson's pattern when requesting batch calendar additions or organizational cleanup: specifies exact constraints (e.g., 'Group 1a specifically') and expects Mentat to ask for clarification if needed,
+- **2026-04-24** — Jackson's pattern when requesting batch calendar additions or organizational cleanup: specifies exact constraints (e.g., 'Group 1a specifically') and expects Mentat to ask for clarification if needed, → [[2026-04-24-05-18-22-Jacksons-pattern-when-requesting-batch-calendar-a]]
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: he needs clean, systematic execution without ambiguity or re-requests for information. Whe → [[2026-04-22-04-35-05-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-22** — Jackson's pattern when externalizing complex mental workload to Mentat during high-cognitive-load situations: he needs clean, systematic execution without ambiguity. When frustrated (expressed as 'Fuc → [[2026-04-22-04-31-49-Jacksons-pattern-when-externalizing-complex-menta]]
 - **2026-04-22** — Jackson's pattern during high-cognitive-load externalizing tasks with Mentat: needs clean, systematic execution without ambiguity or re-requests for information. When frustrated (expressed as 'Fuck th → [[2026-04-22-04-28-10-Jacksons-pattern-during-high-cognitive-load-exter]]
@@ -95,4 +96,4 @@ tags:
 - [[Lumra cEDH combo document]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-24 at 05:18 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-25 at 04:06 UTC*
