@@ -2,7 +2,7 @@
 entity: Melbourne
 type: place
 memory_count: 9
-last_updated: 2026-04-23
+last_updated: 2026-04-25
 tags:
   - hub
   - place
@@ -40,4 +40,4 @@ tags:
 - [[medical-training]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-23 at 11:51 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-25 at 04:01 UTC*
