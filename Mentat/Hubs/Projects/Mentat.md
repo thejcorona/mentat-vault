@@ -1,8 +1,8 @@
 ---
 entity: Mentat
 type: project
-memory_count: 38
-last_updated: 2026-04-23
+memory_count: 39
+last_updated: 2026-04-25
 tags:
   - hub
   - project
@@ -10,8 +10,12 @@ tags:
 
 # Mentat
 
-*Project · 38 memories*
+*Project · 39 memories*
 
+
+## Identity
+
+- **2026-04-25** — Jackson's systematic approach to overwhelming workload: prioritizes operational/foundational items (database verification, reference accuracy, methodological definitions) before polishing presentation
 
 ## Project
 
@@ -85,4 +89,4 @@ tags:
 - [[March 26]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-23 at 12:42 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-25 at 04:01 UTC*
