@@ -2,7 +2,7 @@
 entity: University of Tasmania
 type: place
 memory_count: 4
-last_updated: 2026-04-22
+last_updated: 2026-04-25
 tags:
   - hub
   - place
@@ -34,4 +34,4 @@ tags:
 - [[UTAS]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-22 at 05:39 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-25 at 23:08 UTC*
