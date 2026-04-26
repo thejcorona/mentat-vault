@@ -1,7 +1,7 @@
 ---
 entity: Mentat
 type: tool
-memory_count: 49
+memory_count: 50
 last_updated: 2026-04-26
 tags:
   - hub
@@ -10,7 +10,7 @@ tags:
 
 # Mentat
 
-*Tool · 49 memories*
+*Tool · 50 memories*
 
 
 ## Identity
@@ -41,6 +41,7 @@ tags:
 - **2026-04-21** — Jackson uploaded a working document for his HER2+ metastatic breast cancer posterior fossa radiotherapy study. The document is now stored in Mentat for reference and iteration. Document includes metho → [[2026-04-21-13-33-58-Jackson-uploaded-a-working-document-for-his-HER2]]
 - **2026-04-23** — Jackson created a drug flashcard UI component for prescribing exam prep — 50 drugs organized by category (analgesics, antibiotics, cardiovascular, respiratory, endocrine, GI, psychiatry/neurology) wit → [[2026-04-23-11-33-07-Jackson-created-a-drug-flashcard-UI-component-for]]
 - **2026-04-22** — Jackson is completing medical school logbook entries for radiation oncology cases as part of final year documentation at University of Tasmania School of Medicine. He requires concise (250 words max), → [[2026-04-22-06-33-08-Jackson-is-completing-medical-school-logbook-entri]]
+- **2026-04-26** — Uploaded case presentation document: Case presentation J Corona Gensurg V2.pptx — file type not supported for text extraction by Mentat. Document exists but content has not been indexed.
 - **2026-04-23** — Jackson requested Mentat to rebuild his prescribing exam reference as a top 50 drugs table (down from 100). Table organized by category with standard adult doses and clinical indications for Australia → [[2026-04-23-11-26-04-Jackson-requested-Mentat-to-rebuild-his-prescribin]]
 
 ## Preference
@@ -96,4 +97,4 @@ tags:
 - [[Lumra cEDH combo document]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-26 at 05:36 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-26 at 05:45 UTC*
