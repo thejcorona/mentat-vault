@@ -1,8 +1,8 @@
 ---
 entity: University of Tasmania School of Medicine
 type: place
-memory_count: 12
-last_updated: 2026-04-25
+memory_count: 13
+last_updated: 2026-04-26
 tags:
   - hub
   - place
@@ -10,7 +10,7 @@ tags:
 
 # University of Tasmania School of Medicine
 
-*Place · 12 memories*
+*Place · 13 memories*
 
 
 ## Identity
@@ -27,6 +27,7 @@ tags:
 
 ## Project
 
+- **2026-04-26** — Jackson is completing a reflective assessment for medical school using SOLO taxonomy Level 4/5 work. The framework has three parts: (1) describing a stimulus event/topic with clear logical sequencing, → [[2026-04-26-05-35-18-Jackson-is-completing-a-reflective-assessment-for]]
 - **2026-04-22** — Jackson is completing medical school logbook entries for two radiation oncology cases: (1) 52F with petrous meningioma presenting with CN4 and CN7 palsies, diplopia, and horizontal midline nystagmus d → [[2026-04-22-05-19-44-Jackson-is-completing-medical-school-logbook-entri]]
 - **2026-04-22** — Jackson is completing medical school logbook entries for radiation oncology cases as part of final year documentation at University of Tasmania School of Medicine. He requires concise (250 words max), → [[2026-04-22-06-33-08-Jackson-is-completing-medical-school-logbook-entri]]
 
@@ -53,4 +54,4 @@ tags:
 - [[Magic: The Gathering]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-25 at 23:08 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-26 at 05:36 UTC*
