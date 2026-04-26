@@ -2,7 +2,7 @@
 entity: Mentat
 type: tool
 memory_count: 49
-last_updated: 2026-04-25
+last_updated: 2026-04-26
 tags:
   - hub
   - tool
@@ -96,4 +96,4 @@ tags:
 - [[Lumra cEDH combo document]] *(1)*
 
 ---
-*Auto-maintained by Mentat · last updated 2026-04-25 at 23:08 UTC*
+*Auto-maintained by Mentat · last updated 2026-04-26 at 05:36 UTC*
